@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@dchighs/dbgames": "^0.1.3",
+    "@dchighs/dc-localization": "^0.0.6",
+    "@marcuth/random": "^0.1.0",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "name": "@dchighs/open-datasets",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dbgames:scrape": "ts-node ./src/dbgames/scrape.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DC-Highs/open-datasets.git"
+  },
+  "keywords": [],
+  "author": "Marcuth",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DC-Highs/open-datasets/issues"
+  },
+  "homepage": "https://github.com/DC-Highs/open-datasets#readme"
+}
