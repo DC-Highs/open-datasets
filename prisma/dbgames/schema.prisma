@@ -1,0 +1,37 @@
+// prisma/dbgames/schema.prisma
+// Esse schema é independente e gera um client na pasta do src/generated.
+// Para executar os comandos: npm run prisma:dbgames:generate, etc.
+
+generator client {
+    provider = "prisma-client"
+    output   = "../../src/generated/dbgames-client"
+}
+
+datasource db {
+    provider = "sqlite"
+}
+
+model Dragon {
+    id                Int      @id
+    name              String
+    name_key          String?
+    group_type        String?
+    hatching_time     Int?
+    breeding_time     Int?
+    description       String?
+    description_key   String?
+    xp                Int?
+    starting_coins    Int?
+    coins_added       Int?
+    dragon_rarity     String?
+    attributes        String?  // Elements, comma separated
+    img_name          String?
+    page_url          String
+    attacks           String?  // JSON stringified 
+    trainable_attacks String?  // JSON stringified 
+    isFullData        Boolean  @default(false)
+    createdAt         DateTime @default(now())
+    updatedAt         DateTime @updatedAt
+
+    @@map("dragons")
+}

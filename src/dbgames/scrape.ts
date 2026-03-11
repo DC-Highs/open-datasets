@@ -54,7 +54,10 @@ async function scrapePreviewDragons(localization: Localization) {
     logger.info("Writing preview dragons to file")
 
     const outputFilePath = path.join(outputDir, "preview-dragons.json")
-    const dragonsData = dragons.map(dragon => dragon.data)
+    const dragonsData = dragons.map(dragon => ({
+        ...dragon.data,
+        page_url: dragon.meta.pageUrl
+    }))
 
     await fs.promises.writeFile(outputFilePath, JSON.stringify(dragonsData))
 
@@ -110,7 +113,11 @@ async function scrapeFullDataDragons(localization: Localization, dragons: Previe
     logger.info("Writing full data dragons to file")
 
     const outputFilePath = path.join(outputDir, "full-data-dragons.json")
-    const dragonsData = fullDataDragons.map(dragon => dragon.data)
+    
+    const dragonsData = fullDataDragons.map(dragon => ({
+        ...dragon.data,
+        page_url: dragon.meta.pageUrl
+    }))
 
     await fs.promises.writeFile(outputFilePath, JSON.stringify(dragonsData))
 

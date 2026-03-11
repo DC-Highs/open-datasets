@@ -1,0 +1,43 @@
+name: "Sync: Dbgames"
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Every day at 03:00 UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Generate Prisma Client
+        run: npm run prisma:dbgames:generate
+        env:
+          DBGAMES_DATABASE_URL: "file:./dbgames/data.sqlite3"
+
+      - name: Run Daily Sync
+        run: npm run dbgames:sync
+        env:
+          DBGAMES_DATABASE_URL: "file:./dbgames/data.sqlite3"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dbgames/json/full-data-dragons.json dbgames/data.sqlite3
+          git commit -m "chore: daily dragon data sync [skip ci]" || echo "No changes to commit"
+          git push
