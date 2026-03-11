@@ -3831,5 +3831,962 @@
     ],
     "img_name": "1048_dragon_gold_b",
     "page_url": "https://dbgames.info/dragoncity/dragons/Gold_Dragon"
+  },
+  {
+    "id": 1049,
+    "name": "Soccer Dragon",
+    "name_key": "tid_unit_1049_name",
+    "group_type": "DRAGON",
+    "hatching_time": 54000,
+    "breeding_time": 32400,
+    "description": "The ancestors of this dragon happened to make their home in a soccer stadium, and that's how it all started. The dragons began watching games and finally learned how to play themselves",
+    "description_key": "tid_unit_1049_description",
+    "xp": 5000,
+    "starting_coins": 5,
+    "coins_added": 3,
+    "dragon_rarity": "C",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 20,
+        "name": "Ice Spikes",
+        "name_key": "tid_attack_name_20",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 9,
+        "name": "Nuclear Hit",
+        "name_key": "tid_attack_name_9",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 21,
+        "name": "Snow Storm",
+        "name_key": "tid_attack_name_21",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "i",
+      "f"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 51,
+        "name": "Icy Wind",
+        "name_key": "tid_attack_name_51",
+        "type": "ice",
+        "element": "i",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 44,
+        "name": "Magma Storm",
+        "name_key": "tid_attack_name_44",
+        "type": "flame",
+        "element": "f",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 52,
+        "name": "Cryogenic Freeze",
+        "name_key": "tid_attack_name_52",
+        "type": "ice",
+        "element": "i",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1049_dragon_soccer_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Soccer_Dragon"
+  },
+  {
+    "id": 1050,
+    "name": "Platinum Dragon",
+    "name_key": "tid_unit_1050_name",
+    "group_type": "DRAGON",
+    "hatching_time": 54000,
+    "breeding_time": 32400,
+    "description": "A dragon of this magnitude certainly knows his worth. Platinum Dragon is generally known as the leader of the pack and isn't afraid to demonstrate his power",
+    "description_key": "tid_unit_1050_description",
+    "xp": 10000,
+    "starting_coins": 5,
+    "coins_added": 3,
+    "dragon_rarity": "C",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 29,
+        "name": "Magneto",
+        "name_key": "tid_attack_name_29",
+        "type": "metal",
+        "element": "m",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 21,
+        "name": "Snow Storm",
+        "name_key": "tid_attack_name_21",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "m",
+      "i"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 57,
+        "name": "Cannon Balls",
+        "name_key": "tid_attack_name_57",
+        "type": "metal",
+        "element": "m",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 51,
+        "name": "Icy Wind",
+        "name_key": "tid_attack_name_51",
+        "type": "ice",
+        "element": "i",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1050_dragon_platinum_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Platinum_Dragon"
+  },
+  {
+    "id": 1051,
+    "name": "Pirate Dragon",
+    "name_key": "tid_unit_1051_name",
+    "group_type": "DRAGON",
+    "hatching_time": 64800,
+    "breeding_time": 43200,
+    "description": "Ahoy, dragon lovers! This very special dragon will be a crown jewel in your dragon collection. Get ready for some reckless sea adventures and hop on board!",
+    "description_key": "tid_unit_1051_description",
+    "xp": 200000,
+    "starting_coins": 8,
+    "coins_added": 5,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 26,
+        "name": "Leech",
+        "name_key": "tid_attack_name_26",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 18,
+        "name": "Storm",
+        "name_key": "tid_attack_name_18",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 27,
+        "name": "Ghost Cloud",
+        "name_key": "tid_attack_name_27",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "d",
+      "w"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 55,
+        "name": "The Grim Reaper",
+        "name_key": "tid_attack_name_55",
+        "type": "dark",
+        "element": "d",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 49,
+        "name": "Acid Rain",
+        "name_key": "tid_attack_name_49",
+        "type": "sea",
+        "element": "w",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": null,
+        "name": "Black Hole",
+        "name_key": "tid_tt_blackvoidteaser",
+        "type": "dark",
+        "element": "d",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1051_dragon_pirate_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Pirate_Dragon"
+  },
+  {
+    "id": 1052,
+    "name": "Crystal Dragon",
+    "name_key": "tid_unit_1052_name",
+    "group_type": "DRAGON",
+    "hatching_time": 208800,
+    "breeding_time": 180000,
+    "description": "If you like shiny, valuable things, you’ll love the Crystal Dragon! She’s very rare and only shows herself when the planets are appropriately aligned. You'll be lucky to see her! Breed Pure dragons to get Legend ones",
+    "description_key": "tid_unit_1052_description",
+    "xp": 432000,
+    "starting_coins": 32,
+    "coins_added": 21,
+    "dragon_rarity": "L",
+    "attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 31,
+        "name": "Legendary Wind",
+        "name_key": "tid_attack_name_31",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 32,
+        "name": "Paralyzing Spell",
+        "name_key": "tid_attack_name_32",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 33,
+        "name": "Rainbow",
+        "name_key": "tid_attack_name_33",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "l"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 204,
+        "name": "Legend Spell+",
+        "name_key": "tid_attack_name_204",
+        "type": "legend",
+        "element": "l",
+        "training_time": 172800,
+        "ui_damage": 2600
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 59,
+        "name": "Aurora Borealis",
+        "name_key": "tid_attack_name_59",
+        "type": "legend",
+        "element": "l",
+        "training_time": 86400,
+        "ui_damage": 2100
+      },
+      {
+        "id": 60,
+        "name": "Legend Spell",
+        "name_key": "tid_attack_name_60",
+        "type": "legend",
+        "element": "l",
+        "training_time": 172800,
+        "ui_damage": 2300
+      }
+    ],
+    "img_name": "1052_dragon_crystal_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Crystal_Dragon"
+  },
+  {
+    "id": 1053,
+    "name": "Air Dragon",
+    "name_key": "tid_unit_1053_name",
+    "group_type": "DRAGON",
+    "hatching_time": 208800,
+    "breeding_time": 180000,
+    "description": "Famous for her flying skills, this dragon can float for hours and hours without ever moving a wing. She's a master of the currents, and some witnesses say that she even changes color according to the weather! Breed Pure dragons to get Legend ones",
+    "description_key": "tid_unit_1053_description",
+    "xp": 432000,
+    "starting_coins": 32,
+    "coins_added": 21,
+    "dragon_rarity": "L",
+    "attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 31,
+        "name": "Legendary Wind",
+        "name_key": "tid_attack_name_31",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 32,
+        "name": "Paralyzing Spell",
+        "name_key": "tid_attack_name_32",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      }
+    ],
+    "attributes": [
+      "l"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 204,
+        "name": "Legend Spell+",
+        "name_key": "tid_attack_name_204",
+        "type": "legend",
+        "element": "l",
+        "training_time": 172800,
+        "ui_damage": 2600
+      },
+      {
+        "id": 33,
+        "name": "Rainbow",
+        "name_key": "tid_attack_name_33",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 59,
+        "name": "Aurora Borealis",
+        "name_key": "tid_attack_name_59",
+        "type": "legend",
+        "element": "l",
+        "training_time": 86400,
+        "ui_damage": 2100
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      }
+    ],
+    "img_name": "1053_dragon_wind_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Air_Dragon"
+  },
+  {
+    "id": 1054,
+    "name": "Mirror Dragon",
+    "name_key": "tid_unit_1054_name",
+    "group_type": "DRAGON",
+    "hatching_time": 208800,
+    "breeding_time": 180000,
+    "description": "Do you like admiring yourself in the mirror? Then the Mirror Dragon will be your new best friend! Some people say that you can catch a glimpse of the future reflected in this dragon. Breed Pure dragons to get Legend ones",
+    "description_key": "tid_unit_1054_description",
+    "xp": 432000,
+    "starting_coins": 32,
+    "coins_added": 21,
+    "dragon_rarity": "L",
+    "attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 31,
+        "name": "Legendary Wind",
+        "name_key": "tid_attack_name_31",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 33,
+        "name": "Rainbow",
+        "name_key": "tid_attack_name_33",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      }
+    ],
+    "attributes": [
+      "l"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 204,
+        "name": "Legend Spell+",
+        "name_key": "tid_attack_name_204",
+        "type": "legend",
+        "element": "l",
+        "training_time": 172800,
+        "ui_damage": 2600
+      },
+      {
+        "id": 32,
+        "name": "Paralyzing Spell",
+        "name_key": "tid_attack_name_32",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 59,
+        "name": "Aurora Borealis",
+        "name_key": "tid_attack_name_59",
+        "type": "legend",
+        "element": "l",
+        "training_time": 86400,
+        "ui_damage": 2100
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      }
+    ],
+    "img_name": "1054_dragon_mirror_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Mirror_Dragon"
+  },
+  {
+    "id": 1055,
+    "name": "Coral Dragon",
+    "name_key": "tid_unit_1055_name",
+    "group_type": "DRAGON",
+    "hatching_time": 54000,
+    "breeding_time": 32400,
+    "description": "The Coral Dragon reflects that which is most beautiful underwater. The colorful gardens of the abyss are more magnificent than you could ever imagine. This dragon is a treasure!",
+    "description_key": "tid_unit_1055_description",
+    "xp": 5000,
+    "starting_coins": 12,
+    "coins_added": 8,
+    "dragon_rarity": "C",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 17,
+        "name": "Flooding",
+        "name_key": "tid_attack_name_17",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 12,
+        "name": "Leaf Blast",
+        "name_key": "tid_attack_name_12",
+        "type": "nature",
+        "element": "p",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "p",
+      "w"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 18,
+        "name": "Storm",
+        "name_key": "tid_attack_name_18",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 46,
+        "name": "Beehive",
+        "name_key": "tid_attack_name_46",
+        "type": "nature",
+        "element": "p",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1055_dragon_coral_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Coral_Dragon"
+  },
+  {
+    "id": 1056,
+    "name": "Spicy Dragon",
+    "name_key": "tid_unit_1056_name",
+    "group_type": "DRAGON",
+    "hatching_time": 46800,
+    "breeding_time": 25200,
+    "description": "Spice up your island kingdom with this temperamental fellow. The Spicy Dragon is known for his excessive use of colorful language and passion for Mexican food",
+    "description_key": "tid_unit_1056_description",
+    "xp": 5000,
+    "starting_coins": 9,
+    "coins_added": 6,
+    "dragon_rarity": "C",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 7,
+        "name": "Lava Balls",
+        "name_key": "tid_attack_name_7",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 11,
+        "name": "Poison Ivy",
+        "name_key": "tid_attack_name_11",
+        "type": "nature",
+        "element": "p",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      }
+    ],
+    "attributes": [
+      "f",
+      "p"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 9,
+        "name": "Nuclear Hit",
+        "name_key": "tid_attack_name_9",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 45,
+        "name": "Rotting Spell",
+        "name_key": "tid_attack_name_45",
+        "type": "nature",
+        "element": "p",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      }
+    ],
+    "img_name": "1056_dragon_chili_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Spicy_Dragon"
+  },
+  {
+    "id": 1057,
+    "name": "Waterfall Dragon",
+    "name_key": "tid_unit_1057_name",
+    "group_type": "DRAGON",
+    "hatching_time": 14400,
+    "breeding_time": 14400,
+    "description": "This dragon is an absolute wonder! Where does the water come from and where is it going? Who knows? It's still mesmerizing to watch",
+    "description_key": "tid_unit_1057_description",
+    "xp": 1000,
+    "starting_coins": 10,
+    "coins_added": 7,
+    "dragon_rarity": "C",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 13,
+        "name": "Earthquake",
+        "name_key": "tid_attack_name_13",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 18,
+        "name": "Storm",
+        "name_key": "tid_attack_name_18",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "e",
+      "w"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 49,
+        "name": "Acid Rain",
+        "name_key": "tid_attack_name_49",
+        "type": "sea",
+        "element": "w",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1057_dragon_waterfall_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Waterfall_Dragon"
+  },
+  {
+    "id": 1058,
+    "name": "Cactus Dragon",
+    "name_key": "tid_unit_1058_name",
+    "group_type": "DRAGON",
+    "hatching_time": 32400,
+    "breeding_time": 25200,
+    "description": "The Cactus Dragon loves to cuddle! What a shame that she’s covered in thorns. If you still find her charming despite the risk of getting pricked, put your gloves on and give her a hug!",
+    "description_key": "tid_unit_1058_description",
+    "xp": 5000,
+    "starting_coins": 10,
+    "coins_added": 7,
+    "dragon_rarity": "C",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 14,
+        "name": "Meteor Shower",
+        "name_key": "tid_attack_name_14",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 12,
+        "name": "Leaf Blast",
+        "name_key": "tid_attack_name_12",
+        "type": "nature",
+        "element": "p",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "e",
+      "p"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 46,
+        "name": "Beehive",
+        "name_key": "tid_attack_name_46",
+        "type": "nature",
+        "element": "p",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1058_dragon_cactus_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Cactus_Dragon"
   }
 ]
