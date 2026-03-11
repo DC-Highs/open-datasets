@@ -37,10 +37,8 @@ jobs:
           DBGAMES_DATABASE_URL: "file:./dbgames/data.sqlite3"
 
       - name: Commit and Push Changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add dbgames/json/full-data-dragons.json dbgames/data.sqlite3
-          git commit -m "chore: daily dragon data sync [skip ci]" || echo "No changes to commit"
-          git pull --rebase origin master
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: daily dragon data sync [skip ci]"
+          file_pattern: 'dbgames/json/full-data-dragons.json dbgames/data.sqlite3'
+          branch: master
