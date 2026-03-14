@@ -6708,5 +6708,964 @@
     ],
     "img_name": "1078_dragon_ice_pure_b",
     "page_url": "https://dbgames.info/dragoncity/dragons/Pure_Ice_Dragon"
+  },
+  {
+    "id": 1079,
+    "name": "Pure Metal Dragon",
+    "name_key": "tid_unit_1079_name",
+    "group_type": "DRAGON",
+    "hatching_time": 187200,
+    "breeding_time": 158400,
+    "description": "This highly evolved Pure Metal Dragon consists of a mix of metals still unknown to man. Hes incredibly durable and can take any heat without melting",
+    "description_key": "tid_unit_1079_description",
+    "xp": 384000,
+    "starting_coins": 26,
+    "coins_added": 17,
+    "dragon_rarity": "E",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 30,
+        "name": "Rust",
+        "name_key": "tid_attack_name_30",
+        "type": "metal",
+        "element": "m",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 57,
+        "name": "Cannon Balls",
+        "name_key": "tid_attack_name_57",
+        "type": "metal",
+        "element": "m",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "attributes": [
+      "pu",
+      "m"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 162,
+        "name": "Ninja Stars+",
+        "name_key": "tid_attack_name_162",
+        "type": "metal",
+        "element": "m",
+        "training_time": 172800,
+        "ui_damage": 1950
+      },
+      {
+        "id": 58,
+        "name": "Ninja Stars",
+        "name_key": "tid_attack_name_58",
+        "type": "metal",
+        "element": "m",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 63,
+        "name": "Pure Light",
+        "name_key": "tid_attack_name_63",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 1500
+      }
+    ],
+    "img_name": "1079_dragon_metal_pure_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Pure_Metal_Dragon"
+  },
+  {
+    "id": 1080,
+    "name": "Pure Dark Dragon",
+    "name_key": "tid_unit_1080_name",
+    "group_type": "DRAGON",
+    "hatching_time": 187200,
+    "breeding_time": 158400,
+    "description": "Darkness has now doubled! Two evil brains to plot some sinister plans and four observing eyes to see even better in the twilight zone",
+    "description_key": "tid_unit_1080_description",
+    "xp": 384000,
+    "starting_coins": 26,
+    "coins_added": 17,
+    "dragon_rarity": "E",
+    "attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 26,
+        "name": "Leech",
+        "name_key": "tid_attack_name_26",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 55,
+        "name": "The Grim Reaper",
+        "name_key": "tid_attack_name_55",
+        "type": "dark",
+        "element": "d",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "attributes": [
+      "pu",
+      "d"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 164,
+        "name": "Black Hole+",
+        "name_key": "tid_attack_name_164",
+        "type": "dark",
+        "element": "d",
+        "training_time": 172800,
+        "ui_damage": 1950
+      },
+      {
+        "id": null,
+        "name": "Black Hole",
+        "name_key": "tid_tt_blackvoidteaser",
+        "type": "dark",
+        "element": "d",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 63,
+        "name": "Pure Light",
+        "name_key": "tid_attack_name_63",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 1500
+      }
+    ],
+    "img_name": "1080_dragon_dark_pure_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Pure_Dark_Dragon"
+  },
+  {
+    "id": 1081,
+    "name": "Pure Dragon",
+    "name_key": "tid_unit_1081_name",
+    "group_type": "DRAGON",
+    "hatching_time": 54000,
+    "breeding_time": 32400,
+    "description": "Can you imagine a creature so pure that he almost makes you blind with the light of his purity? Our earthly words fail to do the Pure Dragon justice, so you'd better get to know him in person!",
+    "description_key": "tid_unit_1081_description",
+    "xp": 336000,
+    "starting_coins": 24,
+    "coins_added": 16,
+    "dragon_rarity": "E",
+    "attacks": [
+      {
+        "id": 7,
+        "name": "Lava Balls",
+        "name_key": "tid_attack_name_7",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 61,
+        "name": "Hypnosis",
+        "name_key": "tid_attack_name_61",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 86400,
+        "ui_damage": 1500
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 62,
+        "name": "Pure Energy",
+        "name_key": "tid_attack_name_62",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 1500
+      }
+    ],
+    "attributes": [
+      "pu"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 191,
+        "name": "Pure Energy+",
+        "name_key": "tid_attack_name_191",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 2100
+      },
+      {
+        "id": 63,
+        "name": "Pure Light",
+        "name_key": "tid_attack_name_63",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 1500
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 63,
+        "name": "Pure Light",
+        "name_key": "tid_attack_name_63",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 1500
+      }
+    ],
+    "img_name": "1081_dragon_pure_d",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Pure_Dragon"
+  },
+  {
+    "id": 1082,
+    "name": "Paladin Dragon",
+    "name_key": "tid_unit_1082_name",
+    "group_type": "DRAGON",
+    "hatching_time": 54000,
+    "breeding_time": 32400,
+    "description": "The Paladin is a dragon made of epic adventures, noble deeds, and magical powers. He's one of the most well-behaved dragons of all time, yet has a peculiar weakness for hot dogs!",
+    "description_key": "tid_unit_1082_description",
+    "xp": 50,
+    "starting_coins": 7,
+    "coins_added": 5,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 14,
+        "name": "Meteor Shower",
+        "name_key": "tid_attack_name_14",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 24,
+        "name": "Electric Shock",
+        "name_key": "tid_attack_name_24",
+        "type": "electric",
+        "element": "el",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "el",
+      "e"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 53,
+        "name": "Electro Ball",
+        "name_key": "tid_attack_name_53",
+        "type": "electric",
+        "element": "el",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1082_dragon_paladin_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Paladin_Dragon"
+  },
+  {
+    "id": 1083,
+    "name": "Fossil Dragon",
+    "name_key": "tid_unit_1083_name",
+    "group_type": "DRAGON",
+    "hatching_time": 86400,
+    "breeding_time": 57600,
+    "description": "Breeding hint: Use level 15 or higher dragons\n\nThe unique quality of the Fossil Dragon is that he can be trapped in ice for centuries and yet fly away as agile as an eagle when the ice melts. This dragon has a lot of stories to tell",
+    "description_key": "tid_unit_1083_description",
+    "xp": 50000,
+    "starting_coins": 11,
+    "coins_added": 7,
+    "dragon_rarity": "C",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 26,
+        "name": "Leech",
+        "name_key": "tid_attack_name_26",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 21,
+        "name": "Snow Storm",
+        "name_key": "tid_attack_name_21",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "d",
+      "i"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 27,
+        "name": "Ghost Cloud",
+        "name_key": "tid_attack_name_27",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 51,
+        "name": "Icy Wind",
+        "name_key": "tid_attack_name_51",
+        "type": "ice",
+        "element": "i",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1083_dragon_fossil_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Fossil_Dragon"
+  },
+  {
+    "id": 1084,
+    "name": "Seahorse Dragon",
+    "name_key": "tid_unit_1084_name",
+    "group_type": "DRAGON",
+    "hatching_time": 86400,
+    "breeding_time": 57600,
+    "description": "Breeding hint: Use level 10 or higher dragons\n\nThis happy-go-lucky dragon adores the beach life and the sun! You can find him at all major surfing spots around the world, splashing in the waves and bringing smiles to the faces of all creatures",
+    "description_key": "tid_unit_1084_description",
+    "xp": 50000,
+    "starting_coins": 10,
+    "coins_added": 7,
+    "dragon_rarity": "C",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 17,
+        "name": "Flooding",
+        "name_key": "tid_attack_name_17",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 12,
+        "name": "Leaf Blast",
+        "name_key": "tid_attack_name_12",
+        "type": "nature",
+        "element": "p",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "w",
+      "p"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 18,
+        "name": "Storm",
+        "name_key": "tid_attack_name_18",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 45,
+        "name": "Rotting Spell",
+        "name_key": "tid_attack_name_45",
+        "type": "nature",
+        "element": "p",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1084_dragon_seahorse_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Seahorse_Dragon"
+  },
+  {
+    "id": 1085,
+    "name": "Sky Dragon",
+    "name_key": "tid_unit_1085_name",
+    "group_type": "DRAGON",
+    "hatching_time": 86400,
+    "breeding_time": 57600,
+    "description": "Breeding hint: Use level 10 or higher dragons\n\nThis dragon is as mysterious as it gets! He's a whisper in the air, a light September breeze on your cheek, a hint of a shadow disappearing before your eyes... Catch him if you can",
+    "description_key": "tid_unit_1085_description",
+    "xp": 50000,
+    "starting_coins": 10,
+    "coins_added": 7,
+    "dragon_rarity": "C",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 14,
+        "name": "Meteor Shower",
+        "name_key": "tid_attack_name_14",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 24,
+        "name": "Electric Shock",
+        "name_key": "tid_attack_name_24",
+        "type": "electric",
+        "element": "el",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "e",
+      "el"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 53,
+        "name": "Electro Ball",
+        "name_key": "tid_attack_name_53",
+        "type": "electric",
+        "element": "el",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1085_dragon_air_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Sky_Dragon"
+  },
+  {
+    "id": 1086,
+    "name": "Bat Dragon",
+    "name_key": "tid_unit_1086_name",
+    "group_type": "DRAGON",
+    "hatching_time": 86400,
+    "breeding_time": 57600,
+    "description": "Breeding hint: Use level 15 or higher dragons\n\nDescended from bats, this dragon has many special talents. She is an amazingly agile flyer and can eat up to 1000 orcs per hour. Adopt her to keep your neighborhood clean!!",
+    "description_key": "tid_unit_1086_description",
+    "xp": 100000,
+    "starting_coins": 10,
+    "coins_added": 7,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 14,
+        "name": "Meteor Shower",
+        "name_key": "tid_attack_name_14",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 27,
+        "name": "Ghost Cloud",
+        "name_key": "tid_attack_name_27",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "d",
+      "e"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 47,
+        "name": "Asteroid",
+        "name_key": "tid_attack_name_47",
+        "type": "terra",
+        "element": "e",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 55,
+        "name": "The Grim Reaper",
+        "name_key": "tid_attack_name_55",
+        "type": "dark",
+        "element": "d",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1086_dragon_bat_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Bat_Dragon"
+  },
+  {
+    "id": 1087,
+    "name": "Aztec Dragon",
+    "name_key": "tid_unit_1087_name",
+    "group_type": "DRAGON",
+    "hatching_time": 120,
+    "breeding_time": 57600,
+    "description": "Breeding hint: Use level 15 or higher dragons\n\nComing from deep in the jungle, where his mysterious civilization has dwelled undisturbed for millennia, this rare dragon’s wisdom is sought after by sages far and wide",
+    "description_key": "tid_unit_1087_description",
+    "xp": 150,
+    "starting_coins": 11,
+    "coins_added": 7,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 8,
+        "name": "Flaming Arrows",
+        "name_key": "tid_attack_name_8",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "e",
+      "f"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 9,
+        "name": "Nuclear Hit",
+        "name_key": "tid_attack_name_9",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 47,
+        "name": "Asteroid",
+        "name_key": "tid_attack_name_47",
+        "type": "terra",
+        "element": "e",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1087_dragon_aztec_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Aztec_Dragon"
+  },
+  {
+    "id": 1088,
+    "name": "Chinese Dragon",
+    "name_key": "tid_unit_1088_name",
+    "group_type": "DRAGON",
+    "hatching_time": 54000,
+    "breeding_time": 32400,
+    "description": "This dragon has always been close to the Emperor of China and some even say that he might be the true holder of the imperial power. He brings you good luck, prosperity, and wisdom",
+    "description_key": "tid_unit_1088_description",
+    "xp": 30000,
+    "starting_coins": 9,
+    "coins_added": 6,
+    "dragon_rarity": "C",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 14,
+        "name": "Meteor Shower",
+        "name_key": "tid_attack_name_14",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 9,
+        "name": "Nuclear Hit",
+        "name_key": "tid_attack_name_9",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "f",
+      "e"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 43,
+        "name": "Flamethrower",
+        "name_key": "tid_attack_name_43",
+        "type": "flame",
+        "element": "f",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1088_dragon_chinese_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Chinese_Dragon"
   }
 ]
