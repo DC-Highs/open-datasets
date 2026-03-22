@@ -13921,5 +13921,388 @@
     ],
     "img_name": "1157_dragon_atlas_b",
     "page_url": "https://dbgames.info/dragoncity/dragons/Atlas_Dragon"
+  },
+  {
+    "id": 1163,
+    "name": "War Dragon",
+    "name_key": "tid_unit_1163_name",
+    "group_type": "DRAGON",
+    "hatching_time": 25200,
+    "breeding_time": 18000,
+    "description": "Every empire in history has feared the huge War Dragon. He destroys everything in his path, including buildings, bridges, other dragons... and his enemies' morale",
+    "description_key": "tid_unit_1163_description",
+    "xp": 240000,
+    "starting_coins": 16,
+    "coins_added": 11,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 37,
+        "name": "Giant Crack",
+        "name_key": "tid_attack_name_37",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 638
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 38,
+        "name": "Giant Mouth",
+        "name_key": "tid_attack_name_38",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 975
+      }
+    ],
+    "attributes": [
+      "wr"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 67,
+        "name": "War Fist",
+        "name_key": "tid_attack_name_67",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1500
+      }
+    ],
+    "img_name": "1163_dragon_war",
+    "page_url": "https://dbgames.info/dragoncity/dragons/War_Dragon"
+  },
+  {
+    "id": 1164,
+    "name": "Juggernaut Dragon",
+    "name_key": "tid_unit_1164_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "The Juggernaut Dragon has been in every possible battle since the beginning of time, and he still wants more! Each scratch on his body corresponds to a dragon defeated in battle. Or maybe they come from his pet kitten!",
+    "description_key": "tid_unit_1164_description",
+    "xp": 288000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 38,
+        "name": "Giant Mouth",
+        "name_key": "tid_attack_name_38",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 975
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 9,
+        "name": "Nuclear Hit",
+        "name_key": "tid_attack_name_9",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "wr",
+      "f"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 112,
+        "name": "Flamethrower+",
+        "name_key": "tid_attack_name_112",
+        "type": "flame",
+        "element": "f",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 44,
+        "name": "Magma Storm",
+        "name_key": "tid_attack_name_44",
+        "type": "flame",
+        "element": "f",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1164_dragon_juggernaut",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Juggernaut_Dragon"
+  },
+  {
+    "id": 1165,
+    "name": "Colossal Dragon",
+    "name_key": "tid_unit_1165_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "It’s hard not to be impressed by the size of this dragon. From far away, he looks big. As he gets closer, he becomes huge. And when you see him up close, he's totally colossal",
+    "description_key": "tid_unit_1165_description",
+    "xp": 288000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 39,
+        "name": "Giant Claw",
+        "name_key": "tid_attack_name_39",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1050
+      },
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 13,
+        "name": "Earthquake",
+        "name_key": "tid_attack_name_13",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "wr",
+      "e"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 103,
+        "name": "Asteroid+",
+        "name_key": "tid_attack_name_103",
+        "type": "terra",
+        "element": "e",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 67,
+        "name": "War Fist",
+        "name_key": "tid_attack_name_67",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1500
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 48,
+        "name": "Sand Storm",
+        "name_key": "tid_attack_name_48",
+        "type": "terra",
+        "element": "e",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1165_dragon_colossal",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Colossal_Dragon"
+  },
+  {
+    "id": 1166,
+    "name": "Red Woods Dragon",
+    "name_key": "tid_unit_1166_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "The Redwoods contain the tallest trees and the tallest dragons. They are made of millenary wood, making them extremely resistant but prone to boredom — especially when they yawn for an entire month",
+    "description_key": "tid_unit_1166_description",
+    "xp": 288000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 1,
+        "name": "Punch",
+        "name_key": "tid_attack_name_1",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 338
+      },
+      {
+        "id": 38,
+        "name": "Giant Mouth",
+        "name_key": "tid_attack_name_38",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 975
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 12,
+        "name": "Leaf Blast",
+        "name_key": "tid_attack_name_12",
+        "type": "nature",
+        "element": "p",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "wr",
+      "p"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 130,
+        "name": "Rotting Spell+",
+        "name_key": "tid_attack_name_130",
+        "type": "nature",
+        "element": "p",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 46,
+        "name": "Beehive",
+        "name_key": "tid_attack_name_46",
+        "type": "nature",
+        "element": "p",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1166_dragon_redwoods",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Red_Woods_Dragon"
   }
 ]
