@@ -14304,5 +14304,387 @@
     ],
     "img_name": "1166_dragon_redwoods",
     "page_url": "https://dbgames.info/dragoncity/dragons/Red_Woods_Dragon"
+  },
+  {
+    "id": 1167,
+    "name": "Leviathan Dragon",
+    "name_key": "tid_unit_1167_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "This epic creature has inhabited the seas for eons, devouring entire civilizations as a snack. Do you dare to dive deep and discover the treasures he hides?",
+    "description_key": "tid_unit_1167_description",
+    "xp": 288000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 1,
+        "name": "Punch",
+        "name_key": "tid_attack_name_1",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 338
+      },
+      {
+        "id": 38,
+        "name": "Giant Mouth",
+        "name_key": "tid_attack_name_38",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 975
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 16,
+        "name": "Tsunami",
+        "name_key": "tid_attack_name_16",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "wr",
+      "w"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 121,
+        "name": "Acid Rain+",
+        "name_key": "tid_attack_name_121",
+        "type": "sea",
+        "element": "w",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 50,
+        "name": "Whirlpool",
+        "name_key": "tid_attack_name_50",
+        "type": "sea",
+        "element": "w",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1167_dragon_leviathan",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Leviathan_Dragon"
+  },
+  {
+    "id": 1168,
+    "name": "Panzer Dragon",
+    "name_key": "tid_unit_1168_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "For years, the Panzer Dragons were sent to the front lines during the epic dragon fights of the Second Age. Most of them are now retired and like long walks and even longer naps. But they still have the fighting spirit in them",
+    "description_key": "tid_unit_1168_description",
+    "xp": 288000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 28,
+        "name": "Nail Rain",
+        "name_key": "tid_attack_name_28",
+        "type": "metal",
+        "element": "m",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 39,
+        "name": "Giant Claw",
+        "name_key": "tid_attack_name_39",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1050
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 29,
+        "name": "Magneto",
+        "name_key": "tid_attack_name_29",
+        "type": "metal",
+        "element": "m",
+        "training_time": 43200,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "wr",
+      "m"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 157,
+        "name": "Cannon Balls+",
+        "name_key": "tid_attack_name_157",
+        "type": "metal",
+        "element": "m",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 67,
+        "name": "War Fist",
+        "name_key": "tid_attack_name_67",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1500
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 57,
+        "name": "Cannon Balls",
+        "name_key": "tid_attack_name_57",
+        "type": "metal",
+        "element": "m",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1168_dragon_panzer_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Panzer_Dragon"
+  },
+  {
+    "id": 1169,
+    "name": "Nirobi Dragon",
+    "name_key": "tid_unit_1169_name",
+    "group_type": "DRAGON",
+    "hatching_time": 208800,
+    "breeding_time": 180000,
+    "description": "Master of doom and darkness. Lord of all things creepy. His LinkedIn profile is totally impressive if you're looking for an expert on the dark side of things. Breed Pure dragons to get Legend ones",
+    "description_key": "tid_unit_1169_description",
+    "xp": 432000,
+    "starting_coins": 32,
+    "coins_added": 21,
+    "dragon_rarity": "L",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 32,
+        "name": "Paralyzing Spell",
+        "name_key": "tid_attack_name_32",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 33,
+        "name": "Rainbow",
+        "name_key": "tid_attack_name_33",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "l"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 204,
+        "name": "Legend Spell+",
+        "name_key": "tid_attack_name_204",
+        "type": "legend",
+        "element": "l",
+        "training_time": 172800,
+        "ui_damage": 2600
+      },
+      {
+        "id": 59,
+        "name": "Aurora Borealis",
+        "name_key": "tid_attack_name_59",
+        "type": "legend",
+        "element": "l",
+        "training_time": 86400,
+        "ui_damage": 2100
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 60,
+        "name": "Legend Spell",
+        "name_key": "tid_attack_name_60",
+        "type": "legend",
+        "element": "l",
+        "training_time": 172800,
+        "ui_damage": 2300
+      }
+    ],
+    "img_name": "1169_dragon_nirobi",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Nirobi_Dragon"
+  },
+  {
+    "id": 1170,
+    "name": "Droconos Dragon",
+    "name_key": "tid_unit_1170_name",
+    "group_type": "DRAGON",
+    "hatching_time": 208800,
+    "breeding_time": 180000,
+    "description": "Time is relative, everybody knows that. What most people don't know is that Droconos plays with time like a child plays with a ball. Déjà-vus are his favorite jokes. Breed Pure dragons to get the Legend ones",
+    "description_key": "tid_unit_1170_description",
+    "xp": 432000,
+    "starting_coins": 32,
+    "coins_added": 21,
+    "dragon_rarity": "L",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 31,
+        "name": "Legendary Wind",
+        "name_key": "tid_attack_name_31",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 33,
+        "name": "Rainbow",
+        "name_key": "tid_attack_name_33",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "l"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 204,
+        "name": "Legend Spell+",
+        "name_key": "tid_attack_name_204",
+        "type": "legend",
+        "element": "l",
+        "training_time": 172800,
+        "ui_damage": 2600
+      },
+      {
+        "id": 59,
+        "name": "Aurora Borealis",
+        "name_key": "tid_attack_name_59",
+        "type": "legend",
+        "element": "l",
+        "training_time": 86400,
+        "ui_damage": 2100
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 60,
+        "name": "Legend Spell",
+        "name_key": "tid_attack_name_60",
+        "type": "legend",
+        "element": "l",
+        "training_time": 172800,
+        "ui_damage": 2300
+      }
+    ],
+    "img_name": "1170_dragon_droconos_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Droconos_Dragon"
   }
 ]
