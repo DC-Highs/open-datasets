@@ -14686,5 +14686,389 @@
     ],
     "img_name": "1170_dragon_droconos_b",
     "page_url": "https://dbgames.info/dragoncity/dragons/Droconos_Dragon"
+  },
+  {
+    "id": 1171,
+    "name": "Monstrous Dragon",
+    "name_key": "tid_unit_1171_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "This classy monster comes from another dimension, a world full of Monster Legends! He crossed space and time to join the Dragon City inhabitants, where he feels really welcome",
+    "description_key": "tid_unit_1171_description",
+    "xp": 50,
+    "starting_coins": 10,
+    "coins_added": 7,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 18,
+        "name": "Storm",
+        "name_key": "tid_attack_name_18",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "w",
+      "e"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 49,
+        "name": "Acid Rain",
+        "name_key": "tid_attack_name_49",
+        "type": "sea",
+        "element": "w",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 48,
+        "name": "Sand Storm",
+        "name_key": "tid_attack_name_48",
+        "type": "terra",
+        "element": "e",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1171_dragon_monstruous_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Monstrous_Dragon"
+  },
+  {
+    "id": 1172,
+    "name": "Ivory Dragon",
+    "name_key": "tid_unit_1172_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "This majestic creature is the envy of all dragons. His skin is shiny, white ivory with filigrees of gold. It's as if an artist made a beautiful dragon sculpture which came to life!",
+    "description_key": "tid_unit_1172_description",
+    "xp": 30000,
+    "starting_coins": 10,
+    "coins_added": 7,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 14,
+        "name": "Meteor Shower",
+        "name_key": "tid_attack_name_14",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "e",
+      "pu"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 190,
+        "name": "Hypnosis+",
+        "name_key": "tid_attack_name_190",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 86400,
+        "ui_damage": 2100
+      },
+      {
+        "id": 48,
+        "name": "Sand Storm",
+        "name_key": "tid_attack_name_48",
+        "type": "terra",
+        "element": "e",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 63,
+        "name": "Pure Light",
+        "name_key": "tid_attack_name_63",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 1500
+      }
+    ],
+    "img_name": "1172_dragon_ivory_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Ivory_Dragon"
+  },
+  {
+    "id": 1173,
+    "name": "Moon Dragon",
+    "name_key": "tid_unit_1173_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "Have you ever seen a full moon? It happens once every 28 days. That is also the exact sleep cycle of the Moon Dragon, who wakes up really angry and then goes back to bed",
+    "description_key": "tid_unit_1173_description",
+    "xp": 30000,
+    "starting_coins": 10,
+    "coins_added": 7,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 1,
+        "name": "Punch",
+        "name_key": "tid_attack_name_1",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 338
+      },
+      {
+        "id": 14,
+        "name": "Meteor Shower",
+        "name_key": "tid_attack_name_14",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 21,
+        "name": "Snow Storm",
+        "name_key": "tid_attack_name_21",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "e",
+      "i"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 47,
+        "name": "Asteroid",
+        "name_key": "tid_attack_name_47",
+        "type": "terra",
+        "element": "e",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 52,
+        "name": "Cryogenic Freeze",
+        "name_key": "tid_attack_name_52",
+        "type": "ice",
+        "element": "i",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1173_dragon_moon_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Moon_Dragon"
+  },
+  {
+    "id": 1174,
+    "name": "Toxic Dragon",
+    "name_key": "tid_unit_1174_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "Be careful! It's toxic! This dragon has some strange eating habits. He loves to have some sulfur for breakfast and radioactive remains for lunch. But now he’s on a diet, so he only gets a couple of old batteries for dinner",
+    "description_key": "tid_unit_1174_description",
+    "xp": 30000,
+    "starting_coins": 10,
+    "coins_added": 7,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 23,
+        "name": "Laser Beam",
+        "name_key": "tid_attack_name_23",
+        "type": "electric",
+        "element": "el",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 26,
+        "name": "Leech",
+        "name_key": "tid_attack_name_26",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "el",
+      "d"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 53,
+        "name": "Electro Ball",
+        "name_key": "tid_attack_name_53",
+        "type": "electric",
+        "element": "el",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": null,
+        "name": "Black Hole",
+        "name_key": "tid_tt_blackvoidteaser",
+        "type": "dark",
+        "element": "d",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1174_dragon_toxic_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Toxic_Dragon"
   }
 ]
