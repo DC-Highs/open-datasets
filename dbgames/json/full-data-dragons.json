@@ -15455,5 +15455,293 @@
     ],
     "img_name": "1178_dragon_tribal_b",
     "page_url": "https://dbgames.info/dragoncity/dragons/Tribal_Dragon"
+  },
+  {
+    "id": 1179,
+    "name": "Origami Dragon",
+    "name_key": "tid_unit_1179_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "When Deus was a child, he liked creating origami. One day, he created a beautiful paper dragon and blew life into it. Since then, the Origami Dragon can be seen floating on thermal air currents high in the sky",
+    "description_key": "tid_unit_1179_description",
+    "xp": 30000,
+    "starting_coins": 10,
+    "coins_added": 7,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 1,
+        "name": "Punch",
+        "name_key": "tid_attack_name_1",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 338
+      },
+      {
+        "id": 11,
+        "name": "Poison Ivy",
+        "name_key": "tid_attack_name_11",
+        "type": "nature",
+        "element": "p",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "p",
+      "e"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 46,
+        "name": "Beehive",
+        "name_key": "tid_attack_name_46",
+        "type": "nature",
+        "element": "p",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 48,
+        "name": "Sand Storm",
+        "name_key": "tid_attack_name_48",
+        "type": "terra",
+        "element": "e",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1179_dragon_origami_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Origami_Dragon"
+  },
+  {
+    "id": 1181,
+    "name": "Night Wind Dragon",
+    "name_key": "tid_unit_1181_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "In the darkest nights, the Nightwind Dragon howls to the sky like a wolf. Your heart will freeze if you hear him!",
+    "description_key": "tid_unit_1181_description",
+    "xp": 288000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 19,
+        "name": "Frost Nova",
+        "name_key": "tid_attack_name_19",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 38,
+        "name": "Giant Mouth",
+        "name_key": "tid_attack_name_38",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 975
+      },
+      {
+        "id": 21,
+        "name": "Snow Storm",
+        "name_key": "tid_attack_name_21",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "wr",
+      "i"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 148,
+        "name": "Icy Wind+",
+        "name_key": "tid_attack_name_148",
+        "type": "ice",
+        "element": "i",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 52,
+        "name": "Cryogenic Freeze",
+        "name_key": "tid_attack_name_52",
+        "type": "ice",
+        "element": "i",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1181_dragon_nightwind",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Night_Wind_Dragon"
+  },
+  {
+    "id": 1182,
+    "name": "Thor Dragon",
+    "name_key": "tid_unit_1182_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "Thor is known for his mastery of war, along with his beloved six pack abs. He's loved battle for as long as he can remember and makes every fight a competition with his brother, Loki",
+    "description_key": "tid_unit_1182_description",
+    "xp": 30000,
+    "starting_coins": 14,
+    "coins_added": 9,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 37,
+        "name": "Giant Crack",
+        "name_key": "tid_attack_name_37",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 638
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 8,
+        "name": "Flaming Arrows",
+        "name_key": "tid_attack_name_8",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "wr",
+      "f"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 112,
+        "name": "Flamethrower+",
+        "name_key": "tid_attack_name_112",
+        "type": "flame",
+        "element": "f",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 67,
+        "name": "War Fist",
+        "name_key": "tid_attack_name_67",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1500
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 43,
+        "name": "Flamethrower",
+        "name_key": "tid_attack_name_43",
+        "type": "flame",
+        "element": "f",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1182_dragon_thor_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Thor_Dragon"
   }
 ]
