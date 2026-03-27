@@ -15743,5 +15743,198 @@
     ],
     "img_name": "1182_dragon_thor_c",
     "page_url": "https://dbgames.info/dragoncity/dragons/Thor_Dragon"
+  },
+  {
+    "id": 1183,
+    "name": "Loki Dragon",
+    "name_key": "tid_unit_1183_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "Loki has always been a clever and sharp warrior. Using his deadly, dark skills, he's able to defeat most of his enemies. There is only one thing he lacks that prevents him from being the perfect warrior: his brother's hammer!",
+    "description_key": "tid_unit_1183_description",
+    "xp": 30000,
+    "starting_coins": 16,
+    "coins_added": 11,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 37,
+        "name": "Giant Crack",
+        "name_key": "tid_attack_name_37",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 638
+      },
+      {
+        "id": 9,
+        "name": "Nuclear Hit",
+        "name_key": "tid_attack_name_9",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 26,
+        "name": "Leech",
+        "name_key": "tid_attack_name_26",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "wr",
+      "f",
+      "d"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 112,
+        "name": "Flamethrower+",
+        "name_key": "tid_attack_name_112",
+        "type": "flame",
+        "element": "f",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 67,
+        "name": "War Fist",
+        "name_key": "tid_attack_name_67",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1500
+      },
+      {
+        "id": 44,
+        "name": "Magma Storm",
+        "name_key": "tid_attack_name_44",
+        "type": "flame",
+        "element": "f",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 55,
+        "name": "The Grim Reaper",
+        "name_key": "tid_attack_name_55",
+        "type": "dark",
+        "element": "d",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1183_dragon_loki_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Loki_Dragon"
+  },
+  {
+    "id": 1185,
+    "name": "Fallen Angel Dragon",
+    "name_key": "tid_unit_1185_name",
+    "group_type": "DRAGON",
+    "hatching_time": 100800,
+    "breeding_time": 72000,
+    "description": "The Northern Myths tell us that this dragon was punished by Deus, who took away his angel status and condemned him to a life on Earth. But within two days, he was already having lots of fun in this new land, hanging out with the Visigoths",
+    "description_key": "tid_unit_1185_description",
+    "xp": 192000,
+    "starting_coins": 14,
+    "coins_added": 9,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 34,
+        "name": "Light Sword",
+        "name_key": "tid_attack_name_34",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 27,
+        "name": "Ghost Cloud",
+        "name_key": "tid_attack_name_27",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "li",
+      "d"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 35,
+        "name": "Light Prism",
+        "name_key": "tid_attack_name_35",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 750
+      },
+      {
+        "id": 55,
+        "name": "The Grim Reaper",
+        "name_key": "tid_attack_name_55",
+        "type": "dark",
+        "element": "d",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 36,
+        "name": "Light Star",
+        "name_key": "tid_attack_name_36",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1050
+      },
+      {
+        "id": 56,
+        "name": "Black Hole",
+        "name_key": "tid_attack_name_56",
+        "type": "dark",
+        "element": "d",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1185_dragon_fallenangel_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Fallen_Angel_Dragon"
   }
 ]
