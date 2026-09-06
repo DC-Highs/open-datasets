@@ -22,6 +22,7 @@
   "scripts": {
     "dbgames:scrape": "ts-node ./src/dbgames/scrape.ts",
     "dbgames:sync": "ts-node ./src/dbgames/sync.ts",
+    "sp-translations:sync": "ts-node ./src/sp-translations/sync.ts",
     "prisma:dbgames:generate": "prisma generate --config=prisma.dbgames.config.ts",
     "prisma:dbgames:push": "prisma db push --config=prisma.dbgames.config.ts",
     "prisma:dbgames:studio": "prisma studio --config=prisma.dbgames.config.ts"
