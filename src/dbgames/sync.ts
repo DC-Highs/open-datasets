@@ -88,7 +88,7 @@ async function main() {
                 isFullData: false,
                 ...(blacklistedIds.length > 0 ? { id: { notIn: blacklistedIds } } : {})
             },
-            take: 50,
+            take: 10,
             orderBy: { id: "asc" }
         })
 
