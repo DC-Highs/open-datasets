@@ -15936,5 +15936,965 @@
     ],
     "img_name": "1185_dragon_fallenangel_b",
     "page_url": "https://dbgames.info/dragoncity/dragons/Fallen_Angel_Dragon"
+  },
+  {
+    "id": 1140,
+    "name": "Archangel Dragon",
+    "name_key": "tid_unit_1140_name",
+    "group_type": "DRAGON",
+    "hatching_time": 25200,
+    "breeding_time": 18000,
+    "description": "Deus himself created the Archangel Dragon when he was a brave young god. When he needs something done, he chooses the Archangel Dragon for the job",
+    "description_key": "tid_unit_1140_description",
+    "xp": 144000,
+    "starting_coins": 12,
+    "coins_added": 8,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 1,
+        "name": "Punch",
+        "name_key": "tid_attack_name_1",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 338
+      },
+      {
+        "id": 35,
+        "name": "Light Prism",
+        "name_key": "tid_attack_name_35",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 750
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 34,
+        "name": "Light Sword",
+        "name_key": "tid_attack_name_34",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "li"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 64,
+        "name": "Enlightenment",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1200
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 65,
+        "name": "Out Of Time",
+        "name_key": "tid_attack_name_65",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1140_dragon_angel_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Archangel_Dragon"
+  },
+  {
+    "id": 1158,
+    "name": "Justice Dragon",
+    "name_key": "tid_unit_1158_name",
+    "group_type": "DRAGON",
+    "hatching_time": 100800,
+    "breeding_time": 72000,
+    "description": "If you feel that injustice has occurred, just call the Justice Dragon. His balanced judgment will decide what’s fair... and his sword will decide what’s not",
+    "description_key": "tid_unit_1158_description",
+    "xp": 192000,
+    "starting_coins": 14,
+    "coins_added": 9,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 34,
+        "name": "Light Sword",
+        "name_key": "tid_attack_name_34",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 13,
+        "name": "Earthquake",
+        "name_key": "tid_attack_name_13",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "li",
+      "e"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 64,
+        "name": "Enlightenment",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1200
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 47,
+        "name": "Asteroid",
+        "name_key": "tid_attack_name_47",
+        "type": "terra",
+        "element": "e",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1158_dragon_justice_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Justice_Dragon"
+  },
+  {
+    "id": 1159,
+    "name": "Sun Dragon",
+    "name_key": "tid_unit_1159_name",
+    "group_type": "DRAGON",
+    "hatching_time": 100800,
+    "breeding_time": 72000,
+    "description": "The Sun Dragon lives inside the solar corona. When there's a sun storm, you can see her dancing with the flares, just like a child splashing in a swimming pool",
+    "description_key": "tid_unit_1159_description",
+    "xp": 192000,
+    "starting_coins": 14,
+    "coins_added": 9,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 1,
+        "name": "Punch",
+        "name_key": "tid_attack_name_1",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 338
+      },
+      {
+        "id": 36,
+        "name": "Light Star",
+        "name_key": "tid_attack_name_36",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1050
+      },
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 9,
+        "name": "Nuclear Hit",
+        "name_key": "tid_attack_name_9",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "li",
+      "f"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 65,
+        "name": "Out Of Time",
+        "name_key": "tid_attack_name_65",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 44,
+        "name": "Magma Storm",
+        "name_key": "tid_attack_name_44",
+        "type": "flame",
+        "element": "f",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1159_dragon_sun_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Sun_Dragon"
+  },
+  {
+    "id": 1160,
+    "name": "Mater Natura Dragon",
+    "name_key": "tid_unit_1160_name",
+    "group_type": "DRAGON",
+    "hatching_time": 100800,
+    "breeding_time": 72000,
+    "description": "The Mater Natura Dragon is like a mother to all plant dragons. She has a gentle nature until she gets angry, just like all mothers",
+    "description_key": "tid_unit_1160_description",
+    "xp": 192000,
+    "starting_coins": 14,
+    "coins_added": 9,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 35,
+        "name": "Light Prism",
+        "name_key": "tid_attack_name_35",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 750
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 12,
+        "name": "Leaf Blast",
+        "name_key": "tid_attack_name_12",
+        "type": "nature",
+        "element": "p",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "li",
+      "p"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 64,
+        "name": "Enlightenment",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1200
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 46,
+        "name": "Beehive",
+        "name_key": "tid_attack_name_46",
+        "type": "nature",
+        "element": "p",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1160_dragon_gaia_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Mater_Natura_Dragon"
+  },
+  {
+    "id": 1161,
+    "name": "Luminescent Dragon",
+    "name_key": "tid_unit_1161_name",
+    "group_type": "DRAGON",
+    "hatching_time": 100800,
+    "breeding_time": 72000,
+    "description": "Deep under the sea where the Luminescent Dragon lives it can get pretty dark! He survives this total darkness by providing his own light, which he uses for hunting and disco parties - two totally related things",
+    "description_key": "tid_unit_1161_description",
+    "xp": 192000,
+    "starting_coins": 14,
+    "coins_added": 9,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 35,
+        "name": "Light Prism",
+        "name_key": "tid_attack_name_35",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 750
+      },
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 17,
+        "name": "Flooding",
+        "name_key": "tid_attack_name_17",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "li",
+      "w"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 64,
+        "name": "Enlightenment",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1200
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 50,
+        "name": "Whirlpool",
+        "name_key": "tid_attack_name_50",
+        "type": "sea",
+        "element": "w",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1161_dragon_luminiscent_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Luminescent_Dragon"
+  },
+  {
+    "id": 1162,
+    "name": "Rainbow Dragon",
+    "name_key": "tid_unit_1162_name",
+    "group_type": "DRAGON",
+    "hatching_time": 100800,
+    "breeding_time": 72000,
+    "description": "This dragon takes white light and turns it into the entire light spectrum, coating herself with all the colors you can see — and probably some that you can't!",
+    "description_key": "tid_unit_1162_description",
+    "xp": 192000,
+    "starting_coins": 14,
+    "coins_added": 9,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 1,
+        "name": "Punch",
+        "name_key": "tid_attack_name_1",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 338
+      },
+      {
+        "id": 34,
+        "name": "Light Sword",
+        "name_key": "tid_attack_name_34",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 30,
+        "name": "Rust",
+        "name_key": "tid_attack_name_30",
+        "type": "metal",
+        "element": "m",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "li",
+      "m"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 64,
+        "name": "Enlightenment",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1200
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 58,
+        "name": "Ninja Stars",
+        "name_key": "tid_attack_name_58",
+        "type": "metal",
+        "element": "m",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1162_dragon_rainbow_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Rainbow_Dragon"
+  },
+  {
+    "id": 1180,
+    "name": "Tiny Dragon",
+    "name_key": "tid_unit_1180_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "Breeding hint: Use level 15 or higher dragons\n\nEven in adulthood, this dragon remains tiny. For this reason, this little guy appeals to lots of kids! But don't be fooled, despite his small size, this dragon is a seriously tough opponent",
+    "description_key": "tid_unit_1180_description",
+    "xp": 30000,
+    "starting_coins": 10,
+    "coins_added": 7,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 11,
+        "name": "Poison Ivy",
+        "name_key": "tid_attack_name_11",
+        "type": "nature",
+        "element": "p",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 36,
+        "name": "Light Star",
+        "name_key": "tid_attack_name_36",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "p",
+      "li"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 46,
+        "name": "Beehive",
+        "name_key": "tid_attack_name_46",
+        "type": "nature",
+        "element": "p",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 65,
+        "name": "Out Of Time",
+        "name_key": "tid_attack_name_65",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1180_dragon_tiny_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Tiny_Dragon"
+  },
+  {
+    "id": 1184,
+    "name": "Odin Dragon",
+    "name_key": "tid_unit_1184_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "Deus and Odin often hang out together. When they do, they talk about exciting topics such as the weather or newborn dragons. When they get extremely bored by that stuff, they start dragon wars. They watch the fight together and bet on their best champions",
+    "description_key": "tid_unit_1184_description",
+    "xp": 30000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 39,
+        "name": "Giant Claw",
+        "name_key": "tid_attack_name_39",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1050
+      },
+      {
+        "id": 9,
+        "name": "Nuclear Hit",
+        "name_key": "tid_attack_name_9",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 36,
+        "name": "Light Star",
+        "name_key": "tid_attack_name_36",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "wr",
+      "f",
+      "li"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 112,
+        "name": "Flamethrower+",
+        "name_key": "tid_attack_name_112",
+        "type": "flame",
+        "element": "f",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 67,
+        "name": "War Fist",
+        "name_key": "tid_attack_name_67",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1500
+      },
+      {
+        "id": 44,
+        "name": "Magma Storm",
+        "name_key": "tid_attack_name_44",
+        "type": "flame",
+        "element": "f",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 64,
+        "name": "Enlightenment",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1184_dragon_odin_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Odin_Dragon"
+  },
+  {
+    "id": 1186,
+    "name": "Cold Star Dragon",
+    "name_key": "tid_unit_1186_name",
+    "group_type": "DRAGON",
+    "hatching_time": 100800,
+    "breeding_time": 72000,
+    "description": "Born in cold outer space, this dragon's diet consists of White Dwarf stars and tomatoes, which is why he travels from galaxy to galaxy. The Cold Star Dragon is the most spaced-out of them all",
+    "description_key": "tid_unit_1186_description",
+    "xp": 192000,
+    "starting_coins": 14,
+    "coins_added": 9,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 36,
+        "name": "Light Star",
+        "name_key": "tid_attack_name_36",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1050
+      },
+      {
+        "id": 21,
+        "name": "Snow Storm",
+        "name_key": "tid_attack_name_21",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 19,
+        "name": "Frost Nova",
+        "name_key": "tid_attack_name_19",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "li",
+      "i"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 65,
+        "name": "Out Of Time",
+        "name_key": "tid_attack_name_65",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 51,
+        "name": "Icy Wind",
+        "name_key": "tid_attack_name_51",
+        "type": "ice",
+        "element": "i",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 64,
+        "name": "Enlightenment",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1200
+      },
+      {
+        "id": 52,
+        "name": "Cryogenic Freeze",
+        "name_key": "tid_attack_name_52",
+        "type": "ice",
+        "element": "i",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1186_dragon_coldstar_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Cold_Star_Dragon"
+  },
+  {
+    "id": 1187,
+    "name": "Photon Dragon",
+    "name_key": "tid_unit_1187_name",
+    "group_type": "DRAGON",
+    "hatching_time": 100800,
+    "breeding_time": 72000,
+    "description": "This quantic dragon is the guardian of all electromagnetic forces! Consisting of pure light, he can travel at the speed of light, and all the colors of the light spectrum originate from him",
+    "description_key": "tid_unit_1187_description",
+    "xp": 192000,
+    "starting_coins": 14,
+    "coins_added": 9,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 35,
+        "name": "Light Prism",
+        "name_key": "tid_attack_name_35",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 750
+      },
+      {
+        "id": 22,
+        "name": "Lightning",
+        "name_key": "tid_attack_name_22",
+        "type": "electric",
+        "element": "el",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 24,
+        "name": "Electric Shock",
+        "name_key": "tid_attack_name_24",
+        "type": "electric",
+        "element": "el",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "li",
+      "el"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 64,
+        "name": "Enlightenment",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1200
+      },
+      {
+        "id": 53,
+        "name": "Electro Ball",
+        "name_key": "tid_attack_name_53",
+        "type": "electric",
+        "element": "el",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 65,
+        "name": "Out Of Time",
+        "name_key": "tid_attack_name_65",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 54,
+        "name": "Tesla Ray",
+        "name_key": "tid_attack_name_54",
+        "type": "electric",
+        "element": "el",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1187_dragon_photon_d",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Photon_Dragon"
   }
 ]
