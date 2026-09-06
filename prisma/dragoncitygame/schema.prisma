@@ -1,0 +1,25 @@
+// prisma/dragoncitygame/schema.prisma
+// Esse schema é independente e gera um client na pasta src/generated/dragoncitygame-client.
+// Para executar os comandos: npm run prisma:dragoncitygame:generate, etc.
+
+generator client {
+    provider = "prisma-client"
+    output   = "../../src/generated/dragoncitygame-client"
+}
+
+datasource db {
+    provider = "sqlite"
+}
+
+model Article {
+    slug         String   @id
+    title        String
+    createdAt    String?
+    thumbnailUrl String?
+    body         String?  // Markdown content
+    isFullData   Boolean  @default(false)
+    syncedAt     DateTime @default(now())
+    updatedAt    DateTime @updatedAt
+
+    @@map("articles")
+}

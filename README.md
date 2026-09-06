@@ -10,7 +10,7 @@ Mas, além disso, um dos principais objetivos desse projeto é testar, validar e
 - [ ] Dragon City Wiki - https://dragon-city.fandom.com/wiki/Dragon_City_Wiki
 - [ ] Deetlist Dragon City - https://deetlist.com/dragoncity/
 - [ ] Ditlep - https://ditlep.com/dragoncity/
-- [ ] Dragon City Game - https://www.dragoncitygame.com/
+- [x] Dragon City Game - https://www.dragoncitygame.com/
 - [x] Sp-translations
 
 ## 🤖 Automação
@@ -19,6 +19,7 @@ O projeto utiliza GitHub Actions para manter os dados atualizados automaticament
 
 - **Dbgames**: Sincronização diária dos dados dos dragões.
 - **SP Translations**: Sincronização diária dos arquivos de localização (en) da SocialPoint.
+- **Dragon City Game**: Sincronização diária dos artigos e produtos da loja oficial.
 
 > Nota: Se estiver rodando localmente, tome cuidado com que vai fazer; não faça requisições desnecessárias aos sites, pois isso pode prejudicar o funcionamento deles ou até mesmo derrubá-los momentaneamente - sim, aconteceu com o dbgames.info durante o desenvolvimento do projeto por um descuido meu.
 

@@ -2,6 +2,7 @@
   "dependencies": {
     "@dchighs/dbgames": "^0.1.6",
     "@dchighs/dc-localization": "^0.0.7",
+    "@dchighs/dragoncitygame": "^0.2.0",
     "@marcuth/env": "^0.0.1",
     "@marcuth/random": "^0.1.0",
     "@prisma/adapter-better-sqlite3": "^7.4.2",
@@ -23,9 +24,13 @@
     "dbgames:scrape": "ts-node ./src/dbgames/scrape.ts",
     "dbgames:sync": "ts-node ./src/dbgames/sync.ts",
     "sp-translations:sync": "ts-node ./src/sp-translations/sync.ts",
+    "dragoncitygame:sync": "ts-node ./src/dragoncitygame/sync.ts",
     "prisma:dbgames:generate": "prisma generate --config=prisma.dbgames.config.ts",
     "prisma:dbgames:push": "prisma db push --config=prisma.dbgames.config.ts",
-    "prisma:dbgames:studio": "prisma studio --config=prisma.dbgames.config.ts"
+    "prisma:dbgames:studio": "prisma studio --config=prisma.dbgames.config.ts",
+    "prisma:dragoncitygame:generate": "prisma generate --config=prisma.dragoncitygame.config.ts",
+    "prisma:dragoncitygame:push": "prisma db push --config=prisma.dragoncitygame.config.ts",
+    "prisma:dragoncitygame:studio": "prisma studio --config=prisma.dragoncitygame.config.ts"
   },
   "repository": {
     "type": "git",
