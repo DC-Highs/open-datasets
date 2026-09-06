@@ -20,7 +20,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
           cache: 'npm'
 
       - name: Install Dependencies
@@ -28,6 +28,16 @@ jobs:
 
       - name: Run Daily Sync
         run: npm run sp-translations:sync
+
+      - name: Pull Latest Remote Changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git stash --include-untracked
+            git pull --rebase origin master
+            git stash pop
+          else
+            git pull --rebase origin master
+          fi
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
