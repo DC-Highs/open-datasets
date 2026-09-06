@@ -9,6 +9,13 @@ import fs from "node:fs"
 import { PrismaClient } from "../generated/dbgames-client/client"
 import { dbgamesDir, createLogger } from "../helpers"
 import { delay } from "../utils"
+import {
+    loadDbgamesState,
+    saveDbgamesState,
+    getBlacklistIds,
+    addDragonToBlacklist,
+    removeDragonFromBlacklist
+} from "./state"
 
 const logger = createLogger("dbgames-sync")
 
@@ -26,6 +33,12 @@ async function main() {
         if (!fs.existsSync(previewFilePath)) {
             logger.error("Preview dragons file not found. Run scrape first.")
             return
+        }
+
+        const state = await loadDbgamesState()
+        const blacklistedIds = getBlacklistIds(state)
+        if (blacklistedIds.length > 0) {
+            logger.info(`Loaded ${blacklistedIds.length} blacklisted dragon(s) from state`)
         }
 
         const previewData = JSON.parse(await fs.promises.readFile(previewFilePath, "utf-8"))
@@ -68,13 +81,16 @@ async function main() {
         }
 
         const targets = await prisma.dragon.findMany({
-            where: { isFullData: false },
+            where: {
+                isFullData: false,
+                ...(blacklistedIds.length > 0 ? { id: { notIn: blacklistedIds } } : {})
+            },
             take: 10,
             orderBy: { id: "asc" }
         })
 
         if (targets.length === 0) {
-            logger.info("All dragons already have full data!")
+            logger.info("All dragons already have full data or are blacklisted!")
             return
         }
 
@@ -113,22 +129,28 @@ async function main() {
                 if (idx > -1) {
                     fullData[idx] = fullDataWithMeta
                 } else {
-                    fullData.push(fullDataWithMeta
-                    )
+                    fullData.push(fullDataWithMeta)
                 }
 
+                removeDragonFromBlacklist(state, target.id)
                 logger.info(`Successfully updated ${target.name}`)
                 
             } catch (err: any) {
                 logger.error(`Failed to scrape ${target.name}: ${err.message}`)
+                addDragonToBlacklist(state, { id: target.id, name: target.name }, err.message)
+                await saveDbgamesState(state)
             }
 
             const wait = random.int(2000, 5000)
             await delay(wait)
         }
 
-        // Save updated JSON
         await fs.promises.writeFile(fullFilePath, JSON.stringify(fullData, null, 2))
+
+        state.lastSyncAt = new Date().toISOString()
+        
+        await saveDbgamesState(state)
+
         logger.info("Daily sync finished successfully")
 
     } catch (error: any) {

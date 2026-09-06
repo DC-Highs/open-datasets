@@ -40,5 +40,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: daily dragon data sync [skip ci]"
-          file_pattern: 'dbgames/json/full-data-dragons.json dbgames/data.sqlite3'
+          file_pattern: 'dbgames/json/full-data-dragons.json dbgames/data.sqlite3 state/dbgames.state.json'
           branch: master
