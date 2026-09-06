@@ -88,7 +88,7 @@ async function main() {
                 isFullData: false,
                 ...(blacklistedIds.length > 0 ? { id: { notIn: blacklistedIds } } : {})
             },
-            take: 10,
+            take: 50,
             orderBy: { id: "asc" }
         })
 
@@ -151,7 +151,7 @@ async function main() {
         await fs.promises.writeFile(fullFilePath, JSON.stringify(fullData, null, 2))
 
         state.lastSyncAt = new Date().toISOString()
-        
+
         await saveDbgamesState(state)
 
         logger.info("Daily sync finished successfully")

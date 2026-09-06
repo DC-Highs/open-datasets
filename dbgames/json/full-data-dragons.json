@@ -16896,5 +16896,966 @@
     ],
     "img_name": "1187_dragon_photon_d",
     "page_url": "https://dbgames.info/dragoncity/dragons/Photon_Dragon"
+  },
+  {
+    "id": 1188,
+    "name": "Elfic Dragon",
+    "name_key": "tid_unit_1188_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "Since the first time elves walked over Arda, this dragon has protected them all. His armor is made of leather strips, iron ingot, and refined moonstones. He is immune to all the forces of evil",
+    "description_key": "tid_unit_1188_description",
+    "xp": 288000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 39,
+        "name": "Giant Claw",
+        "name_key": "tid_attack_name_39",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1050
+      },
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 34,
+        "name": "Light Sword",
+        "name_key": "tid_attack_name_34",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "wr",
+      "li"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 65,
+        "name": "Out Of Time",
+        "name_key": "tid_attack_name_65",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 67,
+        "name": "War Fist",
+        "name_key": "tid_attack_name_67",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1500
+      },
+      {
+        "id": 64,
+        "name": "Enlightenment+",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1800
+      }
+    ],
+    "img_name": "1188_dragon_elfic_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Elfic_Dragon"
+  },
+  {
+    "id": 1189,
+    "name": "Zen Dragon",
+    "name_key": "tid_unit_1189_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "Six arms! Two to stand on the ground in homage to the First Noble Truth, “all life is suffering”. Two for meditation, “to avoid craving and aversion”. And two more to follow the Noble Eightfold Path and develop compassion for others",
+    "description_key": "tid_unit_1189_description",
+    "xp": 192000,
+    "starting_coins": 14,
+    "coins_added": 9,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 35,
+        "name": "Light Prism",
+        "name_key": "tid_attack_name_35",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 750
+      },
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 36,
+        "name": "Light Star",
+        "name_key": "tid_attack_name_36",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "li",
+      "pu"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 64,
+        "name": "Enlightenment",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1200
+      },
+      {
+        "id": 190,
+        "name": "Hypnosis+",
+        "name_key": "tid_attack_name_190",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 86400,
+        "ui_damage": 2100
+      },
+      {
+        "id": 65,
+        "name": "Out Of Time",
+        "name_key": "tid_attack_name_65",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 63,
+        "name": "Pure Light",
+        "name_key": "tid_attack_name_63",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 1500
+      }
+    ],
+    "img_name": "1189_dragon_zen",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Zen_Dragon"
+  },
+  {
+    "id": 1190,
+    "name": "Tesla Dragon",
+    "name_key": "tid_unit_1190_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "The Master of War and Electricity. The Lord of the Bolts and Strikes. The Commander of Energy and Conflict. And the Father of Modern Battle Science. His résumé is fairly impressive",
+    "description_key": "tid_unit_1190_description",
+    "xp": 288000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 1,
+        "name": "Punch",
+        "name_key": "tid_attack_name_1",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 338
+      },
+      {
+        "id": 39,
+        "name": "Giant Claw",
+        "name_key": "tid_attack_name_39",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1050
+      },
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 22,
+        "name": "Lightning",
+        "name_key": "tid_attack_name_22",
+        "type": "electric",
+        "element": "el",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "wr",
+      "el"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 139,
+        "name": "Electro Ball+",
+        "name_key": "tid_attack_name_139",
+        "type": "electric",
+        "element": "el",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 67,
+        "name": "War Fist",
+        "name_key": "tid_attack_name_67",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1500
+      },
+      {
+        "id": 54,
+        "name": "Tesla Ray",
+        "name_key": "tid_attack_name_54",
+        "type": "electric",
+        "element": "el",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1190_dragon_tesla_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Tesla_Dragon"
+  },
+  {
+    "id": 1191,
+    "name": "Kratus Dragon",
+    "name_key": "tid_unit_1191_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "Full of rage and anger, Kratus is the last of his kind. He is known as the Dragon of War. Feared, respected, and also admired by all, no one dares to face him in battle",
+    "description_key": "tid_unit_1191_description",
+    "xp": 188000,
+    "starting_coins": 15,
+    "coins_added": 10,
+    "dragon_rarity": "L",
+    "attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 37,
+        "name": "Giant Crack",
+        "name_key": "tid_attack_name_37",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 638
+      },
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 39,
+        "name": "Giant Claw",
+        "name_key": "tid_attack_name_39",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "wr",
+      "pu"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 67,
+        "name": "War Fist",
+        "name_key": "tid_attack_name_67",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1500
+      },
+      {
+        "id": 195,
+        "name": "Pure Light+",
+        "name_key": "tid_attack_name_195",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 2100
+      },
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 62,
+        "name": "Pure Energy",
+        "name_key": "tid_attack_name_62",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 1500
+      }
+    ],
+    "img_name": "1191_dragon_kratus_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Kratus_Dragon"
+  },
+  {
+    "id": 1192,
+    "name": "Saturn Dragon",
+    "name_key": "tid_unit_1192_name",
+    "group_type": "DRAGON",
+    "hatching_time": 82800,
+    "breeding_time": 61200,
+    "description": "There is no doubt that the Saturn Dragon comes from outer space. The beauty of his wings can hypnotize you if you look at them for more than a second! Finding one of these celestial dragons on Earth is a rather rare occurrence!",
+    "description_key": "tid_unit_1192_description",
+    "xp": 60000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 16,
+        "name": "Tsunami",
+        "name_key": "tid_attack_name_16",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 19,
+        "name": "Frost Nova",
+        "name_key": "tid_attack_name_19",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 34,
+        "name": "Light Sword",
+        "name_key": "tid_attack_name_34",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "w",
+      "i",
+      "li"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 148,
+        "name": "Icy Wind+",
+        "name_key": "tid_attack_name_148",
+        "type": "ice",
+        "element": "i",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 50,
+        "name": "Whirlpool",
+        "name_key": "tid_attack_name_50",
+        "type": "sea",
+        "element": "w",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 52,
+        "name": "Cryogenic Freeze",
+        "name_key": "tid_attack_name_52",
+        "type": "ice",
+        "element": "i",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 36,
+        "name": "Light Star",
+        "name_key": "tid_attack_name_36",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1050
+      }
+    ],
+    "img_name": "1192_dragon_saturn",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Saturn_Dragon"
+  },
+  {
+    "id": 1193,
+    "name": "Dark Stone Dragon",
+    "name_key": "tid_unit_1193_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "Like volcanic rock, he's extra lightweight. This means he is able to fly at high speed with those small wings. Those thick arms and horns may look dangerous, but due to his porousness, his punches are harmless",
+    "description_key": "tid_unit_1193_description",
+    "xp": 288000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 1,
+        "name": "Punch",
+        "name_key": "tid_attack_name_1",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 338
+      },
+      {
+        "id": 37,
+        "name": "Giant Crack",
+        "name_key": "tid_attack_name_37",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 638
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 26,
+        "name": "Leech",
+        "name_key": "tid_attack_name_26",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "wr",
+      "d"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 166,
+        "name": "The Grim Reaper+",
+        "name_key": "tid_attack_name_166",
+        "type": "dark",
+        "element": "d",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 67,
+        "name": "War Fist",
+        "name_key": "tid_attack_name_67",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1500
+      },
+      {
+        "id": null,
+        "name": "Black Hole",
+        "name_key": "tid_tt_blackvoidteaser",
+        "type": "dark",
+        "element": "d",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1193_dragon_darkstone_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Dark_Stone_Dragon"
+  },
+  {
+    "id": 1194,
+    "name": "White Knight Dragon",
+    "name_key": "tid_unit_1194_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 61200,
+    "description": "The White Knight Dragon was created with love and light magic. His pureness makes him a beloved dragon, always protecting the good and just from the Black Knight Dragon, who insists on fighting him again and again and again",
+    "description_key": "tid_unit_1194_description",
+    "xp": 30000,
+    "starting_coins": 16,
+    "coins_added": 11,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 34,
+        "name": "Light Sword",
+        "name_key": "tid_attack_name_34",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 650
+      },
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 13,
+        "name": "Earthquake",
+        "name_key": "tid_attack_name_13",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "li",
+      "e"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 65,
+        "name": "Out Of Time",
+        "name_key": "tid_attack_name_65",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 47,
+        "name": "Asteroid",
+        "name_key": "tid_attack_name_47",
+        "type": "terra",
+        "element": "e",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 64,
+        "name": "Enlightenment",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1200
+      },
+      {
+        "id": 48,
+        "name": "Sand Storm",
+        "name_key": "tid_attack_name_48",
+        "type": "terra",
+        "element": "e",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1194_dragon_whiteknight_c",
+    "page_url": "https://dbgames.info/dragoncity/dragons/White_Knight_Dragon"
+  },
+  {
+    "id": 1195,
+    "name": "Black Knight Dragon",
+    "name_key": "tid_unit_1195_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "The Black Knight Dragon was created from hate and black magic. His warrior skills are famous, as is his sword \"Stormbroker\". For some reason, his only purpose in life is to fight the White Knight Dragon, again and again and again",
+    "description_key": "tid_unit_1195_description",
+    "xp": 30000,
+    "starting_coins": 18,
+    "coins_added": 12,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 25,
+        "name": "Life Drain",
+        "name_key": "tid_attack_name_25",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 7,
+        "name": "Lava Balls",
+        "name_key": "tid_attack_name_7",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "d",
+      "f"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 55,
+        "name": "The Grim Reaper",
+        "name_key": "tid_attack_name_55",
+        "type": "dark",
+        "element": "d",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 43,
+        "name": "Flamethrower",
+        "name_key": "tid_attack_name_43",
+        "type": "flame",
+        "element": "f",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": null,
+        "name": "Black Hole",
+        "name_key": "tid_tt_blackvoidteaser",
+        "type": "dark",
+        "element": "d",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 44,
+        "name": "Magma Storm",
+        "name_key": "tid_attack_name_44",
+        "type": "flame",
+        "element": "f",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1195_dragon_blackknight_d",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Black_Knight_Dragon"
+  },
+  {
+    "id": 1196,
+    "name": "Thief Dragon",
+    "name_key": "tid_unit_1196_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "Everyone is innocent until proven guilty, except the Thief Dragon! He gets everything he wants using tricks and traps, so don’t turn your back toward him! However, if it's gold that you want, this is your dragon",
+    "description_key": "tid_unit_1196_description",
+    "xp": 30000,
+    "starting_coins": 25,
+    "coins_added": 17,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 13,
+        "name": "Earthquake",
+        "name_key": "tid_attack_name_13",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 25,
+        "name": "Life Drain",
+        "name_key": "tid_attack_name_25",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "e",
+      "d"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 48,
+        "name": "Sand Storm",
+        "name_key": "tid_attack_name_48",
+        "type": "terra",
+        "element": "e",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 41,
+        "name": "Brick Break",
+        "name_key": "tid_attack_name_41",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 1013
+      },
+      {
+        "id": 55,
+        "name": "The Grim Reaper",
+        "name_key": "tid_attack_name_55",
+        "type": "dark",
+        "element": "d",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1196_dragon_thief",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Thief_Dragon"
+  },
+  {
+    "id": 1197,
+    "name": "Deus Pet Dragon",
+    "name_key": "tid_unit_1197_name",
+    "group_type": "DRAGON",
+    "hatching_time": 60,
+    "breeding_time": 60,
+    "description": "Everybody knows Deus loves dragons! But as it happens, he has a particular favorite. He has chosen Deus Pet Dragon, probably because it’s one of the cutest dragons ever created!",
+    "description_key": "tid_unit_1197_description",
+    "xp": 1,
+    "starting_coins": 22,
+    "coins_added": 15,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 13,
+        "name": "Earthquake",
+        "name_key": "tid_attack_name_13",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 8,
+        "name": "Flaming Arrows",
+        "name_key": "tid_attack_name_8",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 14,
+        "name": "Meteor Shower",
+        "name_key": "tid_attack_name_14",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "e",
+      "f"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 9,
+        "name": "Nuclear Hit",
+        "name_key": "tid_attack_name_9",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 47,
+        "name": "Asteroid",
+        "name_key": "tid_attack_name_47",
+        "type": "terra",
+        "element": "e",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "img_name": "1197_dragon_deuspet_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Deus_Pet_Dragon"
   }
 ]
