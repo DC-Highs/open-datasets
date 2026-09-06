@@ -16,6 +16,9 @@ import {
     addDragonToBlacklist,
     removeDragonFromBlacklist
 } from "./state"
+import { applyDbgamesPatches } from "./patches"
+
+applyDbgamesPatches()
 
 const logger = createLogger("dbgames-sync")
 

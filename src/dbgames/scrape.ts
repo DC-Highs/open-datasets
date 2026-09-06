@@ -6,6 +6,9 @@ import fs from "node:fs"
 
 import { dbgamesDir, createLogger } from "../helpers"
 import { delay } from "../utils"
+import { applyDbgamesPatches } from "./patches"
+
+applyDbgamesPatches()
 
 const logger = createLogger("dbgames")
 
