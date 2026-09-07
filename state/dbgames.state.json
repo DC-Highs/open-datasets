@@ -349,8 +349,78 @@
       "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
       "failedAt": "2026-09-06T20:46:11.789Z",
       "attempts": 1
+    },
+    {
+      "id": 1399,
+      "name": "Mystic Plant Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T08:04:52.143Z",
+      "attempts": 1
+    },
+    {
+      "id": 1400,
+      "name": "Explosive Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T08:04:56.189Z",
+      "attempts": 1
+    },
+    {
+      "id": 1401,
+      "name": "Necro Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T08:05:00.509Z",
+      "attempts": 1
+    },
+    {
+      "id": 1402,
+      "name": "Allure Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T08:05:04.071Z",
+      "attempts": 1
+    },
+    {
+      "id": 1403,
+      "name": "Sad Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T08:05:08.927Z",
+      "attempts": 1
+    },
+    {
+      "id": 1404,
+      "name": "Spiky Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T08:05:14.006Z",
+      "attempts": 1
+    },
+    {
+      "id": 1405,
+      "name": "Amber Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T08:05:17.704Z",
+      "attempts": 1
+    },
+    {
+      "id": 1406,
+      "name": "Krait Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T08:05:20.319Z",
+      "attempts": 1
+    },
+    {
+      "id": 1407,
+      "name": "Golem Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T08:05:23.966Z",
+      "attempts": 1
+    },
+    {
+      "id": 1408,
+      "name": "Ragnor Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T08:05:27.212Z",
+      "attempts": 1
     }
   ],
-  "lastSyncAt": "2026-09-06T20:46:14.592Z",
-  "updatedAt": "2026-09-06T20:46:14.592Z"
+  "lastSyncAt": "2026-09-07T08:05:31.881Z",
+  "updatedAt": "2026-09-07T08:05:31.881Z"
 }
