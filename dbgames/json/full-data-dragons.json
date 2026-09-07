@@ -45506,5 +45506,976 @@
     ],
     "img_name": "1649_dragon_friendship",
     "page_url": "https://dbgames.info/dragoncity/dragons/Friendship_Dragon"
+  },
+  {
+    "id": 1650,
+    "name": "Night Dragon",
+    "name_key": "tid_unit_1650_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "The Night Dragon not only provokes fear, but also disgust. He's like a giant bat, so he can always be found lurking in dark, dusty corners",
+    "description_key": "tid_unit_1650_description",
+    "xp": 150000,
+    "starting_coins": 24,
+    "coins_added": 14,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 25,
+        "name": "Life Drain",
+        "name_key": "tid_attack_name_25",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 45,
+        "name": "Rotting Spell",
+        "name_key": "tid_attack_name_45",
+        "type": "nature",
+        "element": "p",
+        "training_time": 86400,
+        "ui_damage": 1200
+      }
+    ],
+    "attributes": [
+      "d",
+      "e",
+      "p"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 103,
+        "name": "Asteroid+",
+        "name_key": "tid_attack_name_103",
+        "type": "terra",
+        "element": "e",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 26,
+        "name": "Leech",
+        "name_key": "tid_attack_name_26",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 47,
+        "name": "Asteroid",
+        "name_key": "tid_attack_name_47",
+        "type": "terra",
+        "element": "e",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 46,
+        "name": "Beehive",
+        "name_key": "tid_attack_name_46",
+        "type": "nature",
+        "element": "p",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1650_dragon_night",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Night_Dragon"
+  },
+  {
+    "id": 1651,
+    "name": "White Soul Dragon",
+    "name_key": "tid_unit_1651_name",
+    "group_type": "DRAGON",
+    "hatching_time": 208800,
+    "breeding_time": 180000,
+    "description": "The White Soul Dragon has descended from a world above to illuminate the way of lost souls and save them from going the way of evil",
+    "description_key": "tid_unit_1651_description",
+    "xp": 432000,
+    "starting_coins": 30,
+    "coins_added": 20,
+    "dragon_rarity": "L",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 21,
+        "name": "Snow Storm",
+        "name_key": "tid_attack_name_21",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 64,
+        "name": "Enlightenment",
+        "name_key": "tid_attack_name_64",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1200
+      },
+      {
+        "id": 61,
+        "name": "Hypnosis",
+        "name_key": "tid_attack_name_61",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 86400,
+        "ui_damage": 1500
+      }
+    ],
+    "attributes": [
+      "i",
+      "li",
+      "pu"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 180,
+        "name": "Out Of Time+",
+        "name_key": "tid_attack_name_180",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1950
+      },
+      {
+        "id": 52,
+        "name": "Cryogenic Freeze",
+        "name_key": "tid_attack_name_52",
+        "type": "ice",
+        "element": "i",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 65,
+        "name": "Out Of Time",
+        "name_key": "tid_attack_name_65",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 62,
+        "name": "Pure Energy",
+        "name_key": "tid_attack_name_62",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 1500
+      }
+    ],
+    "img_name": "1651_dragon_whitesoul",
+    "page_url": "https://dbgames.info/dragoncity/dragons/White_Soul_Dragon"
+  },
+  {
+    "id": 1652,
+    "name": "Witch Dragon",
+    "name_key": "tid_unit_1652_name",
+    "group_type": "DRAGON",
+    "hatching_time": 208800,
+    "breeding_time": 115200,
+    "description": "The Witch Dragon will walk into your life offering treats and compliments, but don’t trust her! When you least expect it, she will show her true self and take everything away from you, including your very soul",
+    "description_key": "tid_unit_1652_description",
+    "xp": 432000,
+    "starting_coins": 37,
+    "coins_added": 24,
+    "dragon_rarity": "L",
+    "attacks": [
+      {
+        "id": 4,
+        "name": "Stunning Hit",
+        "name_key": "tid_attack_name_4",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 638
+      },
+      {
+        "id": 27,
+        "name": "Ghost Cloud",
+        "name_key": "tid_attack_name_27",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 39,
+        "name": "Giant Claw",
+        "name_key": "tid_attack_name_39",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1050
+      },
+      {
+        "id": 13,
+        "name": "Earthquake",
+        "name_key": "tid_attack_name_13",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "d",
+      "wr",
+      "e"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 42,
+        "name": "Deus Sword",
+        "name_key": "tid_attack_name_42",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 172800,
+        "ui_damage": 1125
+      },
+      {
+        "id": 55,
+        "name": "The Grim Reaper",
+        "name_key": "tid_attack_name_55",
+        "type": "dark",
+        "element": "d",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 48,
+        "name": "Sand Storm",
+        "name_key": "tid_attack_name_48",
+        "type": "terra",
+        "element": "e",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1652_dragon_witch_b",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Witch_Dragon"
+  },
+  {
+    "id": 1653,
+    "name": "The Kind Dragon",
+    "name_key": "tid_unit_1653_name",
+    "group_type": "DRAGON",
+    "hatching_time": 61200,
+    "breeding_time": 39600,
+    "description": "The Good Dragon can change the world with his kindness. If you need a helping hand, the Good Dragon will aid you. If you need to win a battle, the Good Dragon will win it for you",
+    "description_key": "tid_unit_1653_description",
+    "xp": 200000,
+    "starting_coins": 36,
+    "coins_added": 26,
+    "dragon_rarity": "E",
+    "attacks": [
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 47,
+        "name": "Asteroid",
+        "name_key": "tid_attack_name_47",
+        "type": "terra",
+        "element": "e",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 11,
+        "name": "Poison Ivy",
+        "name_key": "tid_attack_name_11",
+        "type": "nature",
+        "element": "p",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 35,
+        "name": "Light Prism",
+        "name_key": "tid_attack_name_35",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 750
+      }
+    ],
+    "attributes": [
+      "e",
+      "p",
+      "li"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 135,
+        "name": "Beehive+",
+        "name_key": "tid_attack_name_135",
+        "type": "nature",
+        "element": "p",
+        "training_time": 172800,
+        "ui_damage": 1950
+      },
+      {
+        "id": 48,
+        "name": "Sand Storm",
+        "name_key": "tid_attack_name_48",
+        "type": "terra",
+        "element": "e",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 46,
+        "name": "Beehive",
+        "name_key": "tid_attack_name_46",
+        "type": "nature",
+        "element": "p",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 36,
+        "name": "Light Star",
+        "name_key": "tid_attack_name_36",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1050
+      }
+    ],
+    "img_name": "1653_dragon_thegood",
+    "page_url": "https://dbgames.info/dragoncity/dragons/The_Kind_Dragon"
+  },
+  {
+    "id": 1654,
+    "name": "Dancing Dragon",
+    "name_key": "tid_unit_1654_name",
+    "group_type": "DRAGON",
+    "hatching_time": 82800,
+    "breeding_time": 61200,
+    "description": "She’s the most famous dragon in Barbados. The Umbrella Dragon is beautiful but fierce. Try not to upset her because she always speaks her mind!",
+    "description_key": "tid_unit_1654_description",
+    "xp": 150000,
+    "starting_coins": 14,
+    "coins_added": 10,
+    "dragon_rarity": "V",
+    "attacks": [
+      {
+        "id": 2,
+        "name": "Flying Kick",
+        "name_key": "tid_attack_name_2",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 413
+      },
+      {
+        "id": 61,
+        "name": "Hypnosis",
+        "name_key": "tid_attack_name_61",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 86400,
+        "ui_damage": 1500
+      },
+      {
+        "id": 25,
+        "name": "Life Drain",
+        "name_key": "tid_attack_name_25",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 550
+      },
+      {
+        "id": 15,
+        "name": "Tumbleweed",
+        "name_key": "tid_attack_name_15",
+        "type": "terra",
+        "element": "e",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "attributes": [
+      "pu",
+      "d",
+      "e"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 166,
+        "name": "The Grim Reaper+",
+        "name_key": "tid_attack_name_166",
+        "type": "dark",
+        "element": "d",
+        "training_time": 86400,
+        "ui_damage": 1800
+      },
+      {
+        "id": 62,
+        "name": "Pure Energy",
+        "name_key": "tid_attack_name_62",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 1500
+      },
+      {
+        "id": 27,
+        "name": "Ghost Cloud",
+        "name_key": "tid_attack_name_27",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 48,
+        "name": "Sand Storm",
+        "name_key": "tid_attack_name_48",
+        "type": "terra",
+        "element": "e",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1654_dragon_dancing",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Dancing_Dragon"
+  },
+  {
+    "id": 1655,
+    "name": "Diva Dragon",
+    "name_key": "tid_unit_1655_name",
+    "group_type": "DRAGON",
+    "hatching_time": 82800,
+    "breeding_time": 61200,
+    "description": "This dragon has a talent for constantly changing her looks, to the bewilderment of her adversaries. She has worn all kinds of things, from an antenna on her head to a dress made of meat. She'll always surprise you!",
+    "description_key": "tid_unit_1655_description",
+    "xp": 150000,
+    "starting_coins": 26,
+    "coins_added": 16,
+    "dragon_rarity": "E",
+    "attacks": [
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 39,
+        "name": "Giant Claw",
+        "name_key": "tid_attack_name_39",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1050
+      },
+      {
+        "id": 57,
+        "name": "Cannon Balls",
+        "name_key": "tid_attack_name_57",
+        "type": "metal",
+        "element": "m",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 16,
+        "name": "Tsunami",
+        "name_key": "tid_attack_name_16",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "wr",
+      "m",
+      "w"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 155,
+        "name": "Ninja Stars+",
+        "name_key": "tid_attack_name_155",
+        "type": "metal",
+        "element": "m",
+        "training_time": 172800,
+        "ui_damage": 1950
+      },
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 58,
+        "name": "Ninja Stars",
+        "name_key": "tid_attack_name_58",
+        "type": "metal",
+        "element": "m",
+        "training_time": 172800,
+        "ui_damage": 1350
+      },
+      {
+        "id": 17,
+        "name": "Flooding",
+        "name_key": "tid_attack_name_17",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 650
+      }
+    ],
+    "img_name": "1655_dragon_diva",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Diva_Dragon"
+  },
+  {
+    "id": 1656,
+    "name": "Vain Dragon",
+    "name_key": "tid_unit_1656_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "He became famous by making videos of himself and posting them on DragonTube. He was hugely successful, so he started making records. He has changed a lot — he's a bad boy these days — but his fans still love him",
+    "description_key": "tid_unit_1656_description",
+    "xp": 432000,
+    "starting_coins": 36,
+    "coins_added": 22,
+    "dragon_rarity": "L",
+    "attacks": [
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 33,
+        "name": "Rainbow",
+        "name_key": "tid_attack_name_33",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 34,
+        "name": "Light Sword",
+        "name_key": "tid_attack_name_34",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 650
+      },
+      {
+        "id": 26,
+        "name": "Leech",
+        "name_key": "tid_attack_name_26",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "l",
+      "li",
+      "d"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 180,
+        "name": "Out Of Time+",
+        "name_key": "tid_attack_name_180",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 1950
+      },
+      {
+        "id": 59,
+        "name": "Aurora Borealis",
+        "name_key": "tid_attack_name_59",
+        "type": "legend",
+        "element": "l",
+        "training_time": 86400,
+        "ui_damage": 2100
+      },
+      {
+        "id": 35,
+        "name": "Light Prism",
+        "name_key": "tid_attack_name_35",
+        "type": "light",
+        "element": "li",
+        "training_time": 172800,
+        "ui_damage": 750
+      },
+      {
+        "id": 27,
+        "name": "Ghost Cloud",
+        "name_key": "tid_attack_name_27",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "img_name": "1656_dragon_vain",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Vain_Dragon"
+  },
+  {
+    "id": 1657,
+    "name": "Demolition Dragon",
+    "name_key": "tid_unit_1657_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "She started out as the star of Dragon City Teen TV. She was absolutely angelic, but as she grew up, she started hanging around with a bad crowd of dragons. Now she should be feared!",
+    "description_key": "tid_unit_1657_description",
+    "xp": 200000,
+    "starting_coins": 24,
+    "coins_added": 19,
+    "dragon_rarity": "L",
+    "attacks": [
+      {
+        "id": 5,
+        "name": "Headbutt",
+        "name_key": "tid_attack_name_5",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 788
+      },
+      {
+        "id": 33,
+        "name": "Rainbow",
+        "name_key": "tid_attack_name_33",
+        "type": "legend",
+        "element": "l",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 37,
+        "name": "Giant Crack",
+        "name_key": "tid_attack_name_37",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 638
+      },
+      {
+        "id": 22,
+        "name": "Lightning",
+        "name_key": "tid_attack_name_22",
+        "type": "electric",
+        "element": "el",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "l",
+      "wr",
+      "el"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 40,
+        "name": "Hammer Fist",
+        "name_key": "tid_attack_name_40",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 86400,
+        "ui_damage": 900
+      },
+      {
+        "id": 60,
+        "name": "Legend Spell",
+        "name_key": "tid_attack_name_60",
+        "type": "legend",
+        "element": "l",
+        "training_time": 172800,
+        "ui_damage": 2300
+      },
+      {
+        "id": 66,
+        "name": "Astro Hit",
+        "name_key": "tid_attack_name_66",
+        "type": "war",
+        "element": "wr",
+        "training_time": 172800,
+        "ui_damage": 1400
+      },
+      {
+        "id": 54,
+        "name": "Tesla Ray",
+        "name_key": "tid_attack_name_54",
+        "type": "electric",
+        "element": "el",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1657_dragon_demolition",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Demolition_Dragon"
+  },
+  {
+    "id": 1658,
+    "name": "Squid Dragon",
+    "name_key": "tid_unit_1658_name",
+    "group_type": "DRAGON",
+    "hatching_time": 82800,
+    "breeding_time": 61200,
+    "description": "The Squid Dragon is the captain of the Ghost Ship. His duty is to carry the souls of those who perished in the sea from this world to the next",
+    "description_key": "tid_unit_1658_description",
+    "xp": 150000,
+    "starting_coins": 24,
+    "coins_added": 15,
+    "dragon_rarity": "R",
+    "attacks": [
+      {
+        "id": 3,
+        "name": "Hard Charge",
+        "name_key": "tid_attack_name_3",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 488
+      },
+      {
+        "id": 9,
+        "name": "Nuclear Hit",
+        "name_key": "tid_attack_name_9",
+        "type": "flame",
+        "element": "f",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 11,
+        "name": "Poison Ivy",
+        "name_key": "tid_attack_name_11",
+        "type": "nature",
+        "element": "p",
+        "training_time": 43200,
+        "ui_damage": 650
+      },
+      {
+        "id": 22,
+        "name": "Lightning",
+        "name_key": "tid_attack_name_22",
+        "type": "electric",
+        "element": "el",
+        "training_time": 43200,
+        "ui_damage": 550
+      }
+    ],
+    "attributes": [
+      "f",
+      "p",
+      "el"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 6,
+        "name": "Judo Throw",
+        "name_key": "tid_attack_name_6",
+        "type": "physical",
+        "element": "ph",
+        "training_time": 43200,
+        "ui_damage": 863
+      },
+      {
+        "id": 43,
+        "name": "Flamethrower",
+        "name_key": "tid_attack_name_43",
+        "type": "flame",
+        "element": "f",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 12,
+        "name": "Leaf Blast",
+        "name_key": "tid_attack_name_12",
+        "type": "nature",
+        "element": "p",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 54,
+        "name": "Tesla Ray",
+        "name_key": "tid_attack_name_54",
+        "type": "electric",
+        "element": "el",
+        "training_time": 172800,
+        "ui_damage": 1350
+      }
+    ],
+    "img_name": "1658_dragon_squid",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Squid_Dragon"
+  },
+  {
+    "id": 1659,
+    "name": "Kraken Dragon",
+    "name_key": "tid_unit_1659_name",
+    "group_type": "DRAGON",
+    "hatching_time": 144000,
+    "breeding_time": 115200,
+    "description": "Pirates claim to be free souls that obey no rules, but they are secretly ruled by the Kraken Dragon, a giant creature who can sink all their ships and riches in seconds if they don’t accept his rule",
+    "description_key": "tid_unit_1659_description",
+    "xp": 200000,
+    "starting_coins": 29,
+    "coins_added": 17,
+    "dragon_rarity": "L",
+    "attacks": [
+      {
+        "id": 18,
+        "name": "Storm",
+        "name_key": "tid_attack_name_18",
+        "type": "sea",
+        "element": "w",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 61,
+        "name": "Hypnosis",
+        "name_key": "tid_attack_name_61",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 86400,
+        "ui_damage": 1500
+      },
+      {
+        "id": 27,
+        "name": "Ghost Cloud",
+        "name_key": "tid_attack_name_27",
+        "type": "dark",
+        "element": "d",
+        "training_time": 43200,
+        "ui_damage": 1050
+      },
+      {
+        "id": 20,
+        "name": "Ice Spikes",
+        "name_key": "tid_attack_name_20",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 650
+      }
+    ],
+    "attributes": [
+      "w",
+      "pu",
+      "d",
+      "i"
+    ],
+    "trainable_attacks": [
+      {
+        "id": 49,
+        "name": "Acid Rain",
+        "name_key": "tid_attack_name_49",
+        "type": "sea",
+        "element": "w",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 195,
+        "name": "Pure Light+",
+        "name_key": "tid_attack_name_195",
+        "type": "pure",
+        "element": "pu",
+        "training_time": 172800,
+        "ui_damage": 2100
+      },
+      {
+        "id": 55,
+        "name": "The Grim Reaper",
+        "name_key": "tid_attack_name_55",
+        "type": "dark",
+        "element": "d",
+        "training_time": 86400,
+        "ui_damage": 1200
+      },
+      {
+        "id": 21,
+        "name": "Snow Storm",
+        "name_key": "tid_attack_name_21",
+        "type": "ice",
+        "element": "i",
+        "training_time": 43200,
+        "ui_damage": 1050
+      }
+    ],
+    "img_name": "1659_dragon_kraken",
+    "page_url": "https://dbgames.info/dragoncity/dragons/Kraken_Dragon"
   }
 ]
