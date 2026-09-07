@@ -419,8 +419,106 @@
       "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
       "failedAt": "2026-09-07T08:05:27.212Z",
       "attempts": 1
+    },
+    {
+      "id": 1417,
+      "name": "Secret Fire Dragon",
+      "reason": "Not found attack name key from: Mana Lightnings",
+      "failedAt": "2026-09-07T16:38:28.745Z",
+      "attempts": 1
+    },
+    {
+      "id": 1428,
+      "name": "The Amazing Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-07T16:38:59.686Z",
+      "attempts": 1
+    },
+    {
+      "id": 1429,
+      "name": "Prophet Dragon",
+      "reason": "Not found attack name key from: Poisonous Dream",
+      "failedAt": "2026-09-07T16:39:04.633Z",
+      "attempts": 1
+    },
+    {
+      "id": 1430,
+      "name": "Flawless Dragon",
+      "reason": "Not found attack name key from: Poisonous Dream",
+      "failedAt": "2026-09-07T16:39:07.764Z",
+      "attempts": 1
+    },
+    {
+      "id": 1433,
+      "name": "Balloon Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-07T16:39:14.954Z",
+      "attempts": 1
+    },
+    {
+      "id": 1441,
+      "name": "Dreamcatcher Dragon",
+      "reason": "Not found attack name key from: Poisonous Dream",
+      "failedAt": "2026-09-07T16:39:41.539Z",
+      "attempts": 1
+    },
+    {
+      "id": 1442,
+      "name": "Bride Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-07T16:39:45.707Z",
+      "attempts": 1
+    },
+    {
+      "id": 1443,
+      "name": "Gurgle Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-07T16:39:50.775Z",
+      "attempts": 1
+    },
+    {
+      "id": 1444,
+      "name": "Naughty Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-07T16:39:54.361Z",
+      "attempts": 1
+    },
+    {
+      "id": 1447,
+      "name": "Mermaid Dragon",
+      "reason": "Not found attack name key from: Mana Lightnings",
+      "failedAt": "2026-09-07T16:40:04.546Z",
+      "attempts": 1
+    },
+    {
+      "id": 1448,
+      "name": "Illusion Dragon",
+      "reason": "Not found attack name key from: Mana Lightnings",
+      "failedAt": "2026-09-07T16:40:08.823Z",
+      "attempts": 1
+    },
+    {
+      "id": 1449,
+      "name": "Chakra Dragon",
+      "reason": "Not found attack name key from: Mana Lightnings",
+      "failedAt": "2026-09-07T16:40:13.819Z",
+      "attempts": 1
+    },
+    {
+      "id": 1480,
+      "name": "DéjàVu Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T16:42:13.342Z",
+      "attempts": 1
+    },
+    {
+      "id": 1497,
+      "name": "Yôkai Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-07T16:43:16.125Z",
+      "attempts": 1
     }
   ],
-  "lastSyncAt": "2026-09-07T08:05:31.881Z",
-  "updatedAt": "2026-09-07T08:05:31.881Z"
+  "lastSyncAt": "2026-09-07T16:51:38.546Z",
+  "updatedAt": "2026-09-07T16:51:38.548Z"
 }
