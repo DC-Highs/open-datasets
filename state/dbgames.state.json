@@ -517,8 +517,78 @@
       "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
       "failedAt": "2026-09-07T16:43:16.125Z",
       "attempts": 1
+    },
+    {
+      "id": 1660,
+      "name": "Captain Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-08T07:56:00.236Z",
+      "attempts": 1
+    },
+    {
+      "id": 1661,
+      "name": "Dark Pearl Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-08T07:56:02.921Z",
+      "attempts": 1
+    },
+    {
+      "id": 1662,
+      "name": "Tackle Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-08T07:56:07.832Z",
+      "attempts": 1
+    },
+    {
+      "id": 1663,
+      "name": "Super Flame Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-08T07:56:10.444Z",
+      "attempts": 1
+    },
+    {
+      "id": 1664,
+      "name": "Super Terra Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-08T07:56:13.164Z",
+      "attempts": 1
+    },
+    {
+      "id": 1665,
+      "name": "Third Birthday Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-08T07:56:16.864Z",
+      "attempts": 1
+    },
+    {
+      "id": 1666,
+      "name": "Super Star Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-08T07:56:19.738Z",
+      "attempts": 1
+    },
+    {
+      "id": 1667,
+      "name": "Super Nature Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-08T07:56:22.042Z",
+      "attempts": 1
+    },
+    {
+      "id": 1668,
+      "name": "Padron Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-08T07:56:26.984Z",
+      "attempts": 1
+    },
+    {
+      "id": 1669,
+      "name": "Symbiotic Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-08T07:56:31.643Z",
+      "attempts": 1
     }
   ],
-  "lastSyncAt": "2026-09-07T19:44:23.840Z",
-  "updatedAt": "2026-09-07T19:44:23.841Z"
+  "lastSyncAt": "2026-09-08T07:56:34.726Z",
+  "updatedAt": "2026-09-08T07:56:34.726Z"
 }
