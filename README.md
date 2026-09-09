@@ -2,7 +2,22 @@
 
 Este projeto é uma coleção de dados extraídos de diversas fontes públicas, como wikis da comunidade, sites informativos criados por fãs e outros recursos disponíveis publicamente. O objetivo é centralizar e organizar esses dados em um formato semelhante ao utilizado internamente pelo Dragon City.
 
-Mas, além disso, um dos principais objetivos desse projeto é testar, validar e aprimorar o famework de web scraping que está sendo desenvolvido pela [Xcrap Cloud](https://github.com/xcrap-cloud) que tem como desenvolvedor principal o [Marcuth](https://github.com/marcuth).
+Mas, além disso, um dos principais objetivos desse projeto é testar, validar e aprimorar o framework de web scraping que está sendo desenvolvido pela [Xcrap](https://github.com/xcrap-dev) que tem como desenvolvedor principal o [Marcuth](https://github.com/marcuth).
+
+## 📥 Download dos Datasets (Links Diretos / Raw)
+
+Os arquivos de dados são mantidos atualizados diariamente via GitHub Actions. Você pode acessá-los ou baixá-los diretamente usando os links raw abaixo:
+
+| Fonte | Descrição | Formato | Link Direto (Raw) |
+| :--- | :--- | :---: | :--- |
+| **Dbgames** | Dados completos dos dragões | `JSON` | [full-data-dragons.json](https://raw.githubusercontent.com/DC-Highs/open-datasets/master/dbgames/json/full-data-dragons.json) |
+| **Dbgames** | Lista prévia / resumida dos dragões | `JSON` | [preview-dragons.json](https://raw.githubusercontent.com/DC-Highs/open-datasets/master/dbgames/json/preview-dragons.json) |
+| **Dbgames** | Banco de dados SQLite dos dragões | `SQLite` | [data.sqlite3](https://raw.githubusercontent.com/DC-Highs/open-datasets/master/dbgames/data.sqlite3) |
+| **Dragon City Game** | Artigos e notícias completos | `JSON` | [full-data-articles.json](https://raw.githubusercontent.com/DC-Highs/open-datasets/master/dragoncitygame/json/full-data-articles.json) |
+| **Dragon City Game** | Prévia / resumo dos artigos | `JSON` | [preview-articles.json](https://raw.githubusercontent.com/DC-Highs/open-datasets/master/dragoncitygame/json/preview-articles.json) |
+| **Dragon City Game** | Produtos da loja oficial | `JSON` | [products.json](https://raw.githubusercontent.com/DC-Highs/open-datasets/master/dragoncitygame/json/products.json) |
+| **Dragon City Game** | Banco de dados SQLite dos artigos | `SQLite` | [data.sqlite3](https://raw.githubusercontent.com/DC-Highs/open-datasets/master/dragoncitygame/data.sqlite3) |
+| **SP Translations** | Localização e textos oficiais do jogo (`en`) | `JSON` | [en.json](https://raw.githubusercontent.com/DC-Highs/open-datasets/master/sp-translations/en.json) |
 
 ## Fontes que estamos cobrindo até o momento
 

@@ -517,8 +517,407 @@
       "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
       "failedAt": "2026-09-07T16:43:16.125Z",
       "attempts": 1
+    },
+    {
+      "id": 1842,
+      "name": "Neko Dragon",
+      "reason": "Not found attack name key from: Mana Lightnings",
+      "failedAt": "2026-09-09T19:00:05.708Z",
+      "attempts": 1
+    },
+    {
+      "id": 1870,
+      "name": "Sky King Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:08:51.892Z",
+      "attempts": 1
+    },
+    {
+      "id": 1871,
+      "name": "Goofy Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:09:15.925Z",
+      "attempts": 1
+    },
+    {
+      "id": 1872,
+      "name": "Skeleton Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:09:41.167Z",
+      "attempts": 1
+    },
+    {
+      "id": 1873,
+      "name": "Anemone Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:10:06.986Z",
+      "attempts": 1
+    },
+    {
+      "id": 1876,
+      "name": "Catkun Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:10:30.498Z",
+      "attempts": 1
+    },
+    {
+      "id": 1877,
+      "name": "Hayabusa Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:10:54.251Z",
+      "attempts": 1
+    },
+    {
+      "id": 1878,
+      "name": "Ocean Lord Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:11:18.581Z",
+      "attempts": 1
+    },
+    {
+      "id": 1879,
+      "name": "Hunter Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:11:44.474Z",
+      "attempts": 1
+    },
+    {
+      "id": 1880,
+      "name": "Kitsune Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:12:10.070Z",
+      "attempts": 1
+    },
+    {
+      "id": 1881,
+      "name": "Luminaire Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:12:35.280Z",
+      "attempts": 1
+    },
+    {
+      "id": 1883,
+      "name": "Hoodini Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:12:59.032Z",
+      "attempts": 1
+    },
+    {
+      "id": 1884,
+      "name": "Bjorn Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:13:22.959Z",
+      "attempts": 1
+    },
+    {
+      "id": 1885,
+      "name": "Katsumoto Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:13:38.776Z",
+      "attempts": 1
+    },
+    {
+      "id": 1886,
+      "name": "Lancelot Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:13:54.565Z",
+      "attempts": 1
+    },
+    {
+      "id": 1887,
+      "name": "Fury Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:13:58.345Z",
+      "attempts": 1
+    },
+    {
+      "id": 1888,
+      "name": "Mighty Mantis Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:14:02.650Z",
+      "attempts": 1
+    },
+    {
+      "id": 1889,
+      "name": "Frostling Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:14:06.823Z",
+      "attempts": 1
+    },
+    {
+      "id": 1890,
+      "name": "Ironscales Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:14:11.788Z",
+      "attempts": 1
+    },
+    {
+      "id": 1891,
+      "name": "King Ragnar Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:14:22.898Z",
+      "attempts": 1
+    },
+    {
+      "id": 1892,
+      "name": "Emperor Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:14:26.196Z",
+      "attempts": 1
+    },
+    {
+      "id": 1893,
+      "name": "Praetorian Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:14:39.394Z",
+      "attempts": 1
+    },
+    {
+      "id": 1894,
+      "name": "Wailing Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:14:43.730Z",
+      "attempts": 1
+    },
+    {
+      "id": 1895,
+      "name": "Samurai Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:14:46.912Z",
+      "attempts": 1
+    },
+    {
+      "id": 1896,
+      "name": "Shredder Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:15:00.208Z",
+      "attempts": 1
+    },
+    {
+      "id": 1898,
+      "name": "Yin Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:15:03.383Z",
+      "attempts": 1
+    },
+    {
+      "id": 1899,
+      "name": "Skull Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:15:06.701Z",
+      "attempts": 1
+    },
+    {
+      "id": 1900,
+      "name": "Pigheaded Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:15:10.181Z",
+      "attempts": 1
+    },
+    {
+      "id": 1901,
+      "name": "Spiderknight Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:15:25.387Z",
+      "attempts": 1
+    },
+    {
+      "id": 1902,
+      "name": "Conjurer Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:15:39.756Z",
+      "attempts": 1
+    },
+    {
+      "id": 1903,
+      "name": "Gladiator Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:15:55.153Z",
+      "attempts": 1
+    },
+    {
+      "id": 1904,
+      "name": "Yang Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:15:57.772Z",
+      "attempts": 1
+    },
+    {
+      "id": 1905,
+      "name": "Clarity Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:15:59.937Z",
+      "attempts": 1
+    },
+    {
+      "id": 1906,
+      "name": "Reason Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:16:04.685Z",
+      "attempts": 1
+    },
+    {
+      "id": 1907,
+      "name": "Virtue Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:16:20.233Z",
+      "attempts": 1
+    },
+    {
+      "id": 1908,
+      "name": "Empathy Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:16:23.323Z",
+      "attempts": 1
+    },
+    {
+      "id": 1909,
+      "name": "Loyalty Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:16:27.464Z",
+      "attempts": 1
+    },
+    {
+      "id": 1910,
+      "name": "Origin Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:16:31.784Z",
+      "attempts": 1
+    },
+    {
+      "id": 1912,
+      "name": "Vainglorious Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:16:35.638Z",
+      "attempts": 1
+    },
+    {
+      "id": 1913,
+      "name": "Shielded Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:16:50.799Z",
+      "attempts": 1
+    },
+    {
+      "id": 1914,
+      "name": "Aqua Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:16:53.629Z",
+      "attempts": 1
+    },
+    {
+      "id": 1915,
+      "name": "Plume Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:17:07.867Z",
+      "attempts": 1
+    },
+    {
+      "id": 1916,
+      "name": "Wandering Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:17:11.097Z",
+      "attempts": 1
+    },
+    {
+      "id": 1917,
+      "name": "Rook Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:17:13.600Z",
+      "attempts": 1
+    },
+    {
+      "id": 1918,
+      "name": "Cubic Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:17:26.795Z",
+      "attempts": 1
+    },
+    {
+      "id": 1919,
+      "name": "Strange Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:17:41.830Z",
+      "attempts": 1
+    },
+    {
+      "id": 1921,
+      "name": "Flame Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:17:56.377Z",
+      "attempts": 1
+    },
+    {
+      "id": 1922,
+      "name": "Farm Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:18:00.290Z",
+      "attempts": 1
+    },
+    {
+      "id": 1923,
+      "name": "High Portal Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:18:04.335Z",
+      "attempts": 1
+    },
+    {
+      "id": 1924,
+      "name": "Everest Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:18:19.823Z",
+      "attempts": 1
+    },
+    {
+      "id": 1983,
+      "name": "High Resolution Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:22:35.935Z",
+      "attempts": 1
+    },
+    {
+      "id": 2084,
+      "name": "Kumk’u Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:29:07.041Z",
+      "attempts": 1
+    },
+    {
+      "id": 2119,
+      "name": "Ancient Magic Dragon",
+      "reason": "Not found attack name key from: Mana Lightnings",
+      "failedAt": "2026-09-09T19:31:32.884Z",
+      "attempts": 1
+    },
+    {
+      "id": 2122,
+      "name": "Lil Cricket Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-09T19:31:43.143Z",
+      "attempts": 1
+    },
+    {
+      "id": 2168,
+      "name": "Festive Nature Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-09T19:34:20.158Z",
+      "attempts": 1
+    },
+    {
+      "id": 2188,
+      "name": "Mr. Beast Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:35:40.739Z",
+      "attempts": 1
+    },
+    {
+      "id": 2280,
+      "name": "Happiness Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-09T19:41:40.347Z",
+      "attempts": 1
     }
   ],
-  "lastSyncAt": "2026-09-07T19:44:23.840Z",
-  "updatedAt": "2026-09-07T19:44:23.841Z"
+  "lastSyncAt": "2026-09-09T19:42:21.338Z",
+  "updatedAt": "2026-09-09T19:42:21.339Z"
 }
