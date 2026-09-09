@@ -517,8 +517,659 @@
       "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
       "failedAt": "2026-09-07T16:43:16.125Z",
       "attempts": 1
+    },
+    {
+      "id": 1842,
+      "name": "Neko Dragon",
+      "reason": "Not found attack name key from: Mana Lightnings",
+      "failedAt": "2026-09-09T19:44:04.793Z",
+      "attempts": 1
+    },
+    {
+      "id": 1983,
+      "name": "High Resolution Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:47:19.069Z",
+      "attempts": 1
+    },
+    {
+      "id": 2084,
+      "name": "Kumk’u Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:47:26.107Z",
+      "attempts": 1
+    },
+    {
+      "id": 2119,
+      "name": "Ancient Magic Dragon",
+      "reason": "Not found attack name key from: Mana Lightnings",
+      "failedAt": "2026-09-09T19:47:30.496Z",
+      "attempts": 1
+    },
+    {
+      "id": 2122,
+      "name": "Lil Cricket Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-09T19:47:34.713Z",
+      "attempts": 1
+    },
+    {
+      "id": 2168,
+      "name": "Festive Nature Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-09T19:47:40.312Z",
+      "attempts": 1
+    },
+    {
+      "id": 2188,
+      "name": "Mr. Beast Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:47:45.431Z",
+      "attempts": 1
+    },
+    {
+      "id": 2280,
+      "name": "Happiness Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-09T19:47:48.725Z",
+      "attempts": 1
+    },
+    {
+      "id": 2303,
+      "name": "Wind Lord Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:48:18.929Z",
+      "attempts": 1
+    },
+    {
+      "id": 2304,
+      "name": "Storm Bringer Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:48:22.063Z",
+      "attempts": 1
+    },
+    {
+      "id": 2332,
+      "name": "Arctic Wind Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:49:31.794Z",
+      "attempts": 1
+    },
+    {
+      "id": 2333,
+      "name": "Celestial Wind Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:49:36.048Z",
+      "attempts": 1
+    },
+    {
+      "id": 2345,
+      "name": "HotCold Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:50:09.515Z",
+      "attempts": 1
+    },
+    {
+      "id": 2352,
+      "name": "Holibreeze Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:50:35.277Z",
+      "attempts": 1
+    },
+    {
+      "id": 2368,
+      "name": "Wind Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:51:00.022Z",
+      "attempts": 1
+    },
+    {
+      "id": 2370,
+      "name": "Blaze Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:51:04.182Z",
+      "attempts": 1
+    },
+    {
+      "id": 2371,
+      "name": "Poliwind Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:51:07.691Z",
+      "attempts": 1
+    },
+    {
+      "id": 2377,
+      "name": "Agile Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:51:10.617Z",
+      "attempts": 1
+    },
+    {
+      "id": 2407,
+      "name": "Baubleblast Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:52:58.614Z",
+      "attempts": 1
+    },
+    {
+      "id": 2428,
+      "name": "High Ethereal Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:54:19.009Z",
+      "attempts": 1
+    },
+    {
+      "id": 2429,
+      "name": "Dragon TV Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:54:23.977Z",
+      "attempts": 1
+    },
+    {
+      "id": 2434,
+      "name": "Cryogenic Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:54:45.325Z",
+      "attempts": 1
+    },
+    {
+      "id": 2435,
+      "name": "Gust Cherub Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:54:49.863Z",
+      "attempts": 1
+    },
+    {
+      "id": 2445,
+      "name": "Carnival Queen Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:55:35.267Z",
+      "attempts": 1
+    },
+    {
+      "id": 2452,
+      "name": "Wind Virago Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:56:08.579Z",
+      "attempts": 1
+    },
+    {
+      "id": 2456,
+      "name": "Fertility Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:56:31.871Z",
+      "attempts": 1
+    },
+    {
+      "id": 2457,
+      "name": "Hummingbird Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:56:39.727Z",
+      "attempts": 1
+    },
+    {
+      "id": 2476,
+      "name": "Mercury God Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:58:43.560Z",
+      "attempts": 1
+    },
+    {
+      "id": 2484,
+      "name": "Wind Titan Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:59:16.977Z",
+      "attempts": 1
+    },
+    {
+      "id": 2485,
+      "name": "Galestorm Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T19:59:20.358Z",
+      "attempts": 1
+    },
+    {
+      "id": 2492,
+      "name": "Piñata Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T19:59:52.610Z",
+      "attempts": 1
+    },
+    {
+      "id": 2493,
+      "name": "Natura Magus Dragon",
+      "reason": "Not found attack name key from: Vigor Feel",
+      "failedAt": "2026-09-09T19:59:57.130Z",
+      "attempts": 1
+    },
+    {
+      "id": 2494,
+      "name": "Rime Magus Dragon",
+      "reason": "Not found attack name key from: Vigor Feel",
+      "failedAt": "2026-09-09T20:00:00.720Z",
+      "attempts": 1
+    },
+    {
+      "id": 2496,
+      "name": "High Arcane Dragon",
+      "reason": "Not found attack name key from: Mana Lightnings",
+      "failedAt": "2026-09-09T20:00:11.183Z",
+      "attempts": 1
+    },
+    {
+      "id": 2498,
+      "name": "Enlightened Lapis Dragon",
+      "reason": "Not found attack name key from: Vigor Feel",
+      "failedAt": "2026-09-09T20:00:20.802Z",
+      "attempts": 1
+    },
+    {
+      "id": 2500,
+      "name": "Impervious Diamond Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:00:30.762Z",
+      "attempts": 1
+    },
+    {
+      "id": 2503,
+      "name": "Storm Magus Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:00:43.473Z",
+      "attempts": 1
+    },
+    {
+      "id": 2504,
+      "name": "Pyre Magus Dragon",
+      "reason": "Not found attack name key from: Vigor Feel",
+      "failedAt": "2026-09-09T20:00:48.397Z",
+      "attempts": 1
+    },
+    {
+      "id": 2508,
+      "name": "Aerosoar Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:01:00.750Z",
+      "attempts": 1
+    },
+    {
+      "id": 2525,
+      "name": "Spectacle Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-09T20:02:12.352Z",
+      "attempts": 1
+    },
+    {
+      "id": 2529,
+      "name": "Nightshade Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:02:30.493Z",
+      "attempts": 1
+    },
+    {
+      "id": 2532,
+      "name": "Light Ray Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:02:40.406Z",
+      "attempts": 1
+    },
+    {
+      "id": 2542,
+      "name": "West Wind Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:03:24.039Z",
+      "attempts": 1
+    },
+    {
+      "id": 2543,
+      "name": "Wind Fairy Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:03:26.952Z",
+      "attempts": 1
+    },
+    {
+      "id": 2544,
+      "name": "North Wind Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:03:31.766Z",
+      "attempts": 1
+    },
+    {
+      "id": 2545,
+      "name": "South Wind Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:03:35.262Z",
+      "attempts": 1
+    },
+    {
+      "id": 2549,
+      "name": "Pyroclastic Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:03:51.554Z",
+      "attempts": 1
+    },
+    {
+      "id": 2556,
+      "name": "East Wind Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:04:14.918Z",
+      "attempts": 1
+    },
+    {
+      "id": 2557,
+      "name": "Bastet Goddess Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-09T20:04:19.690Z",
+      "attempts": 1
+    },
+    {
+      "id": 2558,
+      "name": "Isis Goddess Dragon",
+      "reason": "Not found attack name key from: Vigor Feel",
+      "failedAt": "2026-09-09T20:04:24.798Z",
+      "attempts": 1
+    },
+    {
+      "id": 2562,
+      "name": "Osiris God Dragon",
+      "reason": "Not found attack name key from: Poisonous Dream",
+      "failedAt": "2026-09-09T20:04:40.270Z",
+      "attempts": 1
+    },
+    {
+      "id": 2564,
+      "name": "Forest Servant (M) Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T20:04:47.438Z",
+      "attempts": 1
+    },
+    {
+      "id": 2565,
+      "name": "Forest Servant (F) Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T20:04:51.510Z",
+      "attempts": 1
+    },
+    {
+      "id": 2566,
+      "name": "Forest Queen Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:04:55.627Z",
+      "attempts": 1
+    },
+    {
+      "id": 2575,
+      "name": "Hurricane Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:05:36.903Z",
+      "attempts": 1
+    },
+    {
+      "id": 2591,
+      "name": "Ali-A Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:06:34.337Z",
+      "attempts": 1
+    },
+    {
+      "id": 2604,
+      "name": "Divination Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:07:17.970Z",
+      "attempts": 1
+    },
+    {
+      "id": 2606,
+      "name": "Ragnarök Dragon",
+      "reason": "Element with query \"{\"value\":\".result-data:has(.entitytabledata) .subtitle:first-child\",\"type\":\"css\"}\" not found",
+      "failedAt": "2026-09-09T20:07:26.818Z",
+      "attempts": 1
+    },
+    {
+      "id": 2614,
+      "name": "Sleigh Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:07:58.138Z",
+      "attempts": 1
+    },
+    {
+      "id": 2615,
+      "name": "Festive Lights Dragon",
+      "reason": "Not found attack name key from: Vigor Feel",
+      "failedAt": "2026-09-09T20:08:00.960Z",
+      "attempts": 1
+    },
+    {
+      "id": 2617,
+      "name": "Lady of Christmas Dragon",
+      "reason": "Not found attack name key from: Vigor Feel",
+      "failedAt": "2026-09-09T20:08:09.521Z",
+      "attempts": 1
+    },
+    {
+      "id": 2620,
+      "name": "Lamp Genie Dragon",
+      "reason": "Not found attack name key from: Vigor Feel",
+      "failedAt": "2026-09-09T20:08:22.459Z",
+      "attempts": 1
+    },
+    {
+      "id": 2624,
+      "name": "Aladdin Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:08:38.706Z",
+      "attempts": 1
+    },
+    {
+      "id": 2627,
+      "name": "Bard Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:08:53.182Z",
+      "attempts": 1
+    },
+    {
+      "id": 2635,
+      "name": "Eolic Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:09:20.979Z",
+      "attempts": 1
+    },
+    {
+      "id": 2641,
+      "name": "Green Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:09:45.086Z",
+      "attempts": 1
+    },
+    {
+      "id": 2648,
+      "name": "Inspector Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:10:13.867Z",
+      "attempts": 1
+    },
+    {
+      "id": 2653,
+      "name": "Peacock Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:10:34.429Z",
+      "attempts": 1
+    },
+    {
+      "id": 2656,
+      "name": "Projectile Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:10:44.689Z",
+      "attempts": 1
+    },
+    {
+      "id": 2657,
+      "name": "Pyromaniac Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:10:49.127Z",
+      "attempts": 1
+    },
+    {
+      "id": 2676,
+      "name": "Elder Blaze Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:12:15.668Z",
+      "attempts": 1
+    },
+    {
+      "id": 2678,
+      "name": "Corrupted Electric Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:25:18.589Z",
+      "attempts": 1
+    },
+    {
+      "id": 2681,
+      "name": "Glaive Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:25:31.415Z",
+      "attempts": 1
+    },
+    {
+      "id": 2682,
+      "name": "Dream Dragon",
+      "reason": "Not found attack name key from: Poisonous Dream",
+      "failedAt": "2026-09-09T20:25:35.191Z",
+      "attempts": 1
+    },
+    {
+      "id": 2685,
+      "name": "Fae-Flora Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:25:42.655Z",
+      "attempts": 1
+    },
+    {
+      "id": 2688,
+      "name": "Fae-Faux Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:25:54.829Z",
+      "attempts": 1
+    },
+    {
+      "id": 2689,
+      "name": "Fae-Fatal Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:25:57.605Z",
+      "attempts": 1
+    },
+    {
+      "id": 2692,
+      "name": "Dragon Clone II Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:26:13.748Z",
+      "attempts": 1
+    },
+    {
+      "id": 2693,
+      "name": "Dragon Clone I Dragon",
+      "reason": "Not found attack name key from: Brilliant Fireworks",
+      "failedAt": "2026-09-09T20:26:18.530Z",
+      "attempts": 1
+    },
+    {
+      "id": 2699,
+      "name": "High Typhoon Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:26:41.847Z",
+      "attempts": 1
+    },
+    {
+      "id": 2702,
+      "name": "Eelectrifying Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:26:54.302Z",
+      "attempts": 1
+    },
+    {
+      "id": 2719,
+      "name": "Full Moon Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:28:09.791Z",
+      "attempts": 1
+    },
+    {
+      "id": 2724,
+      "name": "Polar Prince Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:28:26.142Z",
+      "attempts": 1
+    },
+    {
+      "id": 2726,
+      "name": "Arid Ambassador Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:28:33.627Z",
+      "attempts": 1
+    },
+    {
+      "id": 2733,
+      "name": "Phantom Virago Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:28:53.281Z",
+      "attempts": 1
+    },
+    {
+      "id": 2748,
+      "name": "Sweet Dream Dragon",
+      "reason": "Not found attack name key from: Poisonous Dream",
+      "failedAt": "2026-09-09T20:29:50.792Z",
+      "attempts": 1
+    },
+    {
+      "id": 2751,
+      "name": "Potion Apprentice Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:30:03.980Z",
+      "attempts": 1
+    },
+    {
+      "id": 2754,
+      "name": "Master Dean Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:30:08.635Z",
+      "attempts": 1
+    },
+    {
+      "id": 2755,
+      "name": "Incendiary Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:30:13.427Z",
+      "attempts": 1
+    },
+    {
+      "id": 2759,
+      "name": "Echo Terror Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:30:33.252Z",
+      "attempts": 1
+    },
+    {
+      "id": 2783,
+      "name": "Rune Wyvern Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:31:54.114Z",
+      "attempts": 1
+    },
+    {
+      "id": 2909,
+      "name": "Ascended Deity Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:33:00.142Z",
+      "attempts": 1
+    },
+    {
+      "id": 2911,
+      "name": "Ascended Oracle Dragon",
+      "reason": "Cannot read properties of undefined (reading 'toLowerCase')",
+      "failedAt": "2026-09-09T20:33:06.690Z",
+      "attempts": 1
     }
   ],
-  "lastSyncAt": "2026-09-07T19:44:23.840Z",
-  "updatedAt": "2026-09-07T19:44:23.841Z"
+  "lastSyncAt": "2026-09-09T20:33:13.704Z",
+  "updatedAt": "2026-09-09T20:33:13.705Z"
 }
