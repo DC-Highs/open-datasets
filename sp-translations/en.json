@@ -4575,6 +4575,9 @@
     "tid_LO_challenges_collect_backtoschool_MS3": "Ace the Class"
   },
   {
+    "tid_levels_food_chest_tier": "Better Food Chests"
+  },
+  {
     "tid_progressionsystem_claimall_button": "CLAIM ALL!"
   },
   {
@@ -7299,196 +7302,196 @@
     "tid_tutorial_65_1_message": "You've got a new guest on your Islands! This little critter is looking for some much-needed love and attention... Are you up to the task?"
   },
   {
-    "tid_goals_21_instructions_mouse": "When the egg in the Hatchery is ready, click on the Hatch button at the bottom of the screen. Then select Place and choose a habitat that matches one of the dragon's elements."
+    "tid_goals_6_instructions_mouse": "Click on a Farm, and then on the Grow Food button. Select Backyard Gardener and wait."
   },
   {
-    "tid_goals_62_instructions_mouse": "Click on a habitat. Select a dragon and start clicking on the Feed button under the dragon image. You can get more Food by building new Farms."
+    "tid_goals_37_instructions_mouse": "Click on a Big Tree. Then choose Clear from the menu. After that, click the Speed Up buttons to speed up the process."
   },
   {
-    "tid_goals_2020_instructions_mouse": "Click on your Food Farm and select the Upgrade icon on the bottom of your screen. Then click the blue button in the Building Upgrade dialog."
+    "tid_goals_2014_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Rainbow Island."
   },
   {
-    "tid_goals_2066_instructions_mouse": "Click on the Summoning Wall and summon the dragon."
+    "tid_goals_2045_instructions_mouse": "Click on the Summoning Wall and summon Gorgoneia."
   },
   {
-    "tid_tutorial_1_22_message_mouse": "You need Farms to grow Food for your dragons! Click SHOP."
+    "tid_tutorial_1_9_message_mouse": "The Hatchery is where dragons are born.\\nClick on it to get your first dragon!"
   },
   {
-    "tid_tutorial_25_6_message_mouse": "Click on the lever to spin it and find out how many moves you get!"
+    "tid_tutorial_21_2_message_mouse": "To release the first dragon from its cage, click on the cage until it's open."
   },
   {
-    "tid_dragon_cinema_help_view_description_second_mouse": "To check the status of the task you've started, click on the \"i\" button in the upper left corner and then on the \"Rewards Status\" button. Be aware that rewards might take some days to be delivered once a task is completed."
+    "tid_expand_click_here_mouse_mouse": "Click to buy"
   },
   {
-    "tid_xpromo_welcome_title": "Welcome to Windows!"
+    "tid_breedingisland_helpscreen_three_mouse": "Click this button to select a \"joker dragon\" for the breeding event instead!"
   },
   {
-    "tid_pack_118_description": "Get the Firefighter Dragon and a bunch of Food for a very special price with this Combo Pack!"
+    "tid_pack_112_description": "You don't even need to unpack the dragon in this Combo Pack, he's all good inside his parcel: The Box Dragon!"
   },
   {
-    "tid_pack_133_description": "You're not seeing double! There's not one but TWO dragons included in this combo pack!"
+    "tid_pack_127_description": "Happy Father's Day! Show some love for this daddy dragon!"
   },
   {
-    "tid_pack_148_description": "The medals on his jacket prove his experience: It's the Old General Dragon!"
+    "tid_pack_142_description": "Oktoberfestastic Combo Pack! The Barley Dragon and lots of resources for a special price!"
   },
   {
-    "tid_pack_163_description": "Some find him funny, some find him annoying: It's the Joke Dragon!"
+    "tid_pack_157_description": "Get the Dark Lord Dragon to complete your Mythical Collection!"
   },
   {
-    "tid_pack_178_description": "You only live once, so why stress out?"
+    "tid_pack_172_description": "All the way from tropical waters: The Caribbean Dragon."
   },
   {
-    "tid_pack_193_description": "The Leaf Dragon is one of the lightest creatures in Dragon City!"
+    "tid_pack_187_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_205_description": "Use these dragons in the Breeding Season event! "
+    "tid_pack_201_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_215_description": "Two Very Rare Dragons with a huge discount!"
+    "tid_pack_212_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_225_title": "RARITY COMBO PACK"
+    "tid_pack_221_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_236_description": "Two Very Rare Dragons with a huge discount!"
+    "tid_pack_232_description": "Use these dragons in the Breeding Season event! "
   },
   {
-    "tid_pack_246_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_240_description": "Two Legendary Dragons with a huge discount!"
   },
   {
-    "tid_pack_258_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_253_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_269_title": "FLAME COMBO PACK"
+    "tid_pack_265_title": "METAL COMBO PACK"
   },
   {
-    "tid_pack_279_description": "Two Very Rare Dragons with a huge discount!"
+    "tid_pack_274_description": "Two exclusive dragons of the Light element with a huge discount!"
   },
   {
-    "tid_pack_289_title": "RARITY COMBO PACK"
+    "tid_pack_285_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_301_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_295_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_316_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_310_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_330_description": "Two Legendary Dragons with a huge discount!"
+    "tid_pack_325_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_345_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_339_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_add_perk_popup_cancel_bt_ok": "CANCEL"
+    "tid_pack_354_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_perk_tooltip_title": "ATTACHED PERKS:"
+    "tid_perks_helpview_description2": "A higher rarity Perk means more Perk power!\\nYou also have Combat Perks, which take effect during battle, and Character Perks, which take effect outside of battle."
   },
   {
-    "tid_reaper_perk_name": "Reaper Perk"
+    "tid_damage_perk_name": "Damage Perk"
   },
   {
-    "tid_perks_getmore_button": "GET MORE"
+    "tid_store_pack_health_perk": "Sack of Health Perks"
   },
   {
-    "tid_offer_perks_supremepack_title": "SUPREME PERK PACK"
+    "tid_offer_perks_supremepack_reaper_title": "SUPREME REAPER PACK"
   },
   {
-    "tid_name_increase_breeding_chances": "Breeding Perk"
+    "tid_perk_rarity_pro": "PRO"
   },
   {
-    "tid_comming_soon_perks": "More Perks coming soon!"
+    "tid_attach_perk_popup_title": "ADD PERK"
   },
   {
-    "tid_damage_perk_advanced_name": "Advanced Damage Perk"
+    "tid_perks_delete_confirmation_title": "DELETE PERKS"
   },
   {
-    "tid_vip_dragon_title_4": "Exclusive Void Dragon"
+    "tid_vip_dragon_header_generic": "For VIP users only!"
   },
   {
-    "tid_vip_dragon_desc_5": "The Spirit of the Forest"
+    "tid_vip_dragon_title_11": "Exclusive Rocket Dragon"
   },
   {
-    "tid_vip_dragon_title_23": "Exclusive Enigmatic Dragon"
+    "tid_vip_dragon_title_20": "Exclusive Hell Twin Dragon"
   },
   {
-    "tid_vip_dragon_title_30": "Exclusive Fiend Dragon"
+    "tid_vip_dragon_title_27": "Exclusive Archaic Dragon"
   },
   {
-    "tid_vip_dragon_desc_38": "A Peek Into Infinity"
+    "tid_vip_dragon_desc_35": "The Dark Twin"
   },
   {
-    "tid_vip_dragon_title_46": "Exclusive Nirvana Dragon"
+    "tid_vip_dragon_title_43": "Exclusive Soap Bubble Dragon"
   },
   {
-    "tid_vip_dragon_desc_53": "Powers to crush anything."
+    "tid_vip_dragon_desc_50": "A boost for battle!"
   },
   {
-    "tid_vip_dragon_icon_59": "VIP MYTHICAL"
+    "tid_vip_dragon_desc_57": "Powers to crush anything."
   },
   {
-    "tid_vip_dragon_title_angry_egg": "Exclusive Angry Egg Dragon"
+    "tid_vip_dragon_title_elder": "Exclusive Elder Dragon"
   },
   {
-    "tid_vip_dragon_desc_future": "Controller of destiny."
+    "tid_vip_dragon_desc_2_ice_hockey": "Back for a limited time!"
   },
   {
-    "tid_vip_dragon_title_shield": "Exclusive Shield Dragon"
+    "tid_vip_dragon_title_stellartress": "Exclusive Stellartress Dragon"
   },
   {
-    "tid_vip_dragon_header_destruction": "Not the bad guy it is made out to be..."
+    "tid_vip_dragon_desc_trident": "Conqueror of the ocean."
   },
   {
-    "tid_pets_feed_level_description": "Reach level {} to own this Pet and get its Pet Boons"
+    "tid_pets_pet_name_1": "Furball"
   },
   {
-    "tid_pets_info_screen_boosts": "PET BOONS"
+    "tid_pets_food_sources_description": "Find Pet Food Baskets in the following features:"
   },
   {
-    "tid_pets_helpview_description_2_old": "Feed your Pet to its maximum level in order to keep it. Its Pet Boons can help you with special bonuses. Keep leveling up your Pet beyond that for even more Rewards."
+    "tid_pets_gift_title": "A GIFT FROM YOUR PET"
   },
   {
-    "tid_store_pack_pets_6": "Pet Banquet"
+    "tid_pets_state_missing": "Missing"
   },
   {
-    "tid_news_petsevent_start_title": "NEW PET ARRIVAL!"
+    "tid_pets_end_season_notification_title": "Petting season will soon be over..."
   },
   {
-    "tid_pets_offer_special_title": "PET SPECIAL OFFER"
+    "tid_pets_pet_name_2": "Kika"
   },
   {
-    "tid_pets_pet_name_6": "Cranky"
+    "tid_pets_pet_name_3": "Lilly"
   },
   {
-    "tid_subcategories_18_name": "Dark"
+    "tid_subcategories_17_name": "Metal"
   },
   {
-    "tid_subcategories_24_name": "Nature"
+    "tid_subcategories_23_name": "Sea"
   },
   {
-    "tid_subcategories_219_name": "Soul"
+    "tid_subcategories_218_name": "Magic"
   },
   {
-    "tid_subcategories_91_name": "Offer"
+    "tid_subcategories_122_name": "Others"
   },
   {
-    "tid_trails_timer_end": "Trail ends:"
+    "tid_trails_resets_in": "Resets in:"
   },
   {
-    "tid_dragon_trail_failed_popup_desc": "There was an unexpected issue. Please try again later. If the situation persists, please contact Customer Support."
+    "tid_dragon_trail_failed_popup_title": "CONNECTION ERROR"
   },
   {
-    "tid_dragon_trails_source": "Dragon Trails"
+    "tid_news_dragontrails_header": "A new Dragon Trail has begun! Spin your way to success and move along the Trail to reach these Rewards and more."
   },
   {
-    "tid_vip_tier_summary_popup_title": "ALL PRESTIGE TIERS"
+    "tid_vip_tier_info_max_tier": "Tier is secured. Good job Dragon Master!"
   },
   {
-    "tid_vip_tier_find_currency_title": "GET MORE PRESTIGE POINTS"
+    "tid_vip_tier_benefit_header": "Benefits"
   },
   {
-    "tid_vip_tier_maintained_tooltip": "Congrats! You manage to maintain the current tier. Enjoy your amazing benefits for another cycle."
+    "tid_vip_tier_help_title": "PRESTIGE TIERS"
   },
   {
     "tid_new_building_upgrade_header": "3 DAYS, 3 DISCOUNTS!"
@@ -12066,6 +12069,9 @@
     "tid_LO_challenges_collect_backtoschool_MS4": "Ring the Bell"
   },
   {
+    "tid_levels_food_pack_tier": "Better Food Packs"
+  },
+  {
     "tid_progressionsystem_claimallunlocked_button": "CLAIM ALL UNLOCKED"
   },
   {
@@ -14790,196 +14796,196 @@
     "tid_tutorial_66_2_message": "You’re ready to climb the Prestige Tiers! Collect Prestige Points and raise your status."
   },
   {
-    "tid_goals_22_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
+    "tid_goals_9_instructions_mouse": "Click on the Shop button and then on Buildings. Select a Farm."
   },
   {
-    "tid_goals_63_instructions_mouse": "Click on the For Sale sign for the expansion you want and choose to expand with either Gold or Gems."
+    "tid_goals_49_instructions_mouse": "Click on the Shop button, select Expand, and choose how you want to pay for the expansion: Gold or Gems. Then select the expansion slot you want and click on it."
   },
   {
-    "tid_goals_2029_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
+    "tid_goals_2015_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Ice Island."
   },
   {
-    "tid_goals_2079_instructions_mouse": "Click on the Coliseum, click on the Combat button and enter your first Quest battle."
+    "tid_goals_2046_instructions_mouse": "Click on the Summoning Wall and summon Piercing."
   },
   {
-    "tid_tutorial_1_23_message_mouse": "Click BUILDINGS and then on Farm."
+    "tid_tutorial_1_10_message_mouse": "Click on GET EGG to get your first Terra Dragon!"
   },
   {
-    "tid_tutorial_25_9_message_mouse": "Click on the arrows until you've spent all moves."
+    "tid_tutorial_21_11_message_mouse": "Nice! You released the dragon! Now click on it again to guide it through the maze."
   },
   {
-    "tid_dragon_cinema_help_view_description_third_fyber_mouse": "Get in touch with Fyber if you have completed a task and haven't received your rewards after a few days. To get in touch, go to the \"Rewards Status\" section and click on \"report\" next to the task for which you have the pending reward."
+    "tid_keychain_reading_error_message_mouse": "There was a problem reading your saved data.\\n\\nPlease click the button to try again."
   },
   {
-    "tid_xpromo_welcome_desc": "Welcome to a brand new PC version of Dragon City, with HD graphics and improved performance! Here are 30 gems to help you in your new endeavors. Have fun!"
+    "tid_fairy_blessing_disappear_desc_mouse": "Your Fairy's Blessing has finished. Click the Blessing Fairy to get another one!"
   },
   {
-    "tid_pack_119_description": "Get the Firefighter Dragon and a bunch of Food for a very special price with this Combo Pack!"
+    "tid_pack_113_description": "You don't even need to unpack the dragon in this Combo Pack, he's all good inside his parcel: The Box Dragon!"
   },
   {
-    "tid_pack_134_description": "Who wouldn't want to own this bad boy? Get the Motorbike Dragon with this exclusive combo pack!"
+    "tid_pack_128_description": "Happy Father's Day! Show some love for this daddy dragon!"
   },
   {
-    "tid_pack_149_description": "The NEW Candy Boot Dragon is a must-have for Christmas time!"
+    "tid_pack_143_description": "Exclusive Combo Pack! Homerun all the way! This is the Homerun dragon!"
   },
   {
-    "tid_pack_164_description": "Zodiac Combo Pack: Aries Dragon! Complete your zodiac collection."
+    "tid_pack_158_description": "Get the Infamous Dragon to complete your Ancient Collection!"
   },
   {
-    "tid_pack_179_description": "Zodiac Combo Pack: Virgo Dragon! Complete your zodiac collection."
+    "tid_pack_173_description": "Handle with care: This dragon is high voltage."
   },
   {
-    "tid_pack_194_description": "The Super Terra Dragon is the most powerful creature of its kind!"
+    "tid_pack_188_description": "A must-have for all nature lovers!"
   },
   {
-    "tid_pack_206_description": "Use these dragons in the Breeding Season event! "
+    "tid_pack_202_description": "Two Fire Dragons with a huge discount!"
   },
   {
-    "tid_pack_216_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_213_title": "YOUTUBER COMBO PACK"
   },
   {
-    "tid_pack_225_description": "Two Rare Dragons with a huge discount!"
+    "tid_pack_222_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_237_title": "RARITY COMBO PACK"
+    "tid_pack_233_description": "Use these dragons in the Breeding Season event! "
   },
   {
-    "tid_pack_247_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_241_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_259_title": "RARITY COMBO PACK"
+    "tid_pack_253_description": "Two Epic Dragons with a huge discount!"
   },
   {
-    "tid_pack_269_description": "Two Flame Dragons with a huge discount!"
+    "tid_pack_265_description": "Two exclusive dragons of the Metal element with a huge discount!"
   },
   {
-    "tid_pack_280_description": "The Kyuubi Dragon and a bunch of resources for a very special price!"
+    "tid_pack_275_title": "LIGHT COMBO PACK"
   },
   {
-    "tid_pack_289_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_286_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_302_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_296_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_317_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_311_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_331_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_325_description": "Two Very Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_346_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_340_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_perks_popup_title": "PERKS"
+    "tid_pack_355_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_perk_ability_percentage_info_perk_popup": "Up to a %1$s increase for your dragon"
+    "tid_perks_helpview_title3": "REMOVING PERKS"
   },
   {
-    "tid_reaper_perk_desc": "Deals damage to an opponent revived by a Phoenix Perk and can be activated multiple times. More attached Reaper Perks means more damage dealt. You can find this Perk in Offers!"
+    "tid_damage_perk_desc": "Increases your dragon's damage. You might find this Perk in Offers, the Shop, Quests or in-game events!"
   },
   {
-    "tid_offer_perks_gacha_title": "LUCKY PERK PACK"
+    "tid_store_pack_phoenix_perk": "Sack of Phoenix Perks"
   },
   {
-    "tid_offer_perks_supremepack_header": "The Ultimate Perk Offer meant for YOU!"
+    "tid_offer_perks_supremepack_reaper_header": "Come knocking at your enemy's door..."
   },
   {
-    "tid_name_increase_dragon_attack": "Attack Perk"
+    "tid_perk_equipped": "Attached"
   },
   {
-    "tid_perks_name": "PERKS"
+    "tid_attach_perks_line1_popup": "Remember, Gold or Gems are needed to remove Perks."
   },
   {
-    "tid_damage_perk_advanced_desc": "Greatly increases your dragon's damage. You might find this Perk in Offers, the Shop, Quests or in-game events!"
+    "tid_perks_delete_confirmation_description": "Are you sure you want to delete all your Perks from this slot?\\nRemember, DELETING Perks is a permanent action."
   },
   {
-    "tid_vip_dragon_title_5": "Exclusive Sentence Dragon"
+    "tid_vip_dragon_title_1": "Exclusive Hellgate Dragon"
   },
   {
-    "tid_vip_dragon_title_16": "Exclusive Glitter Dragon"
+    "tid_vip_dragon_title_12": "Exclusive VIP offer"
   },
   {
-    "tid_vip_dragon_title_24": "Exclusive Poisonous Dragon"
+    "tid_vip_dragon_header_helltwin": "Two heads means double danger!"
   },
   {
-    "tid_vip_dragon_desc_20": "Straight out of hell"
+    "tid_vip_dragon_desc_17": "Eternally almighty"
   },
   {
-    "tid_vip_dragon_title_39": "Exclusive Charged Dragon"
+    "tid_vip_dragon_title_36": "Exclusive Yang Dragon"
   },
   {
-    "tid_vip_dragon_desc_46": "Majestic. Heavenly."
+    "tid_vip_dragon_desc_43": "Float me to the moon!"
   },
   {
-    "tid_vip_dragon_title_54": "Exclusive Dumbpling Dragon"
+    "tid_vip_dragon_title_51": "Mythical Dangerosaur Dragon"
   },
   {
-    "tid_vip_dragon_title_60": "Exclusive Gel Barrier Dragon"
+    "tid_vip_dragon_icon_57": "VIP MYTHICAL"
   },
   {
-    "tid_vip_dragon_desc_angry_egg": "Every dragon’s nightmare."
+    "tid_vip_dragon_desc_elder": "It’s all about the win!"
   },
   {
-    "tid_vip_dragon_title_past": "Exclusive Past Dragon"
+    "tid_vip_dragon_title_eyeofchaos": "Exclusive Eye of Chaos Dragon"
   },
   {
-    "tid_vip_dragon_desc_shield": "Defender of realms."
+    "tid_vip_dragon_desc_stellartress": "Heroine of stars."
   },
   {
-    "tid_vip_dragon_header_joanofarc": "A heroine who speaks up!"
+    "tid_vip_dragon_generic_title": "Exclusive VIP Dragon"
   },
   {
-    "tid_pet_points": "Pet Food"
+    "tid_pets_pet_description_1": "Fur-st come, fur-st served! The first Pet to detach from its dragon counterpart, Furball, has learned to thrive solo and inhabit your Islands. Of course, a Dragon Master's helping hand is always appreciated! This energetic, lovable friend enjoys belly rubs and rolling around like a furry tumbleweed!"
   },
   {
-    "tid_pets_info_screen_boost_1": "Boon 1"
+    "tid_pets_milestone_claim_title": "MILESTONE REACHED!"
   },
   {
-    "tid_pets_helpview_title_3": "PET LEVELS"
+    "tid_pets_gift_description": "Your Pet has found something for you."
   },
   {
-    "tid_store_pack_pets_7": "Pet All You Can Eat"
+    "tid_store_pack_pets_1": "Pet Nibble"
   },
   {
-    "tid_news_petsevent_start_header": "A special Island with a cute, new friend is here! Take care of your Pet, feed it well, and earn tons of Rewards along the way!"
+    "tid_pets_end_season_notification_description": "Last chance to spend some time with your Pet!"
   },
   {
-    "tid_pets_offer_special_header": "Don't miss this chance to keep your pet happy!"
+    "tid_pets_pet_description_2": "Double the tails, double the fun! Kika is a loyal gray companion who’s always wagging her way into trouble. Whether she’s chasing her own shadows or fetching rare artifacts, this two-tailed pup is a blur of energy. She might be small, but her heart is big enough to lead any Dragon Master toward a new adventure!"
   },
   {
-    "tid_pets_pet_description_6": "With his trusty blue shell and big, sparkling green eyes, this little crustacean is anything but grumpy! Cranky might have a tough exterior, but he's a total softie who loves scuttling alongside his favorite Dragon Master, bringing a pinch of seaside charm to every adventure."
+    "tid_pets_pet_description_3": "This pastel puff of joy loves hiding enchanted eggs and surprising her dragon friends with sweet springtime magic. With her tiny horn and bouncy energy, she’s the perfect little companion to brighten any Dragon Master’s easter adventure!"
   },
   {
-    "tid_subcategories_19_name": "Light"
+    "tid_subcategories_18_name": "Dark"
   },
   {
-    "tid_subcategories_25_name": "Electric"
+    "tid_subcategories_24_name": "Nature"
   },
   {
-    "tid_subcategories_32_name": "Farms"
+    "tid_subcategories_219_name": "Soul"
   },
   {
-    "tid_subcategories_92_name": "New"
+    "tid_subcategories_91_name": "Offer"
   },
   {
-    "tid_dragon_trail_ends": "Trail ends:"
+    "tid_trails_timer_end": "Trail ends:"
   },
   {
-    "tid_dragon_trail_timeout_popup_title": "DRAGON TRAILS TIMEOUT"
+    "tid_dragon_trail_failed_popup_desc": "There was an unexpected issue. Please try again later. If the situation persists, please contact Customer Support."
   },
   {
-    "tid_vip_tiers_name": "Prestige Tiers"
+    "tid_dragon_trails_source": "Dragon Trails"
   },
   {
-    "tid_vip_tier_badge_ready": "READY"
+    "tid_vip_tier_summary_popup_title": "ALL PRESTIGE TIERS"
   },
   {
-    "tid_vip_tier_find_currency_description": "Obtain Prestige Points by making purchases and playing in Dragon City.\nHere are some places you can obtain Prestige Points:"
+    "tid_vip_tier_find_currency_title": "GET MORE PRESTIGE POINTS"
   },
   {
-    "tid_vip_tier_points_obtained_desc": "Prestige obtained!"
+    "tid_vip_tier_maintained_tooltip": "Congrats! You manage to maintain the current tier. Enjoy your amazing benefits for another cycle."
   },
   {
     "tid_new_as_dark_oct19_s2_button": "GO TO SHOP"
@@ -22281,196 +22287,196 @@
     "tid_tutorial_66_3_message": "Here you can check the benefits associated with your Prestige Tier. Unlock more as you climb to higher Tiers!"
   },
   {
-    "tid_goals_24_instructions_mouse": "Click on the Breeding Mountain or the Ultra Breeding Tree. Then click on the Breed button and select a Sea Dragon and a Fire Dragon. Remember that you can't breed dragons under level 4."
+    "tid_goals_7_instructions_mouse": "When the time is up, a Food icon will appear. Click on it to obtain Food!"
   },
   {
-    "tid_goals_113_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon image. You can get more Food by building new Farms."
+    "tid_goals_30_instructions_mouse": "Click on the Shop, select Buildings, and then click on the Recruitment Tavern. "
   },
   {
-    "tid_goals_2030_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
+    "tid_goals_2016_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Gothic Island."
   },
   {
-    "tid_goals_2080_instructions_mouse": "Click on the Quest card to continue fighting and finish your first Quest."
+    "tid_goals_2050_instructions_mouse": "Click on the Summoning Wall and summon Fulltune."
   },
   {
-    "tid_tutorial_1_25_message_mouse": "Click OK to place the Farm."
+    "tid_tutorial_1_12_message_mouse": "Click HATCH to instantly hatch your dragon."
   },
   {
-    "tid_tutorial_29_2_message_mouse": "Click on the lever to spin it and find out how many moves you get!"
+    "tid_tutorial_22_2_message_mouse": "Click on the die to roll it and find out how many moves you get!"
   },
   {
-    "tid_dragonbook_help_filters_mouse": "Looking for a particular dragon? Use the filters to find it! Filters are applied when you click on them."
+    "tid_gem_confirmation_question_mouse": "Click again to confirm the purchase"
   },
   {
-    "tid_xpromo_welcome_button": "CLAIM"
+    "tid_battlegrounds_battle_helpview_description2_mouse": "Your dragons automatically fight their opponents, but you can click an enemy at any moment to make it the target for your whole team."
   },
   {
-    "tid_pack_120_description": "Happy Mother's Day! Celebrate it with this exclusive Motherly Dragon Combo Pack. Limited time only!"
+    "tid_pack_114_description": "An Adamantium Combo Pack is an indestructible one! Here's the brand new Adamantium Dragon. Limited time only!"
   },
   {
-    "tid_pack_135_description": "Who wouldn't want to own this bad boy? Get the Motorbike Dragon with this exclusive combo pack!"
+    "tid_pack_129_description": "NEW DRAGON! Meet our proudest student: The Graduation Dragon! Get him now with this Combo Pack!"
   },
   {
-    "tid_pack_150_description": "Despite his terrible handwriting, the Doctor Dragon is really helpful after battles!"
+    "tid_pack_144_description": "The Columbus Dragon is an experienced conqueror. Get him with this exclusive Combo Pack!"
   },
   {
-    "tid_pack_165_description": "An essential creature in Dragon City!"
+    "tid_pack_159_description": "Get the Fate Dragon to complete your Classical Collection!"
   },
   {
-    "tid_pack_180_description": "Three heads, three personalities, one dragon."
+    "tid_pack_174_description": "Leo Dragon! There's a new Zodiac Dragon every month, complete your collection!"
   },
   {
-    "tid_pack_195_description": "The guardian of all traditions and a master in martial arts: It's the Asian Dragon!"
+    "tid_pack_189_description": "The medals on his jacket prove his experience: It's the Old General Dragon!"
   },
   {
-    "tid_pack_207_title": "RARITY COMBO PACK"
+    "tid_pack_202_title": "FLAME COMBO PACK"
   },
   {
-    "tid_pack_generic_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_213_description": "Use Vanoss and H2O Delirious to participate in the Hoodini Cup!"
   },
   {
-    "tid_pack_226_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_222_description": "Two Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_237_description": "Two Epic Dragons with a huge discount!"
+    "tid_pack_234_description": "Two War Dragons with a huge discount!"
   },
   {
-    "tid_pack_248_title": "RARITY COMBO PACK"
+    "tid_pack_242_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_259_description": "Two Epic Dragons with a huge discount!"
+    "tid_pack_254_description": "Get the Tailwind Dragon and a bunch of resources in this exclusive Combo Pack!"
   },
   {
-    "tid_pack_270_title": "RARITY COMBO PACK"
+    "tid_pack_266_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_281_title": "RARITY COMBO PACK"
+    "tid_pack_275_description": "Two exclusive dragons of the Light element with a huge discount!"
   },
   {
-    "tid_pack_290_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_286_description": "Two Very Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_303_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_297_description": "Two exclusive dragons of the Light element with a huge discount!"
   },
   {
-    "tid_pack_318_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_312_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_332_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_326_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_347_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_341_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_perks_available_popup_title": "AVAILABLE PERKS"
+    "tid_pack_356_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_perk_tooltip_stats_base": "Base"
+    "tid_perks_helpview_description3": "You can remove Perks from a dragon by either deleting them or storing them. It costs less to delete Perks but it means you will lose them forever. Perks can be kept by storing them instead."
   },
   {
-    "tid_remove_perks_title": "REMOVE PERKS"
+    "tid_health_perk_name": "Health Perk"
   },
   {
-    "tid_offer_perks_gacha_header": "There's a chance to get some powerful Perks in this pack!"
+    "tid_store_pack_reaper_perk": "Sack of Reaper Perks"
   },
   {
-    "tid_offer_perks_supremepack_desc": "Boost your dragons with tons of powerful Perks!"
+    "tid_offer_perks_supremepack_reaper_icon": "REAPER PACK"
   },
   {
-    "tid_name_increase_dragon_defense": "Defense Perk"
+    "tid_perk_equipped_description": "This Perk is already attached to this dragon"
   },
   {
-    "tid_perks_combat_type": "COMBAT"
+    "tid_attach_perks_line1_popup_v2": "Remember, you won't be able to remove it afterwards."
   },
   {
-    "tid_health_perk_advanced_name": "Advanced Health Perk"
+    "tid_perks_delete_confirmation_button_yes": "YES"
   },
   {
-    "tid_vip_dragon_title_6": "Exclusive Faust Dragon"
+    "tid_vip_dragon_header_hellgate": "Shows no mercy."
   },
   {
-    "tid_vip_dragon_desc_6": "As precious as gold"
+    "tid_vip_dragon_title_13": "EXCLUSIVE VIP OFFER"
   },
   {
-    "tid_vip_dragon_desc_14": "Stay Away"
+    "tid_vip_dragon_title_21": "Exclusive City Shark Dragon"
   },
   {
-    "tid_vip_dragon_title_31": "Exclusive Pure Gold Dragon"
+    "tid_vip_dragon_title_28": "Exclusive Betrayer Dragon"
   },
   {
-    "tid_vip_dragon_desc_39": "The Metal Twin"
+    "tid_vip_dragon_desc_36": "The Light Twin"
   },
   {
-    "tid_vip_dragon_title_47": "Exclusive Mist Dragon"
+    "tid_vip_dragon_title_44": "Exclusive Catkun Dragon"
   },
   {
-    "tid_vip_dragon_desc_54": "Powers to make dragons cry."
+    "tid_vip_dragon_desc_51": "The ground shakes."
   },
   {
-    "tid_vip_dragon_desc_60": "Enemies will disintegrate."
+    "tid_vip_dragon_title_58": "Exclusive Dwelling Dragon"
   },
   {
-    "tid_vip_dragon_title_ice_hockey": "Exclusive Ice Hockey Dragon"
+    "tid_vip_dragon_title_glace": "Exclusive Glace Dragon"
   },
   {
-    "tid_vip_dragon_desc_past": "Witness of the world."
+    "tid_vip_dragon_desc_eyeofchaos": "He sees everything."
   },
   {
-    "tid_vip_dragon_title_scientist": "Exclusive Scientist Dragon"
+    "tid_vip_dragon_title_hollowtress": "Exclusive Hollowtress Dragon"
   },
   {
-    "tid_vip_dragon_header_cleopatra": "Calculated and cunning."
+    "tid_vip_twin_generic_title": "Exclusive VIP Twin"
   },
   {
-    "tid_pet_food": "Pet Food"
+    "tid_pets_pet_description_1_old": "The furriest, cutest furball there is!"
   },
   {
-    "tid_pets_info_screen_boost_2": "Boon 2"
+    "tid_pets_milestone_claim_description": "Your Pet gave you a gift for feeding it."
   },
   {
-    "tid_pets_helpview_description_3": "Don't forget to feed your Pet. Underfed Pets get sad, and their level progressions reset."
+    "tid_pets_helpview_title_1": "ISLAND PETS"
   },
   {
-    "tid_pets_offer_starterpack_title": "PET STARTER PACK!"
+    "tid_store_pack_pets_2": "Pet Snack"
   },
   {
-    "tid_pets_come_later": "Check back later!"
+    "tid_pets_not_fed_pet_notification_title": "Feed your Pet!"
   },
   {
-    "tid_pets_end_season_keep_your_pet_title": "KEEP YOUR PETS!"
+    "tid_pets_offer_xlchest_title": "PET XL BASKET!"
   },
   {
-    "tid_pets_pet_name_7": "Purrbell"
+    "tid_pets_pet_name_4": "Chirpy"
   },
   {
-    "tid_subcategories_110_name": "War"
+    "tid_subcategories_19_name": "Light"
   },
   {
-    "tid_subcategories_26_name": "Ice"
+    "tid_subcategories_25_name": "Electric"
   },
   {
-    "tid_subcategories_33_name": "Crystals"
+    "tid_subcategories_32_name": "Farms"
   },
   {
-    "tid_subcategories_120_name": "Primal"
+    "tid_subcategories_92_name": "New"
   },
   {
-    "tid_trails_end_of_trail": "What a feat! You've reached the end of the trail! Now you can play again with new Rewards."
+    "tid_dragon_trail_ends": "Trail ends:"
   },
   {
-    "tid_dragon_trail_timeout_popup_desc": "There was an interruption in your internet connection, meaning the result of your Spin is unable to be shown."
+    "tid_dragon_trail_timeout_popup_title": "DRAGON TRAILS TIMEOUT"
   },
   {
-    "tid_vip_tiers_popup_title": "PRESTIGE TIERS"
+    "tid_vip_tiers_name": "Prestige Tiers"
   },
   {
-    "tid_vip_tier_badge_locked": "LOCKED"
+    "tid_vip_tier_badge_ready": "READY"
   },
   {
-    "tid_vip_tier_deus_trade_locked_button": "DEUS TRADE LOCKED"
+    "tid_vip_tier_find_currency_description": "Obtain Prestige Points by making purchases and playing in Dragon City.\nHere are some places you can obtain Prestige Points:"
   },
   {
-    "tid_vip_tiers_cycle_about_to_end_notification_title": "⏳Your VIP benefits will expire soon"
+    "tid_vip_tier_points_obtained_desc": "Prestige obtained!"
   },
   {
     "tid_news_titan_collection_teaser_icon": "TITAN DRAGONS"
@@ -29772,196 +29778,196 @@
     "tid_tutorial_66_4_message": "You can enjoy the benefits for a full season! Reach the next Prestige Point checkpoint to continue enjoying them."
   },
   {
-    "tid_goals_25_instructions_mouse": "First click on the Hatchery, then on the Hatch button, and then on the Speed Up button to speed up the process."
+    "tid_goals_15_instructions_mouse": "Click on a Bush. Then choose Clear and wait for the process to finish. When the XP icon appears, you can click on it and the Bush will disappear."
   },
   {
-    "tid_goals_2003_instructions_mouse": "Click on the For Sale sign for the expansion you want and choose to expand with either Gold or Gems."
+    "tid_goals_2001_instructions_mouse": "Click on the Shop button and then on Buildings. Choose a Farm and place it."
   },
   {
-    "tid_goals_2036_instructions_mouse": "Click on the Breeding Sanctuary Ruins. Now click on the Activate button at the bottom of the screen. Select Rebuild Sanctuary."
+    "tid_goals_31_instructions_mouse": "Click on the Recruitment Tavern button, then click on Recruit at the bottom of the screen, and ask 3 of your friends to help."
   },
   {
-    "tid_tutorial_9_7_title_mouse": "Click on the Chest"
+    "tid_goals_2051_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
   },
   {
-    "tid_tutorial_1_27_message_mouse": "Your dragons are getting hungry. Click your Farm!"
+    "tid_tutorial_1_17_message_mouse": "Click to enter his Habitat!"
   },
   {
-    "tid_tutorial_29_5_message_mouse": "Click on the arrows until you've spent all moves."
+    "tid_tutorial_22_5_message_mouse": "Click the arrow until you've spent all the moves."
   },
   {
-    "tid_feed_help_source_title_mouse": "Click on the SOURCE icon to see how the dragon is obtained. You can also check how much Gold it produces!"
+    "tid_tower_island_tutorial_text2_mouse": "Click on the lever to pull it and find out how many moves you get!"
   },
   {
-    "tid_pack_title": "COMBO PACK"
+    "tid_trade_market_expired_title_mouse": "Your trade has expired.\\nClick the Refund button to get your Orbs and Trade Essences back."
   },
   {
-    "tid_pack_121_description": "Happy Mother's Day! Celebrate it with this exclusive Motherly Dragon Combo Pack. Limited time only!"
+    "tid_pack_115_description": "An Adamantium Combo Pack is an indestructible one! Here's the brand new Adamantium Dragon. Limited time only!"
   },
   {
-    "tid_pack_136_description": "NEW Car Dragon! Available for a limited time with this exclusive combo pack!"
+    "tid_pack_130_description": "Special Independence Day combo pack: Meet the Patriot Dragon!"
   },
   {
-    "tid_pack_151_description": "The Solstice Dragon only shows up when the Winter Solstice takes place!"
+    "tid_pack_145_description": "Exclusive Combo Pack: The Never Grow Dragon, Food and Gold for a special price!"
   },
   {
-    "tid_pack_166_description": "You never know when this dragon will explode. Can you handle it?"
+    "tid_pack_160_description": "Spring Dragon Combo Pack: Celebrate that winter is gone with this offer!"
   },
   {
-    "tid_pack_181_description": "Get the brand Clay Dragon and a bunch of resources for a special price!"
+    "tid_pack_175_description": "Friendship is one of the greatest things in life and this dragon knows it!"
   },
   {
-    "tid_pack_196_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_190_description": "The best friend of all Nature Dragons will keep your islands beautifully clean!"
   },
   {
-    "tid_pack_207_description": "Two Epic Dragons with a huge discount!"
+    "tid_pack_203_description": "Two Flame Dragons with a huge discount!"
   },
   {
-    "tid_pack_217_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_214_title": "PURE COMBO PACK"
   },
   {
-    "tid_pack_227_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_223_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_238_title": "COMBO PACK"
+    "tid_pack_234_title": "WAR COMBO PACK"
   },
   {
-    "tid_pack_248_description": "Two Very Rare Dragons with a huge discount!"
+    "tid_pack_243_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_260_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_255_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_270_description": "Two Very Rare Dragons with a huge discount!"
+    "tid_pack_266_description": "Two Common Dragons with a huge discount!"
   },
   {
-    "tid_pack_281_description": "Two Epic Dragons with a huge discount!"
+    "tid_pack_276_description": "Use these dragons in the Breeding Season event! "
   },
   {
-    "tid_pack_291_title": "RARITY COMBO PACK"
+    "tid_pack_287_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_304_description": "Two Legendary Dragons with a huge discount!"
+    "tid_pack_298_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_319_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_313_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_333_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_327_description": "First Legendary Combo Pack!"
   },
   {
-    "tid_pack_348_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_342_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_perks_popup_desc_1item": "Here are all your Perks. Attach a Perk to a dragon to use its powers!"
+    "tid_pack_357_description": "The amazing Home Run Dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_perk_tooltip_stats_empower": "Empower"
+    "tid_perk_description_breeding_chances": "Improves your dragon's odds of breeding higher rarity offspring and unlocks more possible offspring. Find this Perk through in-game events!"
   },
   {
-    "tid_remove_perks_subtitle": "Are you sure you want to remove all your Perks from this slot?\\nUse Gold to permanently DELETE your Perks or use Gems to STORE them."
+    "tid_health_perk_desc": "Increases your dragon's health. You might find this Perk in Offers, the Shop, Quests or in-game events!"
   },
   {
-    "tid_offer_perks_gacha_desc": "Which goodies will you get? Let's find out!"
+    "tid_add_multiple_perk_popup_confirm_bt_ok": "ADD PERKS"
   },
   {
-    "tid_offer_perks_supremepack_icon": "SUPREME PACK"
+    "tid_offer_perks_supremepack_phoenix_title": "SUPREME PHOENIX PACK"
   },
   {
-    "tid_add_perk_button_text": "ADD"
+    "tid_tournaments_perkb1": "Nox's Perk Pursuit"
   },
   {
-    "tid_perks_world_type": "WORLD"
+    "tid_attach_perks_line2_popup": "Are you sure you want to attach this %1$s Perk to your dragon?"
   },
   {
-    "tid_health_perk_advanced_desc": "Greatly increases your dragon's health. You might find this Perk in Offers, the Shop, Quests or in-game events!"
+    "tid_perks_delete_confirmation_button_no": "NO"
   },
   {
-    "tid_vip_dragon_title_7": "Exclusive Valiant Dragon"
+    "tid_vip_dragon_title_2": "Exclusive Dark Jaws Dragon"
   },
   {
-    "tid_vip_dragon_title_17": "Exclusive Dark Sky Dragon"
+    "tid_vip_dragon_title_14": "Exclusive Highborn Dragon"
   },
   {
-    "tid_vip_dragon_desc_3": "Are you ready to crack the enigma?"
+    "tid_vip_dragon_header_cityshark": "Meet \"The Sharko\""
   },
   {
-    "tid_vip_dragon_desc_21": "Perfection embodied"
+    "tid_vip_dragon_header_betrayer": "Trust him not"
   },
   {
-    "tid_vip_dragon_title_40": "Exclusive Loch Dragon"
+    "tid_vip_dragon_title_37": "Exclusive Void Dragon"
   },
   {
-    "tid_vip_dragon_header_mist": "A storm you can't predict."
+    "tid_vip_dragon_desc_44": "The Cat Twin"
   },
   {
-    "tid_vip_dragon_title_55": "VIP MYTHICAL DRAGON"
+    "tid_vip_dragon_title_52": "Exclusive Online Dragon"
   },
   {
-    "tid_vip_dragon_icon_60": "VIP MYTHICAL"
+    "tid_vip_dragon_desc_58": "Sixth sense and strategic skill."
   },
   {
-    "tid_vip_dragon_desc_ice_hockey": "Leading to victory."
+    "tid_vip_dragon_desc_glace": "Spiky Ammunition!"
   },
   {
-    "tid_vip_dragon_title_durian": "Exclusive Durian Dragon"
+    "tid_vip_dragon_title_techno": "Exclusive Techno Dragon"
   },
   {
-    "tid_vip_dragon_desc_scientist": "Scientist gone mad."
+    "tid_vip_dragon_desc_hollowtress": "A villainous entity."
   },
   {
-    "tid_vip_dragon_header_candyheart": "Tip: Don't ask him for candy!"
+    "tid_vip_dragon_header_flixnchill": "An expert procrastinator."
   },
   {
-    "tid_pets_feed_feed_tab": "FEED"
+    "tid_pets_boost_description_1": "Will fetch a Reward every %s hours until the end of this petting season."
   },
   {
-    "tid_pets_info_screen_boost_description": "While equipped, the Boon will take effect"
+    "tid_pets_milestone_contents_title": "PET FOOD BASKET CONTENTS"
   },
   {
-    "tid_pets_helpview_tooltip_3": "Level progression will reset in:"
+    "tid_pets_helpview_description_1": "A new Pet has arrived to its special Island! Feed it and level it up to gain Rewards along the way."
   },
   {
-    "tid_pets_offer_starterpack_header": "Give your Pet the head start they deserve!"
+    "tid_store_pack_pets_3": "Pet Meal"
   },
   {
-    "tid_claim_popup_petfood_title": "PET FOOD!"
+    "tid_pets_not_fed_pet_notification_description": "Your Pet's tummy is rumbling... Give it a snack!"
   },
   {
-    "tid_pets_end_season_keep_your_pet_header": "Once you obtain your pet, it will be available once the next season starts and forever since in your inventory and will still provide some of its boons, so keep on feeding and enjoying the game!"
+    "tid_pets_offer_xlchest_header": "Treat your pet to the ultimate basket of pet food!"
   },
   {
-    "tid_pets_pet_description_7": "With his plush turquoise coat, swirling leaf-shaped tail, and huge glimmering eyes, this little kitten looks ready to pounce on adventure! Purrbell may seem like a bundle of energy, but he's a gentle soul at heart, happily trotting beside his favorite Dragon Master and sprinkling a bit of woodland wonder wherever he goes."
+    "tid_pets_pet_description_4": "Don't let those tiny wings fool you, Chirpy's rainbow plumage means she's never hard to spot, and she wouldn't have it any other way. This cheerful little chick bounces through every island with a song in her beak and a streak of color in her wake. With a personality as bright as her feathers, she'll keep any Dragon Master's spirits soaring no matter the adventure!"
   },
   {
-    "tid_subcategories_111_name": "Pure"
+    "tid_subcategories_110_name": "War"
   },
   {
-    "tid_subcategories_27_name": "Metal"
+    "tid_subcategories_26_name": "Ice"
   },
   {
-    "tid_subcategories_34_name": "Breeding"
+    "tid_subcategories_33_name": "Crystals"
   },
   {
-    "tid_trails_go_button_auto": "Hold for Auto"
+    "tid_subcategories_120_name": "Primal"
   },
   {
-    "tid_trails_reward_claim_title": "YOU GOT A %s"
+    "tid_trails_end_of_trail": "What a feat! You've reached the end of the trail! Now you can play again with new Rewards."
   },
   {
-    "tid_dragon_trail_no_response_popup_title": "CONNECTION ISSUE"
+    "tid_dragon_trail_timeout_popup_desc": "There was an interruption in your internet connection, meaning the result of your Spin is unable to be shown."
   },
   {
-    "tid_vip_tier_no_tier": "NO TIER"
+    "tid_vip_tiers_popup_title": "PRESTIGE TIERS"
   },
   {
-    "tid_vip_tier_deus_trading_button": "TRADE"
+    "tid_vip_tier_badge_locked": "LOCKED"
   },
   {
-    "tid_vip_tier_deus_trade_button": "DEUS TRADE"
+    "tid_vip_tier_deus_trade_locked_button": "DEUS TRADE LOCKED"
   },
   {
-    "tid_vip_tiers_cycle_about_to_end_notification_message": "Secure your tier before then to keep all your benefits active ✨🐲"
+    "tid_vip_tiers_cycle_about_to_end_notification_title": "⏳Your VIP benefits will expire soon"
   },
   {
     "tid_news_titan_collection_teaser_desc": "The elemental forces are returning to Dragon City. Watch the teaser below to find out more about these new dragons. New skills and strengths are waiting to be unlocked!"
@@ -37257,196 +37263,196 @@
     "tid_tutorial_66_5_message": "Tap on this button for more information about the benefits of each Prestige Tier"
   },
   {
-    "tid_goals_26_instructions_mouse": "When the egg in the Hatchery is ready, click on the Hatch button at the bottom of the screen. Then select Place and choose a habitat that matches one of the dragon's elements."
+    "tid_goals_17_instructions_mouse": "When the Gold icon appears over the habitat, click on it and earn Gold! The level and the amount of dragons you have will affect your income.\n"
   },
   {
-    "tid_goals_127_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Lush Island."
+    "tid_goals_35_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon image. You can get more Food by building new Farms."
   },
   {
-    "tid_goals_2037_instructions_mouse": "Click on the Ancient Portal and then on the Begin button."
+    "tid_goals_48_instructions_mouse": "Click on the Dragon Market and select Food or Gold. Then ask your friends to help!"
   },
   {
-    "tid_tutorial_999_26_message_mouse": "Congratulations! You leveled up! Click on the close button to continue with the tutorial."
+    "tid_goals_2052_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
   },
   {
-    "tid_tutorial_1_28_message_mouse": "Click GROW FOOD and select Bluebell Flower. Yum!"
+    "tid_tutorial_1_18_message_mouse": "Select your dragon and then click on the Feed button until he grows to level 4."
   },
   {
-    "tid_building_1_description_mouse": "This magical tower is where your dragon eggs hatch. Click on the Upgrade button to hatch more eggs at the same time!"
+    "tid_tutorial_24_2_message_mouse": "Click on the lever to spin it and find out how many moves you get!"
   },
   {
-    "socialFramework.ChatWarning_mouse": "Break periods of one day between Chests are back! Get some rest until the next one!"
+    "tid_tower_island_tutorial_text3_mouse": "Click on the arrow button until you've used all your moves."
   },
   {
-    "tid_pack_packdescription": "Extra discount when you purchase the Combo Pack!"
+    "tid_vippass2_help_mouse": "Get the Fairy's Grace to get tons of Gems. Click the Fairy every day to collect your Gems!"
   },
   {
-    "tid_pack_122_description": "NEW Soldier Dragon Combo Pack! He's the committed defender of Dragon City. Limited time only!"
+    "tid_pack_116_description": "It's the World Book Day, it's the NEW Shakespeare Dragon's special day. Get this Combo Pack, it's here for a limited time!"
   },
   {
-    "tid_pack_137_description": "NEW Car Dragon! Available for a limited time with this exclusive combo pack!"
+    "tid_pack_131_description": "A hit from the Mace Dragon's tale can shake your world! Available only for a limited time with this combo pack!"
   },
   {
-    "tid_pack_152_description": "An Adamantium Combo Pack is an indestructible one! Here's the brand new Adamantium Dragon. Limited time only!"
+    "tid_pack_146_description": "Get this exclusive Necro Dragon pack! Once a handsome Dragon, the use of black magic twisted his appearance to resemble an undead dragon. Only for limited time!"
   },
   {
-    "tid_pack_167_description": "If you own lots of Flame Dragons, you should keep the Firefighter close!"
+    "tid_pack_161_description": "The Macha Dragon knows how to bring a St. Patrick's celebration onto your island!"
   },
   {
-    "tid_pack_182_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_176_description": "Take your flying skills to the next level with the AirBoss Dragon!"
   },
   {
-    "tid_pack_197_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_191_description": "He's the first dragon on the moon!"
   },
   {
-    "tid_pack_208_title": "LEGEND COMBO PACK"
+    "tid_pack_203_title": "WAR COMBO PACK"
   },
   {
-    "tid_pack_218_title": "RARITY COMBO PACK"
+    "tid_pack_214_description": "Two exclusive dragons of the Pure element with a huge discount!"
   },
   {
-    "tid_pack_228_title": "RARITY COMBO PACK"
+    "tid_pack_224_title": "WATER COMBO PACK"
   },
   {
-    "tid_pack_238_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_235_description": "The Wolfreeze Dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_249_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_244_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_261_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_256_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_271_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_267_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_282_title": "FLAME COMBO PACK"
+    "tid_pack_277_description": "Use these dragons in the Breeding Season event! "
   },
   {
-    "tid_pack_291_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_288_title": "DARK COMBO PACK"
   },
   {
-    "tid_pack_305_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_299_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_320_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_314_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_334_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_328_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_349_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_343_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_perks_popup_desc": "There are %d different types of Perks available. Attach them to a dragon to use their powers!"
+    "tid_pack_358_description": "The amazing Ozone Dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_perk_tooltip_stats_rank": "Rank"
+    "tid_perk_description_dragon_attack": "Increases your dragon's damage. You might find this Perk in Offers, the Shop, Quests or in-game events!"
   },
   {
-    "tid_remove_perks_warning": "You will lose your Perks!"
+    "tid_phoenix_perk_name": "Phoenix Perk"
   },
   {
-    "tid_offer_perks_gacha_icon": "LUCKY PERK PACK"
+    "tid_max_perk_effect": "Max Perk Effect"
   },
   {
-    "tid_perks_unlock": "Unlocked at lvl 14"
+    "tid_offer_perks_supremepack_phoenix_header": "Rise like a phoenix on the battlefield!"
   },
   {
-    "tid_select_perk_button_text": "SELECT "
+    "tid_tournaments_perk2": "Nox's Perk Purge"
   },
   {
-    "tid_perks_resource_type": "RESOURCE"
+    "tid_perk_max_effect": "MAX EFFECT!"
   },
   {
-    "tid_claim_advanced_perks_title": "NEW ADVANCED PERKS"
+    "tid_name_increase_breeding_chances_advanced": "Advanced Breeding Perk"
   },
   {
-    "tid_vip_dragon_title_8": "Exclusive Bushido Dragon"
+    "tid_vip_dragon_desc_2": "THE MOST POWERFUL BEAST"
   },
   {
-    "tid_vip_dragon_desc_7": "King of the Night"
+    "tid_vip_dragon_desc_10": "The sight of an eagle"
   },
   {
-    "tid_vip_dragon_desc_11": "Required to get:"
+    "tid_vip_dragon_title_22": "Exclusive Nightglow Dragon"
   },
   {
-    "tid_vip_dragon_title_32": "Exclusive Mastery Dragon"
+    "tid_vip_dragon_title_29": "Exclusive Dwelling Dragon"
   },
   {
-    "tid_vip_dragon_desc_40": "The Nature Twin"
+    "tid_vip_dragon_desc_37": "Very Impressive Power!"
   },
   {
-    "tid_vip_dragon_title_48": "Exclusive Heaven Dragon"
+    "tid_vip_dragon_title_45": "Exclusive Dogkun Dragon"
   },
   {
-    "tid_vip_dragon_desc_55": "THE STRONGEST LEGENDARIES"
+    "tid_vip_dragon_header_online": "An army of surveillance."
   },
   {
-    "tid_vip_dragon_title_61": "Exclusive Whimsical Dragon"
+    "tid_vip_dragon_title_59": "Exclusive Landslide Dragon"
   },
   {
-    "tid_vip_dragon_title_wilderness": "Exclusive Wilderness Dragon"
+    "tid_vip_dragon_title_happy_egg": "Exclusive Happy Egg Dragon"
   },
   {
-    "tid_vip_dragon_desc_durian": "Never backs down."
+    "tid_vip_dragon_desc_techno": "Very Impressive Power!"
   },
   {
-    "tid_vip_dragon_title_android": "Exclusive Android Dragon"
+    "tid_vip_dragon_title_sword": "Exclusive Sword Dragon"
   },
   {
-    "tid_vip_dragon_header_celebration": "Only here for the free party food."
+    "tid_vip_dragon_header_partyhard": "Life's too short to go home early!"
   },
   {
-    "tid_pets_feed_info_tab": "INFO"
+    "tid_pets_boost_description_2": "Will cheer you on in battle if you equip it."
   },
   {
-    "tid_pets_info_screen_equipped": "EQUIPPED"
+    "tid_pets_milestone_contents_button": "CLAIM"
   },
   {
-    "tid_pets_food_offer_title": "PET FOOD OFFER"
+    "tid_pets_helpview_title_2": "PET BOONS"
   },
   {
-    "tid_pets_offer_lastminute_title": "LAST-MINUTE PET PACK!"
+    "tid_store_pack_pets_4": "Pet Menu"
   },
   {
-    "tid_claim_popup_petfood_desc": "Take some Pet Food for your Pet to grow big and strong!"
+    "tid_pets_reset_level_notification_title": "Pet Level Reset"
   },
   {
-    "tid_pets_offer_avoid_reset_title": "YOUR PET IS HUNGRY"
+    "tid_pets_offer_holiday_title": "PET HOLIDAY OFFER"
   },
   {
-    "tid_pets_pet_name_8": "Frogstein"
+    "tid_pets_pet_name_5": "Gecko"
   },
   {
-    "tid_subcategories_112_name": "Legend"
+    "tid_subcategories_111_name": "Pure"
   },
   {
-    "tid_subcategories_28_name": "Dark"
+    "tid_subcategories_27_name": "Metal"
   },
   {
-    "tid_subcategories_35_name": "Specials"
+    "tid_subcategories_34_name": "Breeding"
   },
   {
-    "tid_trails_go_button_stop": "Tap to Stop"
+    "tid_trails_go_button_auto": "Hold for Auto"
   },
   {
-    "tid_trails_helpview_title1": "DRAGON TRAILS"
+    "tid_trails_reward_claim_title": "YOU GOT A %s"
   },
   {
-    "tid_dragon_trail_no_response_popup_desc": "Dragon Trails requires an active internet connection to play."
+    "tid_dragon_trail_no_response_popup_title": "CONNECTION ISSUE"
   },
   {
-    "tid_vip_tier_group1": "BARON"
+    "tid_vip_tier_no_tier": "NO TIER"
   },
   {
-    "tid_vip_tier_deus_trading_locked": "Reach {} for a Deus trade"
+    "tid_vip_tier_deus_trading_button": "TRADE"
   },
   {
-    "tid_vip_tier_webstore_bonus": "Get 30% more Prestige Points by making your purchases on Webstore."
+    "tid_vip_tier_deus_trade_button": "DEUS TRADE"
   },
   {
-    "tid_vip_tiers_benefit_expiration": "Benefits last until:"
+    "tid_vip_tiers_cycle_about_to_end_notification_message": "Secure your tier before then to keep all your benefits active ✨🐲"
   },
   {
     "tid_news_windows_crosspromo_icon": "PLAY ON MOBILE"
@@ -44742,199 +44748,196 @@
     "tid_tutorial_63_1_message": "This is a very special island!"
   },
   {
-    "tid_goals_11_instructions_mouse": "Click on the Breeding Mountain or the Ultra Breeding Tree. Then click on the Breed button and select a Terra Dragon and a Fire Dragon. Remember that you can't breed dragons under level 4."
+    "tid_goals_20_instructions_mouse": "Click on the Breeding Mountain or the Ultra Breeding Tree, and then click on the Speed Up buttons to speed up the process.\n"
   },
   {
-    "tid_goals_16_instructions_mouse": "Click on the Menu button at the bottom of the screen and choose Social. Find Deus and click on the button next to him to visit his island. Then collect Gold from up to 5 buildings on his island."
+    "tid_goals_54_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon image. You can get more Food by building new Farms."
   },
   {
-    "tid_goals_148_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Lava Island."
+    "tid_goals_65_instructions_mouse": "Click on the Coliseum, and then either ask friends for help or fill the positions with Gems."
   },
   {
-    "tid_goals_2038_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
+    "tid_goals_2060_instructions_mouse": "Click on the Summoning Wall and summon Deliram."
   },
   {
-    "tid_tutorial_1_2_message_mouse": "Habitats are where dragons live and become big & strong. Let’s build one now! Click SHOP."
+    "tid_tutorial_1_21_message_mouse": "Click an empty space to see the SHOP button."
   },
   {
-    "tid_tutorial_1_31_message_mouse": "Your Food is ready! Click to collect it."
+    "tid_tutorial_24_5_message_mouse": "Click on the arrows until you've spent all moves."
   },
   {
-    "FriendsClickingDragonHabitatsKey_VisitFriendState_mouse": "Help your friends by clicking on their dragon habitats!"
+    "tid_tower_island_stop_die_title_mouse": "CLICK TO STOP THE DIE"
   },
   {
-    "tid_alliance_chest_click_more_rewards_mouse": "Click to see other possible rewards"
+    "tid_vippass2_subscription_mouse": "You’ve received Fairy’s Grace for %d days. Click the Fairy to collect your daily Gems!"
   },
   {
-    "tid_pack_108_description": "This is a combo-dragon in a Combo Pack! Get the Twin Dragon and a bunch of resources for a special price!"
+    "tid_pack_117_description": "It's the World Book Day, it's the NEW Shakespeare Dragon's special day. Get this Combo Pack, it's here for a limited time!"
   },
   {
-    "tid_pack_123_description": "Spring Dragon Combo Pack! Summer is approaching rapidly, but on your island it can be spring forever with this beautiful dragon!"
+    "tid_pack_132_description": "A hit from the Ocean Dragon's tail can shake your world! Available only for a limited time with this combo pack!"
   },
   {
-    "tid_pack_138_description": "His awesomeness can only be matched by his evilness: it's the Orc Dragon! Get it now with this exclusive combo pack!"
+    "tid_pack_147_description": "Exclusive Combo Pack: The Bonfire Dragon, Food and Gold for a special price!"
   },
   {
-    "tid_pack_153_description": "Here's the protector of rhinos: The Longhorn Dragon!"
+    "tid_pack_162_description": "The perfect balance between day and night: the Equinox Dragon!"
   },
   {
-    "tid_pack_168_description": "She doesn't go anywhere without her babies. It's the Motherly Dragon!"
+    "tid_pack_177_description": "Despite his terrible handwriting, the Doctor Dragon is really helpful after battles!"
   },
   {
-    "tid_pack_183_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_192_description": "You can keep no secrets from the Detective Dragon!"
   },
   {
-    "tid_pack_198_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_204_description": "Use these dragons in the Breeding Season event! "
   },
   {
-    "tid_pack_208_description": "Two exclusive dragons of the Legend element with a huge discount!"
+    "tid_pack_215_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_218_description": "Two Legendary Dragons with a huge discount!"
+    "tid_pack_224_description": "Two exclusive dragons of the Water element with a huge discount!"
   },
   {
-    "tid_pack_228_description": "Two Very Rare Dragons with a huge discount!"
+    "tid_pack_236_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_239_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_245_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_250_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_257_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_262_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_268_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_272_title": "RARITY COMBO PACK"
+    "tid_pack_278_description": "Use these dragons in the Breeding Season event! "
   },
   {
-    "tid_pack_282_description": "Two Flame Dragons with a huge discount!"
+    "tid_pack_288_description": "Two Dark Dragons with a huge discount!"
   },
   {
-    "tid_pack_292_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_300_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_306_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_315_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_321_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_329_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_335_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_344_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_350_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_add_perk_popup_confirm_bt_ok": "ADD PERK"
   },
   {
-    "tid_perks_popup_list": "%s PERKS"
+    "tid_perk_description_dragon_defense": "Increases your dragon's health. You might find this Perk in Offers, the Shop, Quests or in-game events!"
   },
   {
-    "tid_perk_tooltip_stats_perks": "Perks"
+    "tid_phoenix_perk_desc": "Upon knockout, your dragon is revived once. More attached Phoenix Perks means more health upon revival. You can find this Perk in Offers!"
   },
   {
-    "tid_remove_perks_delete_btn": "DELETE %s"
+    "tid_perk_no_slot_space": "No space for more Perks"
   },
   {
-    "tid_offer_perks_pack_title": "PERK PACK"
+    "tid_offer_perks_supremepack_phoenix_icon": "PHOENIX PACK"
   },
   {
-    "tid_character_perk": "Character Perks"
+    "tid_name_perk_slot_non_select": "PERK SLOT"
   },
   {
-    "tid_select_perks_title_popup": "SELECT PERK"
+    "tid_perk_ability_percentage_select_perk_popup": "%s%% per Perk"
   },
   {
-    "tid_perks_character_type": "CHARACTER"
+    "tid_perk_description_breeding_chances_advanced": "Greatly improves your dragon's odds of breeding higher rarity offspring and unlocks more possible offspring."
   },
   {
-    "tid_claim_advanced_perks_desc": "Try out these free Advanced Perks! Find more in the Dragon Mastery Pass."
+    "tid_vip_dragon_title_3": "Exclusive Beholder Dragon"
   },
   {
-    "tid_vip_dragon_title_9": "Exclusive Demigod Dragon"
+    "tid_vip_dragon_title_15": "Exclusive Ard Ri Dragon"
   },
   {
-    "tid_vip_dragon_title_18": "Exclusive Liquid Dragon"
+    "tid_vip_dragon_header_nightglow": "The Glow of Fire"
   },
   {
-    "tid_vip_dragon_title_25": "Exclusive Royal Phoenix Dragon"
+    "tid_vip_dragon_desc_19": "It's all about the sixth sense"
   },
   {
-    "tid_vip_dragon_desc_22": "The Dragon-Dragon Master"
+    "tid_vip_dragon_title_38": "Exclusive Infinity Dragon"
   },
   {
-    "tid_vip_dragon_title_41": "Exclusive Doom Dragon"
+    "tid_vip_dragon_desc_45": "The Dog Twin"
   },
   {
-    "tid_vip_dragon_header_heaven": "Nature meets Heaven"
+    "tid_vip_dragon_title_53": "Exclusive Kumk’u Dragon"
   },
   {
-    "tid_vip_dragon_icon_55": "VIP MYTHICAL"
+    "tid_vip_dragon_desc_59": "Striking without warning."
   },
   {
-    "tid_vip_dragon_desc_61": "Unpredictable fierce attacker."
+    "tid_vip_dragon_desc_happy_egg": "Spreading happy vibes!"
   },
   {
-    "tid_vip_dragon_desc_wilderness": "An unpredictable and deadly force."
+    "tid_vip_dragon_title_future": "Exclusive Future Dragon"
   },
   {
-    "tid_vip_dragon_title_lunarshadow": "Exclusive Lunar Shadow Dragon"
+    "tid_vip_dragon_desc_sword": "Attacker of realms."
   },
   {
-    "tid_vip_dragon_desc_android": "Pure metal and energy."
+    "tid_vip_dragon_header_creation": "Not as innocent as it seems..."
   },
   {
-    "tid_vip_dragon_header_newdawn": "Often mistaken for 'moving forests'."
+    "tid_pets_feed_level": "Level {0}/{1}"
   },
   {
-    "tid_pets_feed_time_left": "left to reach level {0}"
+    "tid_pets_info_screen_description": "DESCRIPTION"
   },
   {
-    "tid_pets_pet_owned_title": "PET OWNED!"
+    "tid_pets_helpview_description_2": "Feed your Pet to its maximum level in order to keep it. Its Pet Boons can provide you with special bonuses such as fetching you Rewards or cheering you on in battle!"
   },
   {
-    "tid_pets_food_offer_description": "Level up your Pet!"
+    "tid_store_pack_pets_5": "Pet Catering"
   },
   {
-    "tid_pets_offer_lastminute_header": "Last chance to feed your hungry Pet..."
+    "tid_pets_reset_level_notification_description": "Feed your Pet so its level won't be reset!"
   },
   {
-    "tid_pet": "Pet"
+    "tid_pets_offer_holiday_header": "It's time to pamper your pet for the Holidays!"
   },
   {
-    "tid_pets_offer_avoid_reset_header": "Don't let your pet go hungry, you still have time to level up!"
+    "tid_pets_pet_description_5": "Gecko might not be the most beautiful or the cutest pet in the universe, but this has not stopped him from caring about his master in his own unique ways."
   },
   {
-    "tid_pets_pet_description_8": "With his patchwork turquoise-and-gold hide, stitched-up seams, and mismatched glimmering eyes, this little frog looks freshly hopped out of a mad scientist's lab! Frogstein may seem like a spooky little experiment gone wrong, but he's a gentle soul at heart, happily hopping beside his favorite Dragon Master and sprinkling a bit of stitched-up charm wherever he goes."
+    "tid_subcategories_112_name": "Legend"
   },
   {
-    "tid_subcategories_113_name": "Ancient"
+    "tid_subcategories_28_name": "Dark"
   },
   {
-    "tid_subcategories_29_name": "Light"
+    "tid_subcategories_35_name": "Specials"
   },
   {
-    "tid_subcategories_36_name": "Temples"
+    "tid_trails_go_button_stop": "Tap to Stop"
   },
   {
-    "tid_trails_boost_tooltip": "Multiply your Steps!"
+    "tid_trails_helpview_title1": "DRAGON TRAILS"
   },
   {
-    "tid_trails_helpvew_description1": "Spin your way along the Trail! Each Spin grants you a certain number of Steps for you to advance and collect amazing Rewards!"
+    "tid_dragon_trail_no_response_popup_desc": "Dragon Trails requires an active internet connection to play."
   },
   {
-    "tid_news_dragontrails_techtest_title": "DRAGON TRAILS"
+    "tid_vip_tier_group1": "BARON"
   },
   {
-    "tid_vip_tier_group2": "DUKE"
+    "tid_vip_tier_deus_trading_locked": "Reach {} for a Deus trade"
   },
   {
-    "tid_vip_tier_deus_trading_locked_long": "Reach {} to unlock and trade with Deus once per day"
+    "tid_vip_tier_webstore_bonus": "Get 30% more Prestige Points by making your purchases on Webstore."
   },
   {
-    "tid_vip_tier_webstore_button": "GO TO WEB"
-  },
-  {
-    "tid_vip_tiers_hours_format": "1/{}"
+    "tid_vip_tiers_benefit_expiration": "Benefits last until:"
   },
   {
     "tid_new_as_pure_slide2_desc": "Want to crush the Master Arenas? Find powerful dragons in the Shop to help you go all the way!"
@@ -52230,196 +52233,196 @@
     "tid_tutorial_63_2_message": "This is your position on the grid."
   },
   {
-    "tid_goals_13_instructions_mouse": "Click on the Breeding Mountain or the Ultra Breeding Tree. Then click on the Speed Up buttons to speed up the process."
+    "tid_goals_21_instructions_mouse": "When the egg in the Hatchery is ready, click on the Hatch button at the bottom of the screen. Then select Place and choose a habitat that matches one of the dragon's elements."
   },
   {
-    "tid_goals_163_instructions_mouse": "Click on a habitat and select a dragon. Click on its name at the right corner of the dragon's image and change the name. When you're happy with the name, click on Enter or click outside the name box and the new name will be saved."
+    "tid_goals_62_instructions_mouse": "Click on a habitat. Select a dragon and start clicking on the Feed button under the dragon image. You can get more Food by building new Farms."
   },
   {
-    "tid_goals_157_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Ivory Island."
+    "tid_goals_2020_instructions_mouse": "Click on your Food Farm and select the Upgrade icon on the bottom of your screen. Then click the blue button in the Building Upgrade dialog."
   },
   {
-    "tid_goals_2039_instructions_mouse": "Go to the Breeding Sanctuary. Click on Add Step to upgrade step by step with Gold. Or you can click on Finish Now to upgrade instantly with Gems."
+    "tid_goals_2066_instructions_mouse": "Click on the Summoning Wall and summon the dragon."
   },
   {
-    "tid_tutorial_1_3_message_mouse": "There are different types of Habitats for each dragon element. Click on HABITATS and select Terra Habitat!"
+    "tid_tutorial_1_22_message_mouse": "You need Farms to grow Food for your dragons! Click SHOP."
   },
   {
-    "tid_tutorial_9_5_message_mouse": "Click on the square to claim the block."
+    "tid_tutorial_25_6_message_mouse": "Click on the lever to spin it and find out how many moves you get!"
   },
   {
-    "tid_ow_login_user_signature_error_mouse": "Sorry! Your game cannot be recovered. Click OK to start a new game."
+    "tid_dragon_cinema_help_view_description_second_mouse": "To check the status of the task you've started, click on the \"i\" button in the upper left corner and then on the \"Rewards Status\" button. Be aware that rewards might take some days to be delivered once a task is completed."
   },
   {
-    "tid_treeoflife_powerup_helpview_content4_mouse": "To find out how to obtain the dragon you want, click its face and then its icon to reveal its source. "
+    "tid_xpromo_welcome_title": "Welcome to Windows!"
   },
   {
-    "tid_pack_109_description": "This is a combo-dragon in a Combo Pack! Get the Twin Dragon and a bunch of resources for a special price!"
+    "tid_pack_118_description": "Get the Firefighter Dragon and a bunch of Food for a very special price with this Combo Pack!"
   },
   {
-    "tid_pack_124_description": "NEW DRAGON Combo Pack! Get the super-green Recycling Dragon for a very special price."
+    "tid_pack_133_description": "You're not seeing double! There's not one but TWO dragons included in this combo pack!"
   },
   {
-    "tid_pack_139_description": "Something broken at your city? The Handy Dragon is here to fix it!"
+    "tid_pack_148_description": "The medals on his jacket prove his experience: It's the Old General Dragon!"
   },
   {
-    "tid_pack_154_description": "Join the Chinese New Year celebrations: Get the Red Asian Dragon!"
+    "tid_pack_163_description": "Some find him funny, some find him annoying: It's the Joke Dragon!"
   },
   {
-    "tid_pack_169_description": "Celebrate the Summer Cup with the Soccer Dragon!"
+    "tid_pack_178_description": "You only live once, so why stress out?"
   },
   {
-    "tid_pack_184_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_193_description": "The Leaf Dragon is one of the lightest creatures in Dragon City!"
   },
   {
-    "tid_pack_199_description": "Special President's Day Combo Pack!"
+    "tid_pack_205_description": "Use these dragons in the Breeding Season event! "
   },
   {
-    "tid_pack_209_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_215_description": "Two Very Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_219_title": "RARITY COMBO PACK"
+    "tid_pack_225_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_229_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_236_description": "Two Very Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_breeders_title": "BREEDERS COMBO PACK"
+    "tid_pack_246_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_251_title": "RARITY COMBO PACK"
+    "tid_pack_258_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_263_title": "WATER COMBO PACK"
+    "tid_pack_269_title": "FLAME COMBO PACK"
   },
   {
-    "tid_pack_272_description": "Two Very Rare Dragons with a huge discount!"
+    "tid_pack_279_description": "Two Very Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_283_title": "RARITY COMBO PACK"
+    "tid_pack_289_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_293_title": "RARITY COMBO PACK"
+    "tid_pack_301_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_307_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_316_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_322_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_330_description": "Two Legendary Dragons with a huge discount!"
   },
   {
-    "tid_pack_336_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_345_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_351_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_add_perk_popup_cancel_bt_ok": "CANCEL"
   },
   {
-    "tid_perks_helpview_title1": "ABOUT PERKS"
+    "tid_perk_tooltip_title": "ATTACHED PERKS:"
   },
   {
-    "tid_perks_combat_claim_title": "COMBAT PERKS"
+    "tid_reaper_perk_name": "Reaper Perk"
   },
   {
-    "tid_remove_perks_store_btn": "STORE %s"
+    "tid_perks_getmore_button": "GET MORE"
   },
   {
-    "tid_offer_perks_pack_header": "Professional Dragon Masters never say no to Perks!"
+    "tid_offer_perks_supremepack_title": "SUPREME PERK PACK"
   },
   {
-    "tid_combat_perk": "Combat Perks"
+    "tid_name_increase_breeding_chances": "Breeding Perk"
   },
   {
-    "tid_select_perks_line1_popup": "Select new Perk for the slot"
+    "tid_comming_soon_perks": "More Perks coming soon!"
   },
   {
-    "tid_perks_slot": "%s SLOT"
+    "tid_damage_perk_advanced_name": "Advanced Damage Perk"
   },
   {
-    "tid_perks_specific_dragon_combat_type": "DRAGON SPECIFIC"
+    "tid_vip_dragon_title_4": "Exclusive Void Dragon"
   },
   {
-    "tid_vip_dragon_title_10": "Exclusive Turkey Dragon"
+    "tid_vip_dragon_desc_5": "The Spirit of the Forest"
   },
   {
-    "tid_vip_dragon_desc_9": "Be water"
+    "tid_vip_dragon_title_23": "Exclusive Enigmatic Dragon"
   },
   {
-    "tid_vip_dragon_desc_15": "The Bearer of Secrets"
+    "tid_vip_dragon_title_30": "Exclusive Fiend Dragon"
   },
   {
-    "tid_vip_dragon_title_33": "Exclusive Defender Dragon"
+    "tid_vip_dragon_desc_38": "A Peek Into Infinity"
   },
   {
-    "tid_vip_dragon_header_doom": "Ready to tempt fate?"
+    "tid_vip_dragon_title_46": "Exclusive Nirvana Dragon"
   },
   {
-    "tid_vip_dragon_title_49": "Exclusive Winter Phoenix Dragon"
+    "tid_vip_dragon_desc_53": "Powers to crush anything."
   },
   {
-    "tid_vip_dragon_title_56": "Exclusive Antimatter Dragon"
+    "tid_vip_dragon_icon_59": "VIP MYTHICAL"
   },
   {
-    "tid_vip_dragon_icon_61": "VIP MYTHICAL"
+    "tid_vip_dragon_title_angry_egg": "Exclusive Angry Egg Dragon"
   },
   {
-    "tid_vip_dragon_title_boggy": "Exclusive Boggy Dragon"
+    "tid_vip_dragon_desc_future": "Controller of destiny."
   },
   {
-    "tid_vip_dragon_desc_lunarshadow": "Creator of darkness."
+    "tid_vip_dragon_title_shield": "Exclusive Shield Dragon"
   },
   {
-    "tid_vip_dragon_title_swashbuckler": "Exclusive VIP Dragon"
+    "tid_vip_dragon_header_destruction": "Not the bad guy it is made out to be..."
   },
   {
-    "tid_vip_dragon_header_blazefrost": "A powerful hybrid of fire and ice."
+    "tid_pets_feed_level_description": "Reach level {} to own this Pet and get its Pet Boons"
   },
   {
-    "tid_pets_feed_food_left": "{0} Pet Food left to next Reward"
+    "tid_pets_info_screen_boosts": "PET BOONS"
   },
   {
-    "tid_pets_pet_owned_description": "Congratulations! You fed your Pet to the last level, so now you can keep it!"
+    "tid_pets_helpview_description_2_old": "Feed your Pet to its maximum level in order to keep it. Its Pet Boons can help you with special bonuses. Keep leveling up your Pet beyond that for even more Rewards."
   },
   {
-    "tid_pets_feature_unlock_title": "LEVEL UP TO UNLOCK"
+    "tid_store_pack_pets_6": "Pet Banquet"
   },
   {
-    "tid_pets_food_excess": "FULL"
+    "tid_news_petsevent_start_title": "NEW PET ARRIVAL!"
   },
   {
-    "tid_pets_reset_level_tooltip": "Uh-oh... You ran out of time and lost your progress towards this level."
+    "tid_pets_offer_special_title": "PET SPECIAL OFFER"
   },
   {
-    "tid_news_petsevent_start_again_header": "The Pet Island is back again with a new friend! Take care of your Pet, feed it well, and earn tons of Rewards along the way!"
+    "tid_pets_pet_name_6": "Cranky"
   },
   {
-    "tid_subcategories_114_name": "Dream"
+    "tid_subcategories_113_name": "Ancient"
   },
   {
-    "tid_subcategories_210_name": "War"
+    "tid_subcategories_29_name": "Light"
   },
   {
-    "tid_subcategories_301_name": "Wizards"
+    "tid_subcategories_36_name": "Temples"
   },
   {
-    "tid_trails_moves_currency": "SPINS"
+    "tid_trails_boost_tooltip": "Multiply your Steps!"
   },
   {
-    "tid_trails_helpview_title2": "JACKPOTS"
+    "tid_trails_helpvew_description1": "Spin your way along the Trail! Each Spin grants you a certain number of Steps for you to advance and collect amazing Rewards!"
   },
   {
-    "tid_news_dragontrails_techtest_header": "Tap the new Event Island to try out a new feature: Dragon Trails! Earn Spins and move along the Trail to reach tons of Rewards. Remember that this feature is in its testing phase."
+    "tid_news_dragontrails_techtest_title": "DRAGON TRAILS"
   },
   {
-    "tid_vip_tier_group3": "REGENT"
+    "tid_vip_tier_group2": "DUKE"
   },
   {
-    "tid_vip_tier_promotion_title": "PRESTIGE TIER UP"
+    "tid_vip_tier_deus_trading_locked_long": "Reach {} to unlock and trade with Deus once per day"
   },
   {
-    "tid_vip_tier_help_slide_1_content_1": "Collect Prestige Points by making purchases"
+    "tid_vip_tier_webstore_button": "GO TO WEB"
   },
   {
-    "tid_vip_tiers_plus_format": "+{}"
+    "tid_vip_tiers_hours_format": "1/{}"
   },
   {
     "tid_new_expansionevent2_desc": "Got crowded islands? Well now’s the perfect time to expand! Get new expansions and unlock islands with a special discount. Don’t miss it!"
@@ -59721,193 +59724,196 @@
     "tid_tutorial_63_3_message": "There is a special currency for this island: Grid Coins."
   },
   {
-    "tid_goals_14_instructions_mouse": "When the egg in the Hatchery is ready, click on the Hatch button at the bottom of the screen. Then select Place and choose a habitat that matches one of the dragon's elements."
+    "tid_goals_22_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
   },
   {
-    "tid_goals_40_instructions_mouse": "Click on a Farm, then click on the Grow Food button, then select Grower, and wait."
+    "tid_goals_63_instructions_mouse": "Click on the For Sale sign for the expansion you want and choose to expand with either Gold or Gems."
   },
   {
-    "tid_goals_2010_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Desert Island."
+    "tid_goals_2029_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
   },
   {
-    "tid_goals_2040_instructions_mouse": "Go to the Breeding Sanctuary. Click on Add Step to upgrade step by step with Gold. Or you can click on Finish Now to upgrade instantly with Gems."
+    "tid_goals_2079_instructions_mouse": "Click on the Coliseum, click on the Combat button and enter your first Quest battle."
   },
   {
-    "tid_tutorial_1_5_message_mouse": "Click OK to place the Terra Habitat and wait a few seconds."
+    "tid_tutorial_1_23_message_mouse": "Click BUILDINGS and then on Farm."
   },
   {
-    "tid_tutorial_11_4_message_mouse": "Click on the square to claim the block."
+    "tid_tutorial_25_9_message_mouse": "Click on the arrows until you've spent all moves."
   },
   {
-    "tid_chests_popup_click_to_open_text_mouse": "Click to open"
+    "tid_dragon_cinema_help_view_description_third_fyber_mouse": "Get in touch with Fyber if you have completed a task and haven't received your rewards after a few days. To get in touch, go to the \"Rewards Status\" section and click on \"report\" next to the task for which you have the pending reward."
   },
   {
-    "tid_new_letstalknewsletter_desc_mouse": "Click on the button below to find out about the improvements we have made based on YOUR FEEDBACK! Stay tuned, many more to come!"
+    "tid_xpromo_welcome_desc": "Welcome to a brand new PC version of Dragon City, with HD graphics and improved performance! Here are 30 gems to help you in your new endeavors. Have fun!"
   },
   {
-    "tid_pack_110_description": "This is a Combo Pack! Get the Sorcerer Dragon and a bunch of resources for a special price!"
+    "tid_pack_119_description": "Get the Firefighter Dragon and a bunch of Food for a very special price with this Combo Pack!"
   },
   {
-    "tid_pack_125_description": "A fantastic chance to obtain our most patriotic citizen: the Uncle Sam Dragon!"
+    "tid_pack_134_description": "Who wouldn't want to own this bad boy? Get the Motorbike Dragon with this exclusive combo pack!"
   },
   {
-    "tid_pack_140_description": "Exclusive Combo Pack: The majestic Patriot Dragon, Food and Gold for a special price!"
+    "tid_pack_149_description": "The NEW Candy Boot Dragon is a must-have for Christmas time!"
   },
   {
-    "tid_pack_155_description": "This month's Zodiac Dragon is Aquarius. Complete your collection!"
+    "tid_pack_164_description": "Zodiac Combo Pack: Aries Dragon! Complete your zodiac collection."
   },
   {
-    "tid_pack_170_description": "The Amerindian Dragon is a great warrior and a spiritual leader. Get him today!"
+    "tid_pack_179_description": "Zodiac Combo Pack: Virgo Dragon! Complete your zodiac collection."
   },
   {
-    "tid_pack_185_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_194_description": "The Super Terra Dragon is the most powerful creature of its kind!"
   },
   {
-    "tid_pack_200_description": "Get two dragons of two different rarities for a great price!"
+    "tid_pack_206_description": "Use these dragons in the Breeding Season event! "
   },
   {
-    "tid_pack_210_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_216_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_219_description": "Two Legendary Dragons with a huge discount!"
+    "tid_pack_225_description": "Two Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_230_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_237_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_breeders_description": "Viktor and Viktoria will help you in Breeding Events!"
+    "tid_pack_247_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_251_description": "Two Very Rare Dragons with a huge discount!"
+    "tid_pack_259_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_263_description": "Two exclusive dragons of the Water element with a huge discount!"
+    "tid_pack_269_description": "Two Flame Dragons with a huge discount!"
   },
   {
-    "tid_pack_273_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_280_description": "The Kyuubi Dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_283_description": "Two Legendary Dragons with a huge discount!"
+    "tid_pack_289_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_293_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_302_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_308_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_317_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_323_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_331_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_337_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_346_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_352_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_perks_popup_title": "PERKS"
   },
   {
-    "tid_perks_helpview_description1": "Attach a Perk to your dragon to improve its stats such as health, damage, or breeding possibilities! Remember, you can add multiple Perks to one dragon!"
+    "tid_perk_ability_percentage_info_perk_popup": "Up to a %1$s increase for your dragon"
   },
   {
-    "tid_perks_combat_claim_desc": "Try out these new Combat Perks that increase your dragon's health and damage!"
+    "tid_reaper_perk_desc": "Deals damage to an opponent revived by a Phoenix Perk and can be activated multiple times. More attached Reaper Perks means more damage dealt. You can find this Perk in Offers!"
   },
   {
-    "tid_store_pack_breeding_perk": "Sack of Breeding Perks"
+    "tid_offer_perks_gacha_title": "LUCKY PERK PACK"
   },
   {
-    "tid_offer_perks_pack_desc": "Up your strategy with this Perk Offer!"
+    "tid_offer_perks_supremepack_header": "The Ultimate Perk Offer meant for YOU!"
   },
   {
-    "tid_perk_rarity_basic": "BASIC"
+    "tid_name_increase_dragon_attack": "Attack Perk"
   },
   {
-    "tid_select_perks_line2_popup": "Once attached, Gold or Gems are needed to remove Perks"
+    "tid_perks_name": "PERKS"
   },
   {
-    "tid_perks_recall_confirmation_message": "Do you want to send %1$s back to the Dragonverse for %2$s Orbs and %3$s Perk/s? After Recalling, you will still have %3$s more dragon/s of the same type."
+    "tid_damage_perk_advanced_desc": "Greatly increases your dragon's damage. You might find this Perk in Offers, the Shop, Quests or in-game events!"
   },
   {
-    "tid_dragon_specific_perk_name": "Dragon Specific Perks"
+    "tid_vip_dragon_title_5": "Exclusive Sentence Dragon"
   },
   {
-    "tid_vip_dragon_desc_8": "Very Impressive Power!"
+    "tid_vip_dragon_title_16": "Exclusive Glitter Dragon"
   },
   {
-    "tid_vip_dragon_title_19": "Exclusive Rune Dragon"
+    "tid_vip_dragon_title_24": "Exclusive Poisonous Dragon"
   },
   {
-    "tid_vip_dragon_title_26": "Exclusive Geist Dragon"
+    "tid_vip_dragon_desc_20": "Straight out of hell"
   },
   {
-    "tid_vip_dragon_header_defender": "The art of defense"
+    "tid_vip_dragon_title_39": "Exclusive Charged Dragon"
   },
   {
-    "tid_vip_dragon_title_42": "Exclusive Dumbpling Dragon"
+    "tid_vip_dragon_desc_46": "Majestic. Heavenly."
   },
   {
-    "tid_vip_dragon_header_winterphoenix": "Very Impressive Power!"
+    "tid_vip_dragon_title_54": "Exclusive Dumbpling Dragon"
   },
   {
-    "tid_vip_dragon_desc_56": "No way of escaping."
+    "tid_vip_dragon_title_60": "Exclusive Gel Barrier Dragon"
   },
   {
-    "tid_vip_dragon_title_youthful": "Exclusive Youthful Dragon"
+    "tid_vip_dragon_desc_angry_egg": "Every dragon’s nightmare."
   },
   {
-    "tid_vip_dragon_desc_boggy": "He likes to play dirty in battle."
+    "tid_vip_dragon_title_past": "Exclusive Past Dragon"
   },
   {
-    "tid_vip_dragon_title_solarflare": "Exclusive Solar Flare Dragon"
+    "tid_vip_dragon_desc_shield": "Defender of realms."
   },
   {
-    "tid_vip_dragon_desc_swashbuckler": "Ruler of the Seven Seas."
+    "tid_vip_dragon_header_joanofarc": "A heroine who speaks up!"
   },
   {
-    "tid_vip_dragon_header_jupitergod": "A dragon of sky and lightning."
+    "tid_pet_points": "Pet Food"
   },
   {
-    "tid_pets_feed_button": "FEED"
+    "tid_pets_info_screen_boost_1": "Boon 1"
   },
   {
-    "tid_pets_pet_owned_tooltip": "Thank you for adopting me! Now my Boons will help you on your journey!"
+    "tid_pets_helpview_title_3": "PET LEVELS"
   },
   {
-    "tid_pets_event_timer_description": "Event ends in:"
+    "tid_store_pack_pets_7": "Pet All You Can Eat"
   },
   {
-    "tid_pets_find_packs_title": "PET FOOD PACKS"
+    "tid_news_petsevent_start_header": "A special Island with a cute, new friend is here! Take care of your Pet, feed it well, and earn tons of Rewards along the way!"
   },
   {
-    "tid_pets_claim_all_title": "Pet Rewards"
+    "tid_pets_offer_special_header": "Don't miss this chance to keep your pet happy!"
   },
   {
-    "tid_pets_equip": "EQUIP"
+    "tid_pets_pet_description_6": "With his trusty blue shell and big, sparkling green eyes, this little crustacean is anything but grumpy! Cranky might have a tough exterior, but he's a total softie who loves scuttling alongside his favorite Dragon Master, bringing a pinch of seaside charm to every adventure."
   },
   {
-    "tid_subcategories_115_name": "Happy"
+    "tid_subcategories_114_name": "Dream"
   },
   {
-    "tid_subcategories_211_name": "Pure"
+    "tid_subcategories_210_name": "War"
   },
   {
-    "tid_subcategories_41_name": "Tiles"
+    "tid_subcategories_301_name": "Wizards"
   },
   {
-    "tid_dragon_trail_moves": "SPINS"
+    "tid_trails_moves_currency": "SPINS"
   },
   {
-    "tid_trails_helpvew_description2": "Land on the Jackpot for a huge boost along the Trail and land on special tiles to find special Rewards!"
+    "tid_trails_helpview_title2": "JACKPOTS"
   },
   {
-    "tid_vip_tier_group4": "DRAGONLORD"
+    "tid_news_dragontrails_techtest_header": "Tap the new Event Island to try out a new feature: Dragon Trails! Earn Spins and move along the Trail to reach tons of Rewards. Remember that this feature is in its testing phase."
   },
   {
-    "tid_vip_tier_demotion_title": "PRESTIGE CYCLE RESET"
+    "tid_vip_tier_group3": "REGENT"
   },
   {
-    "tid_vip_tier_help_slide_1_content_2": "Increase your Prestige Tier"
+    "tid_vip_tier_promotion_title": "PRESTIGE TIER UP"
   },
   {
-    "tid_vip_tiers_plus_percentage_format": "+{}%"
+    "tid_vip_tier_help_slide_1_content_1": "Collect Prestige Points by making purchases"
+  },
+  {
+    "tid_vip_tiers_plus_format": "+{}"
   },
   {
     "tid_new_as_master_two_button": "GO TO SHOP"
@@ -64485,6 +64491,9 @@
     "tid_tt_HollowQuest": "Hollow Crown Quest"
   },
   {
+    "tid_food_chest_tier_title": "FOOD CHEST CONTENTS"
+  },
+  {
     "tid_progressionsystem_tiers_popup_freenode": "FREE NODE"
   },
   {
@@ -67200,196 +67209,193 @@
     "tid_tutorial_63_4_message": "You can buy available blocks adjacent to your position."
   },
   {
-    "tid_goals_1_instructions_mouse": "Select the habitat, and then click on the Collect button at the bottom."
+    "tid_goals_24_instructions_mouse": "Click on the Breeding Mountain or the Ultra Breeding Tree. Then click on the Breed button and select a Sea Dragon and a Fire Dragon. Remember that you can't breed dragons under level 4."
   },
   {
-    "tid_goals_36_instructions_mouse": "Click on a Big Tree. Then choose Clear and wait for the process to finish. When the XP icon appears, you can click on it and the Big Tree will disappear."
+    "tid_goals_113_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon image. You can get more Food by building new Farms."
   },
   {
-    "tid_goals_2013_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Creepy Island."
+    "tid_goals_2030_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
   },
   {
-    "tid_goals_2044_instructions_mouse": "Click on the Summoning Wall and summon Guardangel."
+    "tid_goals_2080_instructions_mouse": "Click on the Quest card to continue fighting and finish your first Quest."
   },
   {
-    "tid_tutorial_1_7_message_mouse": "XP is what helps Dragon Masters level up. Click your Terra Habitat to earn XP!"
+    "tid_tutorial_1_25_message_mouse": "Click OK to place the Farm."
   },
   {
-    "tid_tutorial_17_2_message_mouse": "Click a square adjacent to your position to claim it."
+    "tid_tutorial_29_2_message_mouse": "Click on the lever to spin it and find out how many moves you get!"
   },
   {
-    "tid_storytelling_click_to_continue_mouse": "Click to continue…"
+    "tid_dragonbook_help_filters_mouse": "Looking for a particular dragon? Use the filters to find it! Filters are applied when you click on them."
   },
   {
-    "tid_new_hacker_ban_desc_mouse": "Your Dragon City team wants to make the game fair for everyone. Please click the button to learn more about the recent actions taken in the game!"
+    "tid_xpromo_welcome_button": "CLAIM"
   },
   {
-    "tid_pack_111_description": "This is a Combo Pack! Get the Bookday Dragon and a bunch of resources for a special price!"
+    "tid_pack_120_description": "Happy Mother's Day! Celebrate it with this exclusive Motherly Dragon Combo Pack. Limited time only!"
   },
   {
-    "tid_pack_126_description": "A fantastic chance to obtain our most patriotic citizen: the Uncle Sam Dragon!"
+    "tid_pack_135_description": "Who wouldn't want to own this bad boy? Get the Motorbike Dragon with this exclusive combo pack!"
   },
   {
-    "tid_pack_141_description": "Exclusive Combo Pack: The majestic Patriot Dragon, Food and Gold for a special price!"
+    "tid_pack_150_description": "Despite his terrible handwriting, the Doctor Dragon is really helpful after battles!"
   },
   {
-    "tid_pack_156_description": "Get the Sunset Dragon to complete your Prehistoric Collection!"
+    "tid_pack_165_description": "An essential creature in Dragon City!"
   },
   {
-    "tid_pack_171_description": "The Glowppy Dragon will bring good feelings to your Dragon City!"
+    "tid_pack_180_description": "Three heads, three personalities, one dragon."
   },
   {
-    "tid_pack_186_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_195_description": "The guardian of all traditions and a master in martial arts: It's the Asian Dragon!"
   },
   {
-    "tid_pack_200_title": "RARITY COMBO PACK"
+    "tid_pack_207_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_211_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_generic_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_220_description": "The Discus Thrower Dragon and a bunch of resources with a great discount!"
+    "tid_pack_226_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_231_description": "Use these dragons in the Breeding Season event! "
+    "tid_pack_237_description": "Two Epic Dragons with a huge discount!"
   },
   {
-    "tid_pack_240_title": "YOUTUBER COMBO PACK"
+    "tid_pack_248_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_252_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_259_description": "Two Epic Dragons with a huge discount!"
   },
   {
-    "tid_pack_264_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_270_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_274_title": "LIGHT COMBO PACK"
+    "tid_pack_281_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_284_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_290_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_294_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_303_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_309_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_318_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_324_description": "Two Legendary Dragons with a huge discount!"
+    "tid_pack_332_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_338_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_347_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_353_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_perks_available_popup_title": "AVAILABLE PERKS"
   },
   {
-    "tid_perks_helpview_title2": "ABOUT PERKS"
+    "tid_perk_tooltip_stats_base": "Base"
   },
   {
-    "tid_perks_statincrease_desc": "3% increase per Perk"
+    "tid_remove_perks_title": "REMOVE PERKS"
   },
   {
-    "tid_store_pack_damage_perk": "Sack of Damage Perks"
+    "tid_offer_perks_gacha_header": "There's a chance to get some powerful Perks in this pack!"
   },
   {
-    "tid_offer_perks_pack_icon": "PERK PACK"
+    "tid_offer_perks_supremepack_desc": "Boost your dragons with tons of powerful Perks!"
   },
   {
-    "tid_perk_rarity_advanced": "ADVANCED"
+    "tid_name_increase_dragon_defense": "Defense Perk"
   },
   {
-    "tid_select_perks_line2_popup_v2": "Remember, attaching a Perk is a permanent action"
+    "tid_perks_combat_type": "COMBAT"
   },
   {
-    "tid_perks_sell_popup_dragon_message": "Are you sure you want to sell your %s for this amount of Gold and Perks?"
+    "tid_health_perk_advanced_name": "Advanced Health Perk"
   },
   {
-    "tid_dragon_specific_perk_desc": "Greatly increases your dragon's health and damage. You might find this Perk in Hall of Fame"
+    "tid_vip_dragon_title_6": "Exclusive Faust Dragon"
   },
   {
-    "tid_vip_dragon_desc_24": "Very Impressive Power!"
+    "tid_vip_dragon_desc_6": "As precious as gold"
   },
   {
-    "tid_vip_dragon_header_rune": "Read The Signs"
+    "tid_vip_dragon_desc_14": "Stay Away"
   },
   {
-    "tid_vip_dragon_desc_16": "Face The Ghost"
+    "tid_vip_dragon_title_31": "Exclusive Pure Gold Dragon"
   },
   {
-    "tid_vip_dragon_title_35": "Exclusive Yin Dragon"
+    "tid_vip_dragon_desc_39": "The Metal Twin"
   },
   {
-    "tid_vip_dragon_desc_42": "With a special battle skill!"
+    "tid_vip_dragon_title_47": "Exclusive Mist Dragon"
   },
   {
-    "tid_vip_dragon_title_50": "Exclusive Mana Potion Dragon"
+    "tid_vip_dragon_desc_54": "Powers to make dragons cry."
   },
   {
-    "tid_vip_dragon_title_57": "Exclusive Kumk’u Dragon"
+    "tid_vip_dragon_desc_60": "Enemies will disintegrate."
   },
   {
-    "tid_vip_dragon_desc_youthful": "Always adds his own spin!"
+    "tid_vip_dragon_title_ice_hockey": "Exclusive Ice Hockey Dragon"
   },
   {
-    "tid_vip_dragon_title_2_ice_hockey": "Exclusive Ice Hockey Dragon"
+    "tid_vip_dragon_desc_past": "Witness of the world."
   },
   {
-    "tid_vip_dragon_desc_solarflare": "Creator of stars."
+    "tid_vip_dragon_title_scientist": "Exclusive Scientist Dragon"
   },
   {
-    "tid_vip_dragon_title_trident": "Exclusive Trident Dragon"
+    "tid_vip_dragon_header_cleopatra": "Calculated and cunning."
   },
   {
-    "tid_vip_dragon_header_xolotl": "A dragon of both lightning and death."
+    "tid_pet_food": "Pet Food"
   },
   {
-    "tid_pets_food_sources_title": "FIND PET FOOD"
+    "tid_pets_info_screen_boost_2": "Boon 2"
   },
   {
-    "tid_pets_feature_unlock": "Feed your Pet in its special Island to level it up and earn Rewards along the way!"
+    "tid_pets_helpview_description_3": "Don't forget to feed your Pet. Underfed Pets get sad, and their level progressions reset."
   },
   {
-    "tid_pets_state_owned": "Owned"
+    "tid_pets_offer_starterpack_title": "PET STARTER PACK!"
   },
   {
-    "tid_pets_find_packs_description": "You can find Pet Food Baskets here:"
+    "tid_pets_come_later": "Check back later!"
   },
   {
-    "tid_pets_claim_all_desc": "You leveled up your Pet! Claim your Rewards!"
+    "tid_pets_end_season_keep_your_pet_title": "KEEP YOUR PETS!"
   },
   {
-    "tid_pets_unequip": "UNEQUIP"
+    "tid_pets_pet_name_7": "Purrbell"
   },
   {
-    "tid_subcategories_11_name": "Terra"
+    "tid_subcategories_115_name": "Happy"
   },
   {
-    "tid_subcategories_116_name": "Joy"
+    "tid_subcategories_211_name": "Pure"
   },
   {
-    "tid_subcategories_212_name": "Legend"
+    "tid_subcategories_41_name": "Tiles"
   },
   {
-    "tid_subcategories_42_name": "Plants"
+    "tid_dragon_trail_moves": "SPINS"
   },
   {
-    "tid_trails_moves_currency_steps": "STEPS"
+    "tid_trails_helpvew_description2": "Land on the Jackpot for a huge boost along the Trail and land on special tiles to find special Rewards!"
   },
   {
-    "tid_trails_helpview_title3": "BOOSTER"
+    "tid_vip_tier_group4": "DRAGONLORD"
   },
   {
-    "tid_vip_tier_benefits": "{0} {1} Benefits"
+    "tid_vip_tier_demotion_title": "PRESTIGE CYCLE RESET"
   },
   {
-    "tid_vip_tier_checkpoint_max_tier_title": "PRESTIGE TIER SECURED!"
+    "tid_vip_tier_help_slide_1_content_2": "Increase your Prestige Tier"
   },
   {
-    "tid_vip_tier_help_slide_1_content_3": "Enjoy exclusive benefits"
-  },
-  {
-    "tid_news_viptiers_title": "PRESTIGE TIERS ARE HERE!"
+    "tid_vip_tiers_plus_percentage_format": "+{}%"
   },
   {
     "tid_new_breeding_mountain_discount_50_desc": "Speed up your breedings and become a breeding pro! Now there’s a 50% discount on upgrading your breeding mountain. Check it out!"
@@ -71967,6 +71973,9 @@
     "tid_leaderboard_legendary_points": "Legendary Trendy leaderboard token"
   },
   {
+    "tid_food_chest_tier_description": "Increase your player level to get more food!"
+  },
+  {
     "tid_progressionsystem_tiers_popup_tiersnumber": "TIER {0}"
   },
   {
@@ -74682,196 +74691,196 @@
     "tid_tutorial_63_5_message": "Tap on the square to claim the block."
   },
   {
-    "tid_goals_6_instructions_mouse": "Click on a Farm, and then on the Grow Food button. Select Backyard Gardener and wait."
+    "tid_goals_25_instructions_mouse": "First click on the Hatchery, then on the Hatch button, and then on the Speed Up button to speed up the process."
   },
   {
-    "tid_goals_37_instructions_mouse": "Click on a Big Tree. Then choose Clear from the menu. After that, click the Speed Up buttons to speed up the process."
+    "tid_goals_2003_instructions_mouse": "Click on the For Sale sign for the expansion you want and choose to expand with either Gold or Gems."
   },
   {
-    "tid_goals_2014_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Rainbow Island."
+    "tid_goals_2036_instructions_mouse": "Click on the Breeding Sanctuary Ruins. Now click on the Activate button at the bottom of the screen. Select Rebuild Sanctuary."
   },
   {
-    "tid_goals_2045_instructions_mouse": "Click on the Summoning Wall and summon Gorgoneia."
+    "tid_tutorial_9_7_title_mouse": "Click on the Chest"
   },
   {
-    "tid_tutorial_1_9_message_mouse": "The Hatchery is where dragons are born.\\nClick on it to get your first dragon!"
+    "tid_tutorial_1_27_message_mouse": "Your dragons are getting hungry. Click your Farm!"
   },
   {
-    "tid_tutorial_21_2_message_mouse": "To release the first dragon from its cage, click on the cage until it's open."
+    "tid_tutorial_29_5_message_mouse": "Click on the arrows until you've spent all moves."
   },
   {
-    "tid_expand_click_here_mouse_mouse": "Click to buy"
+    "tid_feed_help_source_title_mouse": "Click on the SOURCE icon to see how the dragon is obtained. You can also check how much Gold it produces!"
   },
   {
-    "tid_breedingisland_helpscreen_three_mouse": "Click this button to select a \"joker dragon\" for the breeding event instead!"
+    "tid_pack_title": "COMBO PACK"
   },
   {
-    "tid_pack_112_description": "You don't even need to unpack the dragon in this Combo Pack, he's all good inside his parcel: The Box Dragon!"
+    "tid_pack_121_description": "Happy Mother's Day! Celebrate it with this exclusive Motherly Dragon Combo Pack. Limited time only!"
   },
   {
-    "tid_pack_127_description": "Happy Father's Day! Show some love for this daddy dragon!"
+    "tid_pack_136_description": "NEW Car Dragon! Available for a limited time with this exclusive combo pack!"
   },
   {
-    "tid_pack_142_description": "Oktoberfestastic Combo Pack! The Barley Dragon and lots of resources for a special price!"
+    "tid_pack_151_description": "The Solstice Dragon only shows up when the Winter Solstice takes place!"
   },
   {
-    "tid_pack_157_description": "Get the Dark Lord Dragon to complete your Mythical Collection!"
+    "tid_pack_166_description": "You never know when this dragon will explode. Can you handle it?"
   },
   {
-    "tid_pack_172_description": "All the way from tropical waters: The Caribbean Dragon."
+    "tid_pack_181_description": "Get the brand Clay Dragon and a bunch of resources for a special price!"
   },
   {
-    "tid_pack_187_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_196_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_201_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_207_description": "Two Epic Dragons with a huge discount!"
   },
   {
-    "tid_pack_212_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_217_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_221_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_227_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_232_description": "Use these dragons in the Breeding Season event! "
+    "tid_pack_238_title": "COMBO PACK"
   },
   {
-    "tid_pack_240_description": "Two Legendary Dragons with a huge discount!"
+    "tid_pack_248_description": "Two Very Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_253_title": "RARITY COMBO PACK"
+    "tid_pack_260_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_265_title": "METAL COMBO PACK"
+    "tid_pack_270_description": "Two Very Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_274_description": "Two exclusive dragons of the Light element with a huge discount!"
+    "tid_pack_281_description": "Two Epic Dragons with a huge discount!"
   },
   {
-    "tid_pack_285_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_291_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_295_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_304_description": "Two Legendary Dragons with a huge discount!"
   },
   {
-    "tid_pack_310_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_319_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_325_title": "RARITY COMBO PACK"
+    "tid_pack_333_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_339_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_348_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_354_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_perks_popup_desc_1item": "Here are all your Perks. Attach a Perk to a dragon to use its powers!"
   },
   {
-    "tid_perks_helpview_description2": "A higher rarity Perk means more Perk power!\\nYou also have Combat Perks, which take effect during battle, and Character Perks, which take effect outside of battle."
+    "tid_perk_tooltip_stats_empower": "Empower"
   },
   {
-    "tid_damage_perk_name": "Damage Perk"
+    "tid_remove_perks_subtitle": "Are you sure you want to remove all your Perks from this slot?\\nUse Gold to permanently DELETE your Perks or use Gems to STORE them."
   },
   {
-    "tid_store_pack_health_perk": "Sack of Health Perks"
+    "tid_offer_perks_gacha_desc": "Which goodies will you get? Let's find out!"
   },
   {
-    "tid_offer_perks_supremepack_reaper_title": "SUPREME REAPER PACK"
+    "tid_offer_perks_supremepack_icon": "SUPREME PACK"
   },
   {
-    "tid_perk_rarity_pro": "PRO"
+    "tid_add_perk_button_text": "ADD"
   },
   {
-    "tid_attach_perk_popup_title": "ADD PERK"
+    "tid_perks_world_type": "WORLD"
   },
   {
-    "tid_perks_delete_confirmation_title": "DELETE PERKS"
+    "tid_health_perk_advanced_desc": "Greatly increases your dragon's health. You might find this Perk in Offers, the Shop, Quests or in-game events!"
   },
   {
-    "tid_vip_dragon_header_generic": "For VIP users only!"
+    "tid_vip_dragon_title_7": "Exclusive Valiant Dragon"
   },
   {
-    "tid_vip_dragon_title_11": "Exclusive Rocket Dragon"
+    "tid_vip_dragon_title_17": "Exclusive Dark Sky Dragon"
   },
   {
-    "tid_vip_dragon_title_20": "Exclusive Hell Twin Dragon"
+    "tid_vip_dragon_desc_3": "Are you ready to crack the enigma?"
   },
   {
-    "tid_vip_dragon_title_27": "Exclusive Archaic Dragon"
+    "tid_vip_dragon_desc_21": "Perfection embodied"
   },
   {
-    "tid_vip_dragon_desc_35": "The Dark Twin"
+    "tid_vip_dragon_title_40": "Exclusive Loch Dragon"
   },
   {
-    "tid_vip_dragon_title_43": "Exclusive Soap Bubble Dragon"
+    "tid_vip_dragon_header_mist": "A storm you can't predict."
   },
   {
-    "tid_vip_dragon_desc_50": "A boost for battle!"
+    "tid_vip_dragon_title_55": "VIP MYTHICAL DRAGON"
   },
   {
-    "tid_vip_dragon_desc_57": "Powers to crush anything."
+    "tid_vip_dragon_icon_60": "VIP MYTHICAL"
   },
   {
-    "tid_vip_dragon_title_elder": "Exclusive Elder Dragon"
+    "tid_vip_dragon_desc_ice_hockey": "Leading to victory."
   },
   {
-    "tid_vip_dragon_desc_2_ice_hockey": "Back for a limited time!"
+    "tid_vip_dragon_title_durian": "Exclusive Durian Dragon"
   },
   {
-    "tid_vip_dragon_title_stellartress": "Exclusive Stellartress Dragon"
+    "tid_vip_dragon_desc_scientist": "Scientist gone mad."
   },
   {
-    "tid_vip_dragon_desc_trident": "Conqueror of the ocean."
+    "tid_vip_dragon_header_candyheart": "Tip: Don't ask him for candy!"
   },
   {
-    "tid_pets_pet_name_1": "Furball"
+    "tid_pets_feed_feed_tab": "FEED"
   },
   {
-    "tid_pets_food_sources_description": "Find Pet Food Baskets in the following features:"
+    "tid_pets_info_screen_boost_description": "While equipped, the Boon will take effect"
   },
   {
-    "tid_pets_gift_title": "A GIFT FROM YOUR PET"
+    "tid_pets_helpview_tooltip_3": "Level progression will reset in:"
   },
   {
-    "tid_pets_state_missing": "Missing"
+    "tid_pets_offer_starterpack_header": "Give your Pet the head start they deserve!"
   },
   {
-    "tid_pets_end_season_notification_title": "Petting season will soon be over..."
+    "tid_claim_popup_petfood_title": "PET FOOD!"
   },
   {
-    "tid_pets_pet_name_2": "Kika"
+    "tid_pets_end_season_keep_your_pet_header": "Once you obtain your pet, it will be available once the next season starts and forever since in your inventory and will still provide some of its boons, so keep on feeding and enjoying the game!"
   },
   {
-    "tid_pets_pet_name_3": "Lilly"
+    "tid_pets_pet_description_7": "With his plush turquoise coat, swirling leaf-shaped tail, and huge glimmering eyes, this little kitten looks ready to pounce on adventure! Purrbell may seem like a bundle of energy, but he's a gentle soul at heart, happily trotting beside his favorite Dragon Master and sprinkling a bit of woodland wonder wherever he goes."
   },
   {
-    "tid_subcategories_12_name": "Flame"
+    "tid_subcategories_11_name": "Terra"
   },
   {
-    "tid_subcategories_117_name": "Chaos"
+    "tid_subcategories_116_name": "Joy"
   },
   {
-    "tid_subcategories_213_name": "Ancient"
+    "tid_subcategories_212_name": "Legend"
   },
   {
-    "tid_subcategories_43_name": "Flags"
+    "tid_subcategories_42_name": "Plants"
   },
   {
-    "tid_trails_boost_title": "BOOST"
+    "tid_trails_moves_currency_steps": "STEPS"
   },
   {
-    "tid_trails_helpvew_description3": "Want to move faster and earn more? Tap the Booster to spin with a multiplier for more Steps and bigger Rewards while speeding up your progress to big milestones!"
+    "tid_trails_helpview_title3": "BOOSTER"
   },
   {
-    "tid_vip_tier_avatar_frame": "Prestige Avatar Frame"
+    "tid_vip_tier_benefits": "{0} {1} Benefits"
   },
   {
-    "tid_vip_tier_demotion_description": "Oh no! You didn't reach the checkpoint and have been demoted from {1} to {0}"
+    "tid_vip_tier_checkpoint_max_tier_title": "PRESTIGE TIER SECURED!"
   },
   {
-    "tid_vip_tier_help_slide_2_content_1": "Reach Dragonlord I to enjoy Magical Deus Trading"
+    "tid_vip_tier_help_slide_1_content_3": "Enjoy exclusive benefits"
   },
   {
-    "tid_news_viptiers_header": "Gain exclusive Benefits for purchasing in the game, including cool new frames, additional gems and even the new Deus Trade!"
+    "tid_news_viptiers_title": "PRESTIGE TIERS ARE HERE!"
   },
   {
     "tid_new_hatchery_upgrade_50_icon": "UPGRADE OFFER"
@@ -82173,196 +82182,196 @@
     "tid_tutorial_63_8_message": "You can get Grid Coins by performing specific actions.\nYou can also buy them from the Shop."
   },
   {
-    "tid_goals_9_instructions_mouse": "Click on the Shop button and then on Buildings. Select a Farm."
+    "tid_goals_26_instructions_mouse": "When the egg in the Hatchery is ready, click on the Hatch button at the bottom of the screen. Then select Place and choose a habitat that matches one of the dragon's elements."
   },
   {
-    "tid_goals_49_instructions_mouse": "Click on the Shop button, select Expand, and choose how you want to pay for the expansion: Gold or Gems. Then select the expansion slot you want and click on it."
+    "tid_goals_127_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Lush Island."
   },
   {
-    "tid_goals_2015_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Ice Island."
+    "tid_goals_2037_instructions_mouse": "Click on the Ancient Portal and then on the Begin button."
   },
   {
-    "tid_goals_2046_instructions_mouse": "Click on the Summoning Wall and summon Piercing."
+    "tid_tutorial_999_26_message_mouse": "Congratulations! You leveled up! Click on the close button to continue with the tutorial."
   },
   {
-    "tid_tutorial_1_10_message_mouse": "Click on GET EGG to get your first Terra Dragon!"
+    "tid_tutorial_1_28_message_mouse": "Click GROW FOOD and select Bluebell Flower. Yum!"
   },
   {
-    "tid_tutorial_21_11_message_mouse": "Nice! You released the dragon! Now click on it again to guide it through the maze."
+    "tid_building_1_description_mouse": "This magical tower is where your dragon eggs hatch. Click on the Upgrade button to hatch more eggs at the same time!"
   },
   {
-    "tid_keychain_reading_error_message_mouse": "There was a problem reading your saved data.\\n\\nPlease click the button to try again."
+    "socialFramework.ChatWarning_mouse": "Break periods of one day between Chests are back! Get some rest until the next one!"
   },
   {
-    "tid_fairy_blessing_disappear_desc_mouse": "Your Fairy's Blessing has finished. Click the Blessing Fairy to get another one!"
+    "tid_pack_packdescription": "Extra discount when you purchase the Combo Pack!"
   },
   {
-    "tid_pack_113_description": "You don't even need to unpack the dragon in this Combo Pack, he's all good inside his parcel: The Box Dragon!"
+    "tid_pack_122_description": "NEW Soldier Dragon Combo Pack! He's the committed defender of Dragon City. Limited time only!"
   },
   {
-    "tid_pack_128_description": "Happy Father's Day! Show some love for this daddy dragon!"
+    "tid_pack_137_description": "NEW Car Dragon! Available for a limited time with this exclusive combo pack!"
   },
   {
-    "tid_pack_143_description": "Exclusive Combo Pack! Homerun all the way! This is the Homerun dragon!"
+    "tid_pack_152_description": "An Adamantium Combo Pack is an indestructible one! Here's the brand new Adamantium Dragon. Limited time only!"
   },
   {
-    "tid_pack_158_description": "Get the Infamous Dragon to complete your Ancient Collection!"
+    "tid_pack_167_description": "If you own lots of Flame Dragons, you should keep the Firefighter close!"
   },
   {
-    "tid_pack_173_description": "Handle with care: This dragon is high voltage."
+    "tid_pack_182_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_188_description": "A must-have for all nature lovers!"
+    "tid_pack_197_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_202_description": "Two Fire Dragons with a huge discount!"
+    "tid_pack_208_title": "LEGEND COMBO PACK"
   },
   {
-    "tid_pack_213_title": "YOUTUBER COMBO PACK"
+    "tid_pack_218_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_222_title": "RARITY COMBO PACK"
+    "tid_pack_228_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_233_description": "Use these dragons in the Breeding Season event! "
+    "tid_pack_238_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_241_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_249_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_253_description": "Two Epic Dragons with a huge discount!"
+    "tid_pack_261_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_265_description": "Two exclusive dragons of the Metal element with a huge discount!"
+    "tid_pack_271_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_275_title": "LIGHT COMBO PACK"
+    "tid_pack_282_title": "FLAME COMBO PACK"
   },
   {
-    "tid_pack_286_title": "RARITY COMBO PACK"
+    "tid_pack_291_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_296_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_305_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_311_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_320_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_325_description": "Two Very Rare Dragons with a huge discount!"
+    "tid_pack_334_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_340_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_349_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_355_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_perks_popup_desc": "There are %d different types of Perks available. Attach them to a dragon to use their powers!"
   },
   {
-    "tid_perks_helpview_title3": "REMOVING PERKS"
+    "tid_perk_tooltip_stats_rank": "Rank"
   },
   {
-    "tid_damage_perk_desc": "Increases your dragon's damage. You might find this Perk in Offers, the Shop, Quests or in-game events!"
+    "tid_remove_perks_warning": "You will lose your Perks!"
   },
   {
-    "tid_store_pack_phoenix_perk": "Sack of Phoenix Perks"
+    "tid_offer_perks_gacha_icon": "LUCKY PERK PACK"
   },
   {
-    "tid_offer_perks_supremepack_reaper_header": "Come knocking at your enemy's door..."
+    "tid_perks_unlock": "Unlocked at lvl 14"
   },
   {
-    "tid_perk_equipped": "Attached"
+    "tid_select_perk_button_text": "SELECT "
   },
   {
-    "tid_attach_perks_line1_popup": "Remember, Gold or Gems are needed to remove Perks."
+    "tid_perks_resource_type": "RESOURCE"
   },
   {
-    "tid_perks_delete_confirmation_description": "Are you sure you want to delete all your Perks from this slot?\\nRemember, DELETING Perks is a permanent action."
+    "tid_claim_advanced_perks_title": "NEW ADVANCED PERKS"
   },
   {
-    "tid_vip_dragon_title_1": "Exclusive Hellgate Dragon"
+    "tid_vip_dragon_title_8": "Exclusive Bushido Dragon"
   },
   {
-    "tid_vip_dragon_title_12": "Exclusive VIP offer"
+    "tid_vip_dragon_desc_7": "King of the Night"
   },
   {
-    "tid_vip_dragon_header_helltwin": "Two heads means double danger!"
+    "tid_vip_dragon_desc_11": "Required to get:"
   },
   {
-    "tid_vip_dragon_desc_17": "Eternally almighty"
+    "tid_vip_dragon_title_32": "Exclusive Mastery Dragon"
   },
   {
-    "tid_vip_dragon_title_36": "Exclusive Yang Dragon"
+    "tid_vip_dragon_desc_40": "The Nature Twin"
   },
   {
-    "tid_vip_dragon_desc_43": "Float me to the moon!"
+    "tid_vip_dragon_title_48": "Exclusive Heaven Dragon"
   },
   {
-    "tid_vip_dragon_title_51": "Mythical Dangerosaur Dragon"
+    "tid_vip_dragon_desc_55": "THE STRONGEST LEGENDARIES"
   },
   {
-    "tid_vip_dragon_icon_57": "VIP MYTHICAL"
+    "tid_vip_dragon_title_61": "Exclusive Whimsical Dragon"
   },
   {
-    "tid_vip_dragon_desc_elder": "It’s all about the win!"
+    "tid_vip_dragon_title_wilderness": "Exclusive Wilderness Dragon"
   },
   {
-    "tid_vip_dragon_title_eyeofchaos": "Exclusive Eye of Chaos Dragon"
+    "tid_vip_dragon_desc_durian": "Never backs down."
   },
   {
-    "tid_vip_dragon_desc_stellartress": "Heroine of stars."
+    "tid_vip_dragon_title_android": "Exclusive Android Dragon"
   },
   {
-    "tid_vip_dragon_generic_title": "Exclusive VIP Dragon"
+    "tid_vip_dragon_header_celebration": "Only here for the free party food."
   },
   {
-    "tid_pets_pet_description_1": "Fur-st come, fur-st served! The first Pet to detach from its dragon counterpart, Furball, has learned to thrive solo and inhabit your Islands. Of course, a Dragon Master's helping hand is always appreciated! This energetic, lovable friend enjoys belly rubs and rolling around like a furry tumbleweed!"
+    "tid_pets_feed_info_tab": "INFO"
   },
   {
-    "tid_pets_milestone_claim_title": "MILESTONE REACHED!"
+    "tid_pets_info_screen_equipped": "EQUIPPED"
   },
   {
-    "tid_pets_gift_description": "Your Pet has found something for you."
+    "tid_pets_food_offer_title": "PET FOOD OFFER"
   },
   {
-    "tid_store_pack_pets_1": "Pet Nibble"
+    "tid_pets_offer_lastminute_title": "LAST-MINUTE PET PACK!"
   },
   {
-    "tid_pets_end_season_notification_description": "Last chance to spend some time with your Pet!"
+    "tid_claim_popup_petfood_desc": "Take some Pet Food for your Pet to grow big and strong!"
   },
   {
-    "tid_pets_pet_description_2": "Double the tails, double the fun! Kika is a loyal gray companion who’s always wagging her way into trouble. Whether she’s chasing her own shadows or fetching rare artifacts, this two-tailed pup is a blur of energy. She might be small, but her heart is big enough to lead any Dragon Master toward a new adventure!"
+    "tid_pets_offer_avoid_reset_title": "YOUR PET IS HUNGRY"
   },
   {
-    "tid_pets_pet_description_3": "This pastel puff of joy loves hiding enchanted eggs and surprising her dragon friends with sweet springtime magic. With her tiny horn and bouncy energy, she’s the perfect little companion to brighten any Dragon Master’s easter adventure!"
+    "tid_pets_pet_name_8": "Frogstein"
   },
   {
-    "tid_subcategories_13_name": "Sea"
+    "tid_subcategories_12_name": "Flame"
   },
   {
-    "tid_subcategories_118_name": "Magic"
+    "tid_subcategories_117_name": "Chaos"
   },
   {
-    "tid_subcategories_214_name": "Dream"
+    "tid_subcategories_213_name": "Ancient"
   },
   {
-    "tid_subcategories_44_name": "Others"
+    "tid_subcategories_43_name": "Flags"
   },
   {
-    "tid_trails_boost_desc": "Spin with a multiplier for more Steps and bigger Rewards!"
+    "tid_trails_boost_title": "BOOST"
   },
   {
-    "tid_trails_helpview_title4": "REWARD BAR"
+    "tid_trails_helpvew_description3": "Want to move faster and earn more? Tap the Booster to spin with a multiplier for more Steps and bigger Rewards while speeding up your progress to big milestones!"
   },
   {
-    "tid_vip_tier_deus_trading": "Magical Deus Trading"
+    "tid_vip_tier_avatar_frame": "Prestige Avatar Frame"
   },
   {
-    "tid_vip_tier_promotion_description": "Congratulations! You were promoted from {1} to {0}"
+    "tid_vip_tier_demotion_description": "Oh no! You didn't reach the checkpoint and have been demoted from {1} to {0}"
   },
   {
-    "tid_vip_tier_help_slide_2_content_2": "Use Trading Essences to trade with Deus for any available Dragon Orbs you prefer"
+    "tid_vip_tier_help_slide_2_content_1": "Reach Dragonlord I to enjoy Magical Deus Trading"
   },
   {
-    "tid_news_viptiers_button": "CHECK IT OUT!"
+    "tid_news_viptiers_header": "Gain exclusive Benefits for purchasing in the game, including cool new frames, additional gems and even the new Deus Trade!"
   },
   {
     "tid_new_hatchery_upgrade_50_header": "HATCH EGGS LIKE A PRO"
@@ -89649,199 +89658,199 @@
     "tid_tutorial_63_10_message": "There are great prizes scattered throughout the island."
   },
   {
-    "tid_goals_7_instructions_mouse": "When the time is up, a Food icon will appear. Click on it to obtain Food!"
+    "tid_goals_11_instructions_mouse": "Click on the Breeding Mountain or the Ultra Breeding Tree. Then click on the Breed button and select a Terra Dragon and a Fire Dragon. Remember that you can't breed dragons under level 4."
   },
   {
-    "tid_goals_30_instructions_mouse": "Click on the Shop, select Buildings, and then click on the Recruitment Tavern. "
+    "tid_goals_16_instructions_mouse": "Click on the Menu button at the bottom of the screen and choose Social. Find Deus and click on the button next to him to visit his island. Then collect Gold from up to 5 buildings on his island."
   },
   {
-    "tid_goals_2016_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Gothic Island."
+    "tid_goals_148_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Lava Island."
   },
   {
-    "tid_goals_2050_instructions_mouse": "Click on the Summoning Wall and summon Fulltune."
+    "tid_goals_2038_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
   },
   {
-    "tid_tutorial_1_12_message_mouse": "Click HATCH to instantly hatch your dragon."
+    "tid_tutorial_1_2_message_mouse": "Habitats are where dragons live and become big & strong. Let’s build one now! Click SHOP."
   },
   {
-    "tid_tutorial_22_2_message_mouse": "Click on the die to roll it and find out how many moves you get!"
+    "tid_tutorial_1_31_message_mouse": "Your Food is ready! Click to collect it."
   },
   {
-    "tid_gem_confirmation_question_mouse": "Click again to confirm the purchase"
+    "FriendsClickingDragonHabitatsKey_VisitFriendState_mouse": "Help your friends by clicking on their dragon habitats!"
   },
   {
-    "tid_battlegrounds_battle_helpview_description2_mouse": "Your dragons automatically fight their opponents, but you can click an enemy at any moment to make it the target for your whole team."
+    "tid_alliance_chest_click_more_rewards_mouse": "Click to see other possible rewards"
   },
   {
-    "tid_pack_114_description": "An Adamantium Combo Pack is an indestructible one! Here's the brand new Adamantium Dragon. Limited time only!"
+    "tid_pack_108_description": "This is a combo-dragon in a Combo Pack! Get the Twin Dragon and a bunch of resources for a special price!"
   },
   {
-    "tid_pack_129_description": "NEW DRAGON! Meet our proudest student: The Graduation Dragon! Get him now with this Combo Pack!"
+    "tid_pack_123_description": "Spring Dragon Combo Pack! Summer is approaching rapidly, but on your island it can be spring forever with this beautiful dragon!"
   },
   {
-    "tid_pack_144_description": "The Columbus Dragon is an experienced conqueror. Get him with this exclusive Combo Pack!"
+    "tid_pack_138_description": "His awesomeness can only be matched by his evilness: it's the Orc Dragon! Get it now with this exclusive combo pack!"
   },
   {
-    "tid_pack_159_description": "Get the Fate Dragon to complete your Classical Collection!"
+    "tid_pack_153_description": "Here's the protector of rhinos: The Longhorn Dragon!"
   },
   {
-    "tid_pack_174_description": "Leo Dragon! There's a new Zodiac Dragon every month, complete your collection!"
+    "tid_pack_168_description": "She doesn't go anywhere without her babies. It's the Motherly Dragon!"
   },
   {
-    "tid_pack_189_description": "The medals on his jacket prove his experience: It's the Old General Dragon!"
+    "tid_pack_183_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_202_title": "FLAME COMBO PACK"
+    "tid_pack_198_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_213_description": "Use Vanoss and H2O Delirious to participate in the Hoodini Cup!"
+    "tid_pack_208_description": "Two exclusive dragons of the Legend element with a huge discount!"
   },
   {
-    "tid_pack_222_description": "Two Rare Dragons with a huge discount!"
+    "tid_pack_218_description": "Two Legendary Dragons with a huge discount!"
   },
   {
-    "tid_pack_234_description": "Two War Dragons with a huge discount!"
+    "tid_pack_228_description": "Two Very Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_242_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_239_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_254_description": "Get the Tailwind Dragon and a bunch of resources in this exclusive Combo Pack!"
+    "tid_pack_250_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_266_title": "RARITY COMBO PACK"
+    "tid_pack_262_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_275_description": "Two exclusive dragons of the Light element with a huge discount!"
+    "tid_pack_272_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_286_description": "Two Very Rare Dragons with a huge discount!"
+    "tid_pack_282_description": "Two Flame Dragons with a huge discount!"
   },
   {
-    "tid_pack_297_description": "Two exclusive dragons of the Light element with a huge discount!"
+    "tid_pack_292_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_312_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_306_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_326_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_321_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_341_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_335_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_356_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_350_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_perks_helpview_description3": "You can remove Perks from a dragon by either deleting them or storing them. It costs less to delete Perks but it means you will lose them forever. Perks can be kept by storing them instead."
+    "tid_perks_popup_list": "%s PERKS"
   },
   {
-    "tid_health_perk_name": "Health Perk"
+    "tid_perk_tooltip_stats_perks": "Perks"
   },
   {
-    "tid_store_pack_reaper_perk": "Sack of Reaper Perks"
+    "tid_remove_perks_delete_btn": "DELETE %s"
   },
   {
-    "tid_offer_perks_supremepack_reaper_icon": "REAPER PACK"
+    "tid_offer_perks_pack_title": "PERK PACK"
   },
   {
-    "tid_perk_equipped_description": "This Perk is already attached to this dragon"
+    "tid_character_perk": "Character Perks"
   },
   {
-    "tid_attach_perks_line1_popup_v2": "Remember, you won't be able to remove it afterwards."
+    "tid_select_perks_title_popup": "SELECT PERK"
   },
   {
-    "tid_perks_delete_confirmation_button_yes": "YES"
+    "tid_perks_character_type": "CHARACTER"
   },
   {
-    "tid_vip_dragon_header_hellgate": "Shows no mercy."
+    "tid_claim_advanced_perks_desc": "Try out these free Advanced Perks! Find more in the Dragon Mastery Pass."
   },
   {
-    "tid_vip_dragon_title_13": "EXCLUSIVE VIP OFFER"
+    "tid_vip_dragon_title_9": "Exclusive Demigod Dragon"
   },
   {
-    "tid_vip_dragon_title_21": "Exclusive City Shark Dragon"
+    "tid_vip_dragon_title_18": "Exclusive Liquid Dragon"
   },
   {
-    "tid_vip_dragon_title_28": "Exclusive Betrayer Dragon"
+    "tid_vip_dragon_title_25": "Exclusive Royal Phoenix Dragon"
   },
   {
-    "tid_vip_dragon_desc_36": "The Light Twin"
+    "tid_vip_dragon_desc_22": "The Dragon-Dragon Master"
   },
   {
-    "tid_vip_dragon_title_44": "Exclusive Catkun Dragon"
+    "tid_vip_dragon_title_41": "Exclusive Doom Dragon"
   },
   {
-    "tid_vip_dragon_desc_51": "The ground shakes."
+    "tid_vip_dragon_header_heaven": "Nature meets Heaven"
   },
   {
-    "tid_vip_dragon_title_58": "Exclusive Dwelling Dragon"
+    "tid_vip_dragon_icon_55": "VIP MYTHICAL"
   },
   {
-    "tid_vip_dragon_title_glace": "Exclusive Glace Dragon"
+    "tid_vip_dragon_desc_61": "Unpredictable fierce attacker."
   },
   {
-    "tid_vip_dragon_desc_eyeofchaos": "He sees everything."
+    "tid_vip_dragon_desc_wilderness": "An unpredictable and deadly force."
   },
   {
-    "tid_vip_dragon_title_hollowtress": "Exclusive Hollowtress Dragon"
+    "tid_vip_dragon_title_lunarshadow": "Exclusive Lunar Shadow Dragon"
   },
   {
-    "tid_vip_twin_generic_title": "Exclusive VIP Twin"
+    "tid_vip_dragon_desc_android": "Pure metal and energy."
   },
   {
-    "tid_pets_pet_description_1_old": "The furriest, cutest furball there is!"
+    "tid_vip_dragon_header_newdawn": "Often mistaken for 'moving forests'."
   },
   {
-    "tid_pets_milestone_claim_description": "Your Pet gave you a gift for feeding it."
+    "tid_pets_feed_time_left": "left to reach level {0}"
   },
   {
-    "tid_pets_helpview_title_1": "ISLAND PETS"
+    "tid_pets_pet_owned_title": "PET OWNED!"
   },
   {
-    "tid_store_pack_pets_2": "Pet Snack"
+    "tid_pets_food_offer_description": "Level up your Pet!"
   },
   {
-    "tid_pets_not_fed_pet_notification_title": "Feed your Pet!"
+    "tid_pets_offer_lastminute_header": "Last chance to feed your hungry Pet..."
   },
   {
-    "tid_pets_offer_xlchest_title": "PET XL BASKET!"
+    "tid_pet": "Pet"
   },
   {
-    "tid_pets_pet_name_4": "Chirpy"
+    "tid_pets_offer_avoid_reset_header": "Don't let your pet go hungry, you still have time to level up!"
   },
   {
-    "tid_subcategories_14_name": "Nature"
+    "tid_pets_pet_description_8": "With his patchwork turquoise-and-gold hide, stitched-up seams, and mismatched glimmering eyes, this little frog looks freshly hopped out of a mad scientist's lab! Frogstein may seem like a spooky little experiment gone wrong, but he's a gentle soul at heart, happily hopping beside his favorite Dragon Master and sprinkling a bit of stitched-up charm wherever he goes."
   },
   {
-    "tid_subcategories_119_name": "Soul"
+    "tid_subcategories_13_name": "Sea"
   },
   {
-    "tid_subcategories_215_name": "Happy"
+    "tid_subcategories_118_name": "Magic"
   },
   {
-    "tid_subcategories_61_name": "Gold"
+    "tid_subcategories_214_name": "Dream"
   },
   {
-    "tid_trails_missions_title": "MISSIONS"
+    "tid_subcategories_44_name": "Others"
   },
   {
-    "tid_trails_helpvew_description4": "Each Spin also fills your Reward Bar! Reach Chests packed with bonus Rewards along the way. Keep spinning to unlock the final Grand Prize!"
+    "tid_trails_boost_desc": "Spin with a multiplier for more Steps and bigger Rewards!"
   },
   {
-    "tid_news_dragontrails_teaser_title": "COMING SOON!"
+    "tid_trails_helpview_title4": "REWARD BAR"
   },
   {
-    "tid_vip_tier_check_tiers_button": "CHECK TIERS"
+    "tid_vip_tier_deus_trading": "Magical Deus Trading"
   },
   {
-    "tid_vip_tier_checkpoint_max_tier_description": "Congratulations! You reached the checkpoint and {0}"
+    "tid_vip_tier_promotion_description": "Congratulations! You were promoted from {1} to {0}"
   },
   {
-    "tid_vip_tier_help_slide_1_header": "What are they?"
+    "tid_vip_tier_help_slide_2_content_2": "Use Trading Essences to trade with Deus for any available Dragon Orbs you prefer"
   },
   {
-    "tid_vip_tier_prestigepoints": "Prestige Points"
+    "tid_news_viptiers_button": "CHECK IT OUT!"
   },
   {
     "tid_new_as_pure_slide2_title": "LEGENDARY ARENAS"
@@ -97131,196 +97140,199 @@
     "tid_tutorial_64_1_title": "Nyx"
   },
   {
-    "tid_goals_15_instructions_mouse": "Click on a Bush. Then choose Clear and wait for the process to finish. When the XP icon appears, you can click on it and the Bush will disappear."
+    "tid_goals_13_instructions_mouse": "Click on the Breeding Mountain or the Ultra Breeding Tree. Then click on the Speed Up buttons to speed up the process."
   },
   {
-    "tid_goals_2001_instructions_mouse": "Click on the Shop button and then on Buildings. Choose a Farm and place it."
+    "tid_goals_163_instructions_mouse": "Click on a habitat and select a dragon. Click on its name at the right corner of the dragon's image and change the name. When you're happy with the name, click on Enter or click outside the name box and the new name will be saved."
   },
   {
-    "tid_goals_31_instructions_mouse": "Click on the Recruitment Tavern button, then click on Recruit at the bottom of the screen, and ask 3 of your friends to help."
+    "tid_goals_157_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Ivory Island."
   },
   {
-    "tid_goals_2051_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
+    "tid_goals_2039_instructions_mouse": "Go to the Breeding Sanctuary. Click on Add Step to upgrade step by step with Gold. Or you can click on Finish Now to upgrade instantly with Gems."
   },
   {
-    "tid_tutorial_1_17_message_mouse": "Click to enter his Habitat!"
+    "tid_tutorial_1_3_message_mouse": "There are different types of Habitats for each dragon element. Click on HABITATS and select Terra Habitat!"
   },
   {
-    "tid_tutorial_22_5_message_mouse": "Click the arrow until you've spent all the moves."
+    "tid_tutorial_9_5_message_mouse": "Click on the square to claim the block."
   },
   {
-    "tid_tower_island_tutorial_text2_mouse": "Click on the lever to pull it and find out how many moves you get!"
+    "tid_ow_login_user_signature_error_mouse": "Sorry! Your game cannot be recovered. Click OK to start a new game."
   },
   {
-    "tid_trade_market_expired_title_mouse": "Your trade has expired.\\nClick the Refund button to get your Orbs and Trade Essences back."
+    "tid_treeoflife_powerup_helpview_content4_mouse": "To find out how to obtain the dragon you want, click its face and then its icon to reveal its source. "
   },
   {
-    "tid_pack_115_description": "An Adamantium Combo Pack is an indestructible one! Here's the brand new Adamantium Dragon. Limited time only!"
+    "tid_pack_109_description": "This is a combo-dragon in a Combo Pack! Get the Twin Dragon and a bunch of resources for a special price!"
   },
   {
-    "tid_pack_130_description": "Special Independence Day combo pack: Meet the Patriot Dragon!"
+    "tid_pack_124_description": "NEW DRAGON Combo Pack! Get the super-green Recycling Dragon for a very special price."
   },
   {
-    "tid_pack_145_description": "Exclusive Combo Pack: The Never Grow Dragon, Food and Gold for a special price!"
+    "tid_pack_139_description": "Something broken at your city? The Handy Dragon is here to fix it!"
   },
   {
-    "tid_pack_160_description": "Spring Dragon Combo Pack: Celebrate that winter is gone with this offer!"
+    "tid_pack_154_description": "Join the Chinese New Year celebrations: Get the Red Asian Dragon!"
   },
   {
-    "tid_pack_175_description": "Friendship is one of the greatest things in life and this dragon knows it!"
+    "tid_pack_169_description": "Celebrate the Summer Cup with the Soccer Dragon!"
   },
   {
-    "tid_pack_190_description": "The best friend of all Nature Dragons will keep your islands beautifully clean!"
+    "tid_pack_184_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_203_description": "Two Flame Dragons with a huge discount!"
+    "tid_pack_199_description": "Special President's Day Combo Pack!"
   },
   {
-    "tid_pack_214_title": "PURE COMBO PACK"
+    "tid_pack_209_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_223_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_219_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_234_title": "WAR COMBO PACK"
+    "tid_pack_229_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_243_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_breeders_title": "BREEDERS COMBO PACK"
   },
   {
-    "tid_pack_255_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_251_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_266_description": "Two Common Dragons with a huge discount!"
+    "tid_pack_263_title": "WATER COMBO PACK"
   },
   {
-    "tid_pack_276_description": "Use these dragons in the Breeding Season event! "
+    "tid_pack_272_description": "Two Very Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_287_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_283_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_298_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_293_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_313_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_307_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_327_description": "First Legendary Combo Pack!"
+    "tid_pack_322_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_342_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_336_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_357_description": "The amazing Home Run Dragon and a bunch of resources for a very special price!"
+    "tid_pack_351_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_perk_description_breeding_chances": "Improves your dragon's odds of breeding higher rarity offspring and unlocks more possible offspring. Find this Perk through in-game events!"
+    "tid_perks_helpview_title1": "ABOUT PERKS"
   },
   {
-    "tid_health_perk_desc": "Increases your dragon's health. You might find this Perk in Offers, the Shop, Quests or in-game events!"
+    "tid_perks_combat_claim_title": "COMBAT PERKS"
   },
   {
-    "tid_add_multiple_perk_popup_confirm_bt_ok": "ADD PERKS"
+    "tid_remove_perks_store_btn": "STORE %s"
   },
   {
-    "tid_offer_perks_supremepack_phoenix_title": "SUPREME PHOENIX PACK"
+    "tid_offer_perks_pack_header": "Professional Dragon Masters never say no to Perks!"
   },
   {
-    "tid_tournaments_perkb1": "Nox's Perk Pursuit"
+    "tid_combat_perk": "Combat Perks"
   },
   {
-    "tid_attach_perks_line2_popup": "Are you sure you want to attach this %1$s Perk to your dragon?"
+    "tid_select_perks_line1_popup": "Select new Perk for the slot"
   },
   {
-    "tid_perks_delete_confirmation_button_no": "NO"
+    "tid_perks_slot": "%s SLOT"
   },
   {
-    "tid_vip_dragon_title_2": "Exclusive Dark Jaws Dragon"
+    "tid_perks_specific_dragon_combat_type": "DRAGON SPECIFIC"
   },
   {
-    "tid_vip_dragon_title_14": "Exclusive Highborn Dragon"
+    "tid_vip_dragon_title_10": "Exclusive Turkey Dragon"
   },
   {
-    "tid_vip_dragon_header_cityshark": "Meet \"The Sharko\""
+    "tid_vip_dragon_desc_9": "Be water"
   },
   {
-    "tid_vip_dragon_header_betrayer": "Trust him not"
+    "tid_vip_dragon_desc_15": "The Bearer of Secrets"
   },
   {
-    "tid_vip_dragon_title_37": "Exclusive Void Dragon"
+    "tid_vip_dragon_title_33": "Exclusive Defender Dragon"
   },
   {
-    "tid_vip_dragon_desc_44": "The Cat Twin"
+    "tid_vip_dragon_header_doom": "Ready to tempt fate?"
   },
   {
-    "tid_vip_dragon_title_52": "Exclusive Online Dragon"
+    "tid_vip_dragon_title_49": "Exclusive Winter Phoenix Dragon"
   },
   {
-    "tid_vip_dragon_desc_58": "Sixth sense and strategic skill."
+    "tid_vip_dragon_title_56": "Exclusive Antimatter Dragon"
   },
   {
-    "tid_vip_dragon_desc_glace": "Spiky Ammunition!"
+    "tid_vip_dragon_icon_61": "VIP MYTHICAL"
   },
   {
-    "tid_vip_dragon_title_techno": "Exclusive Techno Dragon"
+    "tid_vip_dragon_title_boggy": "Exclusive Boggy Dragon"
   },
   {
-    "tid_vip_dragon_desc_hollowtress": "A villainous entity."
+    "tid_vip_dragon_desc_lunarshadow": "Creator of darkness."
   },
   {
-    "tid_vip_dragon_header_flixnchill": "An expert procrastinator."
+    "tid_vip_dragon_title_swashbuckler": "Exclusive VIP Dragon"
   },
   {
-    "tid_pets_boost_description_1": "Will fetch a Reward every %s hours until the end of this petting season."
+    "tid_vip_dragon_header_blazefrost": "A powerful hybrid of fire and ice."
   },
   {
-    "tid_pets_milestone_contents_title": "PET FOOD BASKET CONTENTS"
+    "tid_pets_feed_food_left": "{0} Pet Food left to next Reward"
   },
   {
-    "tid_pets_helpview_description_1": "A new Pet has arrived to its special Island! Feed it and level it up to gain Rewards along the way."
+    "tid_pets_pet_owned_description": "Congratulations! You fed your Pet to the last level, so now you can keep it!"
   },
   {
-    "tid_store_pack_pets_3": "Pet Meal"
+    "tid_pets_feature_unlock_title": "LEVEL UP TO UNLOCK"
   },
   {
-    "tid_pets_not_fed_pet_notification_description": "Your Pet's tummy is rumbling... Give it a snack!"
+    "tid_pets_food_excess": "FULL"
   },
   {
-    "tid_pets_offer_xlchest_header": "Treat your pet to the ultimate basket of pet food!"
+    "tid_pets_reset_level_tooltip": "Uh-oh... You ran out of time and lost your progress towards this level."
   },
   {
-    "tid_pets_pet_description_4": "Don't let those tiny wings fool you, Chirpy's rainbow plumage means she's never hard to spot, and she wouldn't have it any other way. This cheerful little chick bounces through every island with a song in her beak and a streak of color in her wake. With a personality as bright as her feathers, she'll keep any Dragon Master's spirits soaring no matter the adventure!"
+    "tid_news_petsevent_start_again_header": "The Pet Island is back again with a new friend! Take care of your Pet, feed it well, and earn tons of Rewards along the way!"
   },
   {
-    "tid_subcategories_15_name": "Electric"
+    "tid_subcategories_14_name": "Nature"
   },
   {
-    "tid_subcategories_21_name": "Terra"
+    "tid_subcategories_119_name": "Soul"
   },
   {
-    "tid_subcategories_216_name": "Beauty"
+    "tid_subcategories_215_name": "Happy"
   },
   {
-    "tid_subcategories_62_name": "Food"
+    "tid_subcategories_61_name": "Gold"
   },
   {
-    "tid_trails_missions_title_daily": "DAILY MISSIONS"
+    "tid_trails_missions_title": "MISSIONS"
   },
   {
-    "tid_dragon_trail_end_popup_title": "DRAGON TRAIL ENDED"
+    "tid_trails_helpvew_description4": "Each Spin also fills your Reward Bar! Reach Chests packed with bonus Rewards along the way. Keep spinning to unlock the final Grand Prize!"
   },
   {
-    "tid_news_dragontrails_teaser_header": "A new Event Island is on its way to Dragon City! Reach the end of your Dragon Trail to earn the grand prize while accumulating Rewards along the way."
+    "tid_news_dragontrails_teaser_title": "COMING SOON!"
   },
   {
-    "tid_vip_tier_info_checkpoint": "{0} points to checkpoint. Reach it to secure your tier next season!"
+    "tid_vip_tier_check_tiers_button": "CHECK TIERS"
   },
   {
-    "tid_vip_tier_all_tiers_button": "SEE PRESTIGE TIERS"
+    "tid_vip_tier_checkpoint_max_tier_description": "Congratulations! You reached the checkpoint and {0}"
   },
   {
-    "tid_vip_tier_help_slide_2_header": "Magical Deus Trading"
+    "tid_vip_tier_help_slide_1_header": "What are they?"
+  },
+  {
+    "tid_vip_tier_prestigepoints": "Prestige Points"
   },
   {
     "tid_new_as_pure_slide2_button": "GO TO SHOP"
@@ -104613,196 +104625,196 @@
     "tid_tutorial_64_1_message": "Today's your lucky day! You're now in charge of collecting old and new stories of the Dragonverse in this wicked Sticker Album! Think you're up to the task? Then prove it!"
   },
   {
-    "tid_goals_17_instructions_mouse": "When the Gold icon appears over the habitat, click on it and earn Gold! The level and the amount of dragons you have will affect your income.\n"
+    "tid_goals_14_instructions_mouse": "When the egg in the Hatchery is ready, click on the Hatch button at the bottom of the screen. Then select Place and choose a habitat that matches one of the dragon's elements."
   },
   {
-    "tid_goals_35_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon image. You can get more Food by building new Farms."
+    "tid_goals_40_instructions_mouse": "Click on a Farm, then click on the Grow Food button, then select Grower, and wait."
   },
   {
-    "tid_goals_48_instructions_mouse": "Click on the Dragon Market and select Food or Gold. Then ask your friends to help!"
+    "tid_goals_2010_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Desert Island."
   },
   {
-    "tid_goals_2052_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon's image. You can get more Food by building new Farms."
+    "tid_goals_2040_instructions_mouse": "Go to the Breeding Sanctuary. Click on Add Step to upgrade step by step with Gold. Or you can click on Finish Now to upgrade instantly with Gems."
   },
   {
-    "tid_tutorial_1_18_message_mouse": "Select your dragon and then click on the Feed button until he grows to level 4."
+    "tid_tutorial_1_5_message_mouse": "Click OK to place the Terra Habitat and wait a few seconds."
   },
   {
-    "tid_tutorial_24_2_message_mouse": "Click on the lever to spin it and find out how many moves you get!"
+    "tid_tutorial_11_4_message_mouse": "Click on the square to claim the block."
   },
   {
-    "tid_tower_island_tutorial_text3_mouse": "Click on the arrow button until you've used all your moves."
+    "tid_chests_popup_click_to_open_text_mouse": "Click to open"
   },
   {
-    "tid_vippass2_help_mouse": "Get the Fairy's Grace to get tons of Gems. Click the Fairy every day to collect your Gems!"
+    "tid_new_letstalknewsletter_desc_mouse": "Click on the button below to find out about the improvements we have made based on YOUR FEEDBACK! Stay tuned, many more to come!"
   },
   {
-    "tid_pack_116_description": "It's the World Book Day, it's the NEW Shakespeare Dragon's special day. Get this Combo Pack, it's here for a limited time!"
+    "tid_pack_110_description": "This is a Combo Pack! Get the Sorcerer Dragon and a bunch of resources for a special price!"
   },
   {
-    "tid_pack_131_description": "A hit from the Mace Dragon's tale can shake your world! Available only for a limited time with this combo pack!"
+    "tid_pack_125_description": "A fantastic chance to obtain our most patriotic citizen: the Uncle Sam Dragon!"
   },
   {
-    "tid_pack_146_description": "Get this exclusive Necro Dragon pack! Once a handsome Dragon, the use of black magic twisted his appearance to resemble an undead dragon. Only for limited time!"
+    "tid_pack_140_description": "Exclusive Combo Pack: The majestic Patriot Dragon, Food and Gold for a special price!"
   },
   {
-    "tid_pack_161_description": "The Macha Dragon knows how to bring a St. Patrick's celebration onto your island!"
+    "tid_pack_155_description": "This month's Zodiac Dragon is Aquarius. Complete your collection!"
   },
   {
-    "tid_pack_176_description": "Take your flying skills to the next level with the AirBoss Dragon!"
+    "tid_pack_170_description": "The Amerindian Dragon is a great warrior and a spiritual leader. Get him today!"
   },
   {
-    "tid_pack_191_description": "He's the first dragon on the moon!"
+    "tid_pack_185_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_203_title": "WAR COMBO PACK"
+    "tid_pack_200_description": "Get two dragons of two different rarities for a great price!"
   },
   {
-    "tid_pack_214_description": "Two exclusive dragons of the Pure element with a huge discount!"
+    "tid_pack_210_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_224_title": "WATER COMBO PACK"
+    "tid_pack_219_description": "Two Legendary Dragons with a huge discount!"
   },
   {
-    "tid_pack_235_description": "The Wolfreeze Dragon and a bunch of resources for a very special price!"
+    "tid_pack_230_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_244_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_breeders_description": "Viktor and Viktoria will help you in Breeding Events!"
   },
   {
-    "tid_pack_256_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_251_description": "Two Very Rare Dragons with a huge discount!"
   },
   {
-    "tid_pack_267_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_263_description": "Two exclusive dragons of the Water element with a huge discount!"
   },
   {
-    "tid_pack_277_description": "Use these dragons in the Breeding Season event! "
+    "tid_pack_273_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_288_title": "DARK COMBO PACK"
+    "tid_pack_283_description": "Two Legendary Dragons with a huge discount!"
   },
   {
-    "tid_pack_299_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_293_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_314_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_308_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_328_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_323_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_343_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_337_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_358_description": "The amazing Ozone Dragon and a bunch of resources for a very special price!"
+    "tid_pack_352_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_perk_description_dragon_attack": "Increases your dragon's damage. You might find this Perk in Offers, the Shop, Quests or in-game events!"
+    "tid_perks_helpview_description1": "Attach a Perk to your dragon to improve its stats such as health, damage, or breeding possibilities! Remember, you can add multiple Perks to one dragon!"
   },
   {
-    "tid_phoenix_perk_name": "Phoenix Perk"
+    "tid_perks_combat_claim_desc": "Try out these new Combat Perks that increase your dragon's health and damage!"
   },
   {
-    "tid_max_perk_effect": "Max Perk Effect"
+    "tid_store_pack_breeding_perk": "Sack of Breeding Perks"
   },
   {
-    "tid_offer_perks_supremepack_phoenix_header": "Rise like a phoenix on the battlefield!"
+    "tid_offer_perks_pack_desc": "Up your strategy with this Perk Offer!"
   },
   {
-    "tid_tournaments_perk2": "Nox's Perk Purge"
+    "tid_perk_rarity_basic": "BASIC"
   },
   {
-    "tid_perk_max_effect": "MAX EFFECT!"
+    "tid_select_perks_line2_popup": "Once attached, Gold or Gems are needed to remove Perks"
   },
   {
-    "tid_name_increase_breeding_chances_advanced": "Advanced Breeding Perk"
+    "tid_perks_recall_confirmation_message": "Do you want to send %1$s back to the Dragonverse for %2$s Orbs and %3$s Perk/s? After Recalling, you will still have %3$s more dragon/s of the same type."
   },
   {
-    "tid_vip_dragon_desc_2": "THE MOST POWERFUL BEAST"
+    "tid_dragon_specific_perk_name": "Dragon Specific Perks"
   },
   {
-    "tid_vip_dragon_desc_10": "The sight of an eagle"
+    "tid_vip_dragon_desc_8": "Very Impressive Power!"
   },
   {
-    "tid_vip_dragon_title_22": "Exclusive Nightglow Dragon"
+    "tid_vip_dragon_title_19": "Exclusive Rune Dragon"
   },
   {
-    "tid_vip_dragon_title_29": "Exclusive Dwelling Dragon"
+    "tid_vip_dragon_title_26": "Exclusive Geist Dragon"
   },
   {
-    "tid_vip_dragon_desc_37": "Very Impressive Power!"
+    "tid_vip_dragon_header_defender": "The art of defense"
   },
   {
-    "tid_vip_dragon_title_45": "Exclusive Dogkun Dragon"
+    "tid_vip_dragon_title_42": "Exclusive Dumbpling Dragon"
   },
   {
-    "tid_vip_dragon_header_online": "An army of surveillance."
+    "tid_vip_dragon_header_winterphoenix": "Very Impressive Power!"
   },
   {
-    "tid_vip_dragon_title_59": "Exclusive Landslide Dragon"
+    "tid_vip_dragon_desc_56": "No way of escaping."
   },
   {
-    "tid_vip_dragon_title_happy_egg": "Exclusive Happy Egg Dragon"
+    "tid_vip_dragon_title_youthful": "Exclusive Youthful Dragon"
   },
   {
-    "tid_vip_dragon_desc_techno": "Very Impressive Power!"
+    "tid_vip_dragon_desc_boggy": "He likes to play dirty in battle."
   },
   {
-    "tid_vip_dragon_title_sword": "Exclusive Sword Dragon"
+    "tid_vip_dragon_title_solarflare": "Exclusive Solar Flare Dragon"
   },
   {
-    "tid_vip_dragon_header_partyhard": "Life's too short to go home early!"
+    "tid_vip_dragon_desc_swashbuckler": "Ruler of the Seven Seas."
   },
   {
-    "tid_pets_boost_description_2": "Will cheer you on in battle if you equip it."
+    "tid_vip_dragon_header_jupitergod": "A dragon of sky and lightning."
   },
   {
-    "tid_pets_milestone_contents_button": "CLAIM"
+    "tid_pets_feed_button": "FEED"
   },
   {
-    "tid_pets_helpview_title_2": "PET BOONS"
+    "tid_pets_pet_owned_tooltip": "Thank you for adopting me! Now my Boons will help you on your journey!"
   },
   {
-    "tid_store_pack_pets_4": "Pet Menu"
+    "tid_pets_event_timer_description": "Event ends in:"
   },
   {
-    "tid_pets_reset_level_notification_title": "Pet Level Reset"
+    "tid_pets_find_packs_title": "PET FOOD PACKS"
   },
   {
-    "tid_pets_offer_holiday_title": "PET HOLIDAY OFFER"
+    "tid_pets_claim_all_title": "Pet Rewards"
   },
   {
-    "tid_pets_pet_name_5": "Gecko"
+    "tid_pets_equip": "EQUIP"
   },
   {
-    "tid_subcategories_16_name": "Ice"
+    "tid_subcategories_15_name": "Electric"
   },
   {
-    "tid_subcategories_22_name": "Flame"
+    "tid_subcategories_21_name": "Terra"
   },
   {
-    "tid_subcategories_217_name": "Chaos"
+    "tid_subcategories_216_name": "Beauty"
   },
   {
-    "tid_subcategories_121_name": "Dragons"
+    "tid_subcategories_62_name": "Food"
   },
   {
-    "tid_trails_missions_title_event": "EVENT MISSIONS"
+    "tid_trails_missions_title_daily": "DAILY MISSIONS"
   },
   {
-    "tid_dragon_trail_end_popup_desc": "Your next Dragon Trail is on its way – stay tuned!"
+    "tid_dragon_trail_end_popup_title": "DRAGON TRAIL ENDED"
   },
   {
-    "tid_news_dragontrails_title": "DRAGON TRAILS"
+    "tid_news_dragontrails_teaser_header": "A new Event Island is on its way to Dragon City! Reach the end of your Dragon Trail to earn the grand prize while accumulating Rewards along the way."
   },
   {
-    "tid_vip_tier_info_promotion": "{0} points to next tier. Reach it to get new benefits!"
+    "tid_vip_tier_info_checkpoint": "{0} points to checkpoint. Reach it to secure your tier next season!"
   },
   {
-    "tid_vip_tier_got_it_button": "GOT IT!"
+    "tid_vip_tier_all_tiers_button": "SEE PRESTIGE TIERS"
   },
   {
-    "tid_vip_tier_help_slide_1_content_desc": "You can enjoy your benefits for a whole cycle. Reach the checkpoint before the time runs out to secure the same benefits for the next one. For more information, check the FAQ in the DC website."
+    "tid_vip_tier_help_slide_2_header": "Magical Deus Trading"
   },
   {
     "tid_new_pvpsurvey_icon": "SURVEY"
@@ -112104,195 +112116,195 @@
     "tid_tutorial_65_1_title": "Deus"
   },
   {
-    "tid_goals_20_instructions_mouse": "Click on the Breeding Mountain or the Ultra Breeding Tree, and then click on the Speed Up buttons to speed up the process.\n"
+    "tid_goals_1_instructions_mouse": "Select the habitat, and then click on the Collect button at the bottom."
   },
   {
-    "tid_goals_54_instructions_mouse": "Click on a habitat, select a dragon, and then start clicking on the Feed button under the dragon image. You can get more Food by building new Farms."
+    "tid_goals_36_instructions_mouse": "Click on a Big Tree. Then choose Clear and wait for the process to finish. When the XP icon appears, you can click on it and the Big Tree will disappear."
   },
   {
-    "tid_goals_65_instructions_mouse": "Click on the Coliseum, and then either ask friends for help or fill the positions with Gems."
+    "tid_goals_2013_instructions_mouse": "After having completed all the expansions of the previous Island, click on the first For Sale sign of Creepy Island."
   },
   {
-    "tid_goals_2060_instructions_mouse": "Click on the Summoning Wall and summon Deliram."
+    "tid_goals_2044_instructions_mouse": "Click on the Summoning Wall and summon Guardangel."
   },
   {
-    "tid_tutorial_1_21_message_mouse": "Click an empty space to see the SHOP button."
+    "tid_tutorial_1_7_message_mouse": "XP is what helps Dragon Masters level up. Click your Terra Habitat to earn XP!"
   },
   {
-    "tid_tutorial_24_5_message_mouse": "Click on the arrows until you've spent all moves."
+    "tid_tutorial_17_2_message_mouse": "Click a square adjacent to your position to claim it."
   },
   {
-    "tid_tower_island_stop_die_title_mouse": "CLICK TO STOP THE DIE"
+    "tid_storytelling_click_to_continue_mouse": "Click to continue…"
   },
   {
-    "tid_vippass2_subscription_mouse": "You’ve received Fairy’s Grace for %d days. Click the Fairy to collect your daily Gems!"
+    "tid_new_hacker_ban_desc_mouse": "Your Dragon City team wants to make the game fair for everyone. Please click the button to learn more about the recent actions taken in the game!"
   },
   {
-    "tid_pack_117_description": "It's the World Book Day, it's the NEW Shakespeare Dragon's special day. Get this Combo Pack, it's here for a limited time!"
+    "tid_pack_111_description": "This is a Combo Pack! Get the Bookday Dragon and a bunch of resources for a special price!"
   },
   {
-    "tid_pack_132_description": "A hit from the Ocean Dragon's tail can shake your world! Available only for a limited time with this combo pack!"
+    "tid_pack_126_description": "A fantastic chance to obtain our most patriotic citizen: the Uncle Sam Dragon!"
   },
   {
-    "tid_pack_147_description": "Exclusive Combo Pack: The Bonfire Dragon, Food and Gold for a special price!"
+    "tid_pack_141_description": "Exclusive Combo Pack: The majestic Patriot Dragon, Food and Gold for a special price!"
   },
   {
-    "tid_pack_162_description": "The perfect balance between day and night: the Equinox Dragon!"
+    "tid_pack_156_description": "Get the Sunset Dragon to complete your Prehistoric Collection!"
   },
   {
-    "tid_pack_177_description": "Despite his terrible handwriting, the Doctor Dragon is really helpful after battles!"
+    "tid_pack_171_description": "The Glowppy Dragon will bring good feelings to your Dragon City!"
   },
   {
-    "tid_pack_192_description": "You can keep no secrets from the Detective Dragon!"
+    "tid_pack_186_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_204_description": "Use these dragons in the Breeding Season event! "
+    "tid_pack_200_title": "RARITY COMBO PACK"
   },
   {
-    "tid_pack_215_title": "RARITY COMBO PACK"
+    "tid_pack_211_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_224_description": "Two exclusive dragons of the Water element with a huge discount!"
+    "tid_pack_220_description": "The Discus Thrower Dragon and a bunch of resources with a great discount!"
   },
   {
-    "tid_pack_236_title": "RARITY COMBO PACK"
+    "tid_pack_231_description": "Use these dragons in the Breeding Season event! "
   },
   {
-    "tid_pack_245_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_240_title": "YOUTUBER COMBO PACK"
   },
   {
-    "tid_pack_257_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_252_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_268_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_264_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_278_description": "Use these dragons in the Breeding Season event! "
+    "tid_pack_274_title": "LIGHT COMBO PACK"
   },
   {
-    "tid_pack_288_description": "Two Dark Dragons with a huge discount!"
+    "tid_pack_284_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_300_description": "Two dragons in one pack! Get them with an amazing discount."
+    "tid_pack_294_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_pack_315_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_309_description": "Two dragons in one pack! Get them with an amazing discount."
   },
   {
-    "tid_pack_329_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_324_description": "Two Legendary Dragons with a huge discount!"
   },
   {
-    "tid_pack_344_description": "An amazing dragon and a bunch of resources for a very special price!"
+    "tid_pack_338_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_add_perk_popup_confirm_bt_ok": "ADD PERK"
+    "tid_pack_353_description": "An amazing dragon and a bunch of resources for a very special price!"
   },
   {
-    "tid_perk_description_dragon_defense": "Increases your dragon's health. You might find this Perk in Offers, the Shop, Quests or in-game events!"
+    "tid_perks_helpview_title2": "ABOUT PERKS"
   },
   {
-    "tid_phoenix_perk_desc": "Upon knockout, your dragon is revived once. More attached Phoenix Perks means more health upon revival. You can find this Perk in Offers!"
+    "tid_perks_statincrease_desc": "3% increase per Perk"
   },
   {
-    "tid_perk_no_slot_space": "No space for more Perks"
+    "tid_store_pack_damage_perk": "Sack of Damage Perks"
   },
   {
-    "tid_offer_perks_supremepack_phoenix_icon": "PHOENIX PACK"
+    "tid_offer_perks_pack_icon": "PERK PACK"
   },
   {
-    "tid_name_perk_slot_non_select": "PERK SLOT"
+    "tid_perk_rarity_advanced": "ADVANCED"
   },
   {
-    "tid_perk_ability_percentage_select_perk_popup": "%s%% per Perk"
+    "tid_select_perks_line2_popup_v2": "Remember, attaching a Perk is a permanent action"
   },
   {
-    "tid_perk_description_breeding_chances_advanced": "Greatly improves your dragon's odds of breeding higher rarity offspring and unlocks more possible offspring."
+    "tid_perks_sell_popup_dragon_message": "Are you sure you want to sell your %s for this amount of Gold and Perks?"
   },
   {
-    "tid_vip_dragon_title_3": "Exclusive Beholder Dragon"
+    "tid_dragon_specific_perk_desc": "Greatly increases your dragon's health and damage. You might find this Perk in Hall of Fame"
   },
   {
-    "tid_vip_dragon_title_15": "Exclusive Ard Ri Dragon"
+    "tid_vip_dragon_desc_24": "Very Impressive Power!"
   },
   {
-    "tid_vip_dragon_header_nightglow": "The Glow of Fire"
+    "tid_vip_dragon_header_rune": "Read The Signs"
   },
   {
-    "tid_vip_dragon_desc_19": "It's all about the sixth sense"
+    "tid_vip_dragon_desc_16": "Face The Ghost"
   },
   {
-    "tid_vip_dragon_title_38": "Exclusive Infinity Dragon"
+    "tid_vip_dragon_title_35": "Exclusive Yin Dragon"
   },
   {
-    "tid_vip_dragon_desc_45": "The Dog Twin"
+    "tid_vip_dragon_desc_42": "With a special battle skill!"
   },
   {
-    "tid_vip_dragon_title_53": "Exclusive Kumk’u Dragon"
+    "tid_vip_dragon_title_50": "Exclusive Mana Potion Dragon"
   },
   {
-    "tid_vip_dragon_desc_59": "Striking without warning."
+    "tid_vip_dragon_title_57": "Exclusive Kumk’u Dragon"
   },
   {
-    "tid_vip_dragon_desc_happy_egg": "Spreading happy vibes!"
+    "tid_vip_dragon_desc_youthful": "Always adds his own spin!"
   },
   {
-    "tid_vip_dragon_title_future": "Exclusive Future Dragon"
+    "tid_vip_dragon_title_2_ice_hockey": "Exclusive Ice Hockey Dragon"
   },
   {
-    "tid_vip_dragon_desc_sword": "Attacker of realms."
+    "tid_vip_dragon_desc_solarflare": "Creator of stars."
   },
   {
-    "tid_vip_dragon_header_creation": "Not as innocent as it seems..."
+    "tid_vip_dragon_title_trident": "Exclusive Trident Dragon"
   },
   {
-    "tid_pets_feed_level": "Level {0}/{1}"
+    "tid_vip_dragon_header_xolotl": "A dragon of both lightning and death."
   },
   {
-    "tid_pets_info_screen_description": "DESCRIPTION"
+    "tid_pets_food_sources_title": "FIND PET FOOD"
   },
   {
-    "tid_pets_helpview_description_2": "Feed your Pet to its maximum level in order to keep it. Its Pet Boons can provide you with special bonuses such as fetching you Rewards or cheering you on in battle!"
+    "tid_pets_feature_unlock": "Feed your Pet in its special Island to level it up and earn Rewards along the way!"
   },
   {
-    "tid_store_pack_pets_5": "Pet Catering"
+    "tid_pets_state_owned": "Owned"
   },
   {
-    "tid_pets_reset_level_notification_description": "Feed your Pet so its level won't be reset!"
+    "tid_pets_find_packs_description": "You can find Pet Food Baskets here:"
   },
   {
-    "tid_pets_offer_holiday_header": "It's time to pamper your pet for the Holidays!"
+    "tid_pets_claim_all_desc": "You leveled up your Pet! Claim your Rewards!"
   },
   {
-    "tid_pets_pet_description_5": "Gecko might not be the most beautiful or the cutest pet in the universe, but this has not stopped him from caring about his master in his own unique ways."
+    "tid_pets_unequip": "UNEQUIP"
   },
   {
-    "tid_subcategories_17_name": "Metal"
+    "tid_subcategories_16_name": "Ice"
   },
   {
-    "tid_subcategories_23_name": "Sea"
+    "tid_subcategories_22_name": "Flame"
   },
   {
-    "tid_subcategories_218_name": "Magic"
+    "tid_subcategories_217_name": "Chaos"
   },
   {
-    "tid_subcategories_122_name": "Others"
+    "tid_subcategories_121_name": "Dragons"
   },
   {
-    "tid_trails_resets_in": "Resets in:"
+    "tid_trails_missions_title_event": "EVENT MISSIONS"
   },
   {
-    "tid_dragon_trail_failed_popup_title": "CONNECTION ERROR"
+    "tid_dragon_trail_end_popup_desc": "Your next Dragon Trail is on its way – stay tuned!"
   },
   {
-    "tid_news_dragontrails_header": "A new Dragon Trail has begun! Spin your way to success and move along the Trail to reach these Rewards and more."
+    "tid_news_dragontrails_title": "DRAGON TRAILS"
   },
   {
-    "tid_vip_tier_info_max_tier": "Tier is secured. Good job Dragon Master!"
+    "tid_vip_tier_info_promotion": "{0} points to next tier. Reach it to get new benefits!"
   },
   {
-    "tid_vip_tier_benefit_header": "Benefits"
+    "tid_vip_tier_got_it_button": "GOT IT!"
   },
   {
-    "tid_vip_tier_help_title": "PRESTIGE TIERS"
+    "tid_vip_tier_help_slide_1_content_desc": "You can enjoy your benefits for a whole cycle. Reach the checkpoint before the time runs out to secure the same benefits for the next one. For more information, check the FAQ in the DC website."
   }
 ]
