@@ -2358,7 +2358,7 @@
     "tid_unit_3503_skin2_name": "Champion of Jötunheim Skin"
   },
   {
-    "tid_unit_3496_skin2_description": "By simply owning this Skin, the poison applied by your dragon has more damage and will spread to other dragons when the affected dragon is knocked out."
+    "tid_unit_3496_skin2_description": "By simply owning this Skin, the poison applied by your dragon deals more damage and spreads to all enemy dragons immediately."
   },
   {
     "tid_unit_3493_skin3_description_locked": "Source: Trendy Leaderboard"
@@ -6261,6 +6261,9 @@
     "tid_pvp_arenas_rewards_prizes_two": "{0} to {1} Prizes"
   },
   {
+    "tid_arena_opponent_boost_title": "Defender Bonus"
+  },
+  {
     "tid_benefit_vanity_reach_tier": "Reach {} {} for a new avatar frame"
   },
   {
@@ -7455,34 +7458,34 @@
     "tid_pets_pet_description_8": "With his patchwork turquoise-and-gold hide, stitched-up seams, and mismatched glimmering eyes, this little frog looks freshly hopped out of a mad scientist's lab! Frogstein may seem like a spooky little experiment gone wrong, but he's a gentle soul at heart, happily hopping beside his favorite Dragon Master and sprinkling a bit of stitched-up charm wherever he goes."
   },
   {
-    "tid_subcategories_13_name": "Sea"
+    "tid_subcategories_114_name": "Dream"
   },
   {
-    "tid_subcategories_118_name": "Magic"
+    "tid_subcategories_210_name": "War"
   },
   {
-    "tid_subcategories_214_name": "Dream"
+    "tid_subcategories_301_name": "Wizards"
   },
   {
-    "tid_subcategories_44_name": "Others"
+    "tid_trails_moves_currency": "SPINS"
   },
   {
-    "tid_trails_boost_desc": "Spin with a multiplier for more Steps and bigger Rewards!"
+    "tid_trails_helpview_title2": "JACKPOTS"
   },
   {
-    "tid_trails_helpview_title4": "REWARD BAR"
+    "tid_news_dragontrails_techtest_header": "Tap the new Event Island to try out a new feature: Dragon Trails! Earn Spins and move along the Trail to reach tons of Rewards. Remember that this feature is in its testing phase."
   },
   {
-    "tid_vip_tier_deus_trading": "Magical Deus Trading"
+    "tid_vip_tier_group3": "REGENT"
   },
   {
-    "tid_vip_tier_promotion_description": "Congratulations! You were promoted from {1} to {0}"
+    "tid_vip_tier_promotion_title": "PRESTIGE TIER UP"
   },
   {
-    "tid_vip_tier_help_slide_2_content_2": "Use Trading Essences to trade with Deus for any available Dragon Orbs you prefer"
+    "tid_vip_tier_help_slide_1_content_1": "Collect Prestige Points by making purchases"
   },
   {
-    "tid_news_viptiers_button": "CHECK IT OUT!"
+    "tid_vip_tiers_plus_format": "+{}"
   },
   {
     "tid_new_building_upgrade_header": "3 DAYS, 3 DISCOUNTS!"
@@ -13746,6 +13749,9 @@
     "tid_pvp_arenas_victorychest_title": "VICTORY CHEST"
   },
   {
+    "tid_arena_opponent_boost_stats_title": "Stats Boost"
+  },
+  {
     "tid_frame_vip_tier_baron": "Baron Frame"
   },
   {
@@ -14937,37 +14943,31 @@
     "tid_news_petsevent_start_again_header": "The Pet Island is back again with a new friend! Take care of your Pet, feed it well, and earn tons of Rewards along the way!"
   },
   {
-    "tid_subcategories_14_name": "Nature"
+    "tid_subcategories_115_name": "Happy"
   },
   {
-    "tid_subcategories_119_name": "Soul"
+    "tid_subcategories_211_name": "Pure"
   },
   {
-    "tid_subcategories_215_name": "Happy"
+    "tid_subcategories_41_name": "Tiles"
   },
   {
-    "tid_subcategories_61_name": "Gold"
+    "tid_dragon_trail_moves": "SPINS"
   },
   {
-    "tid_trails_missions_title": "MISSIONS"
+    "tid_trails_helpvew_description2": "Land on the Jackpot for a huge boost along the Trail and land on special tiles to find special Rewards!"
   },
   {
-    "tid_trails_helpvew_description4": "Each Spin also fills your Reward Bar! Reach Chests packed with bonus Rewards along the way. Keep spinning to unlock the final Grand Prize!"
+    "tid_vip_tier_group4": "DRAGONLORD"
   },
   {
-    "tid_news_dragontrails_teaser_title": "COMING SOON!"
+    "tid_vip_tier_demotion_title": "PRESTIGE CYCLE RESET"
   },
   {
-    "tid_vip_tier_check_tiers_button": "CHECK TIERS"
+    "tid_vip_tier_help_slide_1_content_2": "Increase your Prestige Tier"
   },
   {
-    "tid_vip_tier_checkpoint_max_tier_description": "Congratulations! You reached the checkpoint and {0}"
-  },
-  {
-    "tid_vip_tier_help_slide_1_header": "What are they?"
-  },
-  {
-    "tid_vip_tier_prestigepoints": "Prestige Points"
+    "tid_vip_tiers_plus_percentage_format": "+{}%"
   },
   {
     "tid_new_as_dark_oct19_s2_button": "GO TO SHOP"
@@ -22428,34 +22428,34 @@
     "tid_pets_equip": "EQUIP"
   },
   {
-    "tid_subcategories_15_name": "Electric"
+    "tid_subcategories_11_name": "Terra"
   },
   {
-    "tid_subcategories_21_name": "Terra"
+    "tid_subcategories_116_name": "Joy"
   },
   {
-    "tid_subcategories_216_name": "Beauty"
+    "tid_subcategories_212_name": "Legend"
   },
   {
-    "tid_subcategories_62_name": "Food"
+    "tid_subcategories_42_name": "Plants"
   },
   {
-    "tid_trails_missions_title_daily": "DAILY MISSIONS"
+    "tid_trails_moves_currency_steps": "STEPS"
   },
   {
-    "tid_dragon_trail_end_popup_title": "DRAGON TRAIL ENDED"
+    "tid_trails_helpview_title3": "BOOSTER"
   },
   {
-    "tid_news_dragontrails_teaser_header": "A new Event Island is on its way to Dragon City! Reach the end of your Dragon Trail to earn the grand prize while accumulating Rewards along the way."
+    "tid_vip_tier_benefits": "{0} {1} Benefits"
   },
   {
-    "tid_vip_tier_info_checkpoint": "{0} points to checkpoint. Reach it to secure your tier next season!"
+    "tid_vip_tier_checkpoint_max_tier_title": "PRESTIGE TIER SECURED!"
   },
   {
-    "tid_vip_tier_all_tiers_button": "SEE PRESTIGE TIERS"
+    "tid_vip_tier_help_slide_1_content_3": "Enjoy exclusive benefits"
   },
   {
-    "tid_vip_tier_help_slide_2_header": "Magical Deus Trading"
+    "tid_news_viptiers_title": "PRESTIGE TIERS ARE HERE!"
   },
   {
     "tid_news_titan_collection_teaser_icon": "TITAN DRAGONS"
@@ -29922,34 +29922,34 @@
     "tid_pets_unequip": "UNEQUIP"
   },
   {
-    "tid_subcategories_16_name": "Ice"
+    "tid_subcategories_12_name": "Flame"
   },
   {
-    "tid_subcategories_22_name": "Flame"
+    "tid_subcategories_117_name": "Chaos"
   },
   {
-    "tid_subcategories_217_name": "Chaos"
+    "tid_subcategories_213_name": "Ancient"
   },
   {
-    "tid_subcategories_121_name": "Dragons"
+    "tid_subcategories_43_name": "Flags"
   },
   {
-    "tid_trails_missions_title_event": "EVENT MISSIONS"
+    "tid_trails_boost_title": "BOOST"
   },
   {
-    "tid_dragon_trail_end_popup_desc": "Your next Dragon Trail is on its way – stay tuned!"
+    "tid_trails_helpvew_description3": "Want to move faster and earn more? Tap the Booster to spin with a multiplier for more Steps and bigger Rewards while speeding up your progress to big milestones!"
   },
   {
-    "tid_news_dragontrails_title": "DRAGON TRAILS"
+    "tid_vip_tier_avatar_frame": "Prestige Avatar Frame"
   },
   {
-    "tid_vip_tier_info_promotion": "{0} points to next tier. Reach it to get new benefits!"
+    "tid_vip_tier_demotion_description": "Oh no! You didn't reach the checkpoint and have been demoted from {1} to {0}"
   },
   {
-    "tid_vip_tier_got_it_button": "GOT IT!"
+    "tid_vip_tier_help_slide_2_content_1": "Reach Dragonlord I to enjoy Magical Deus Trading"
   },
   {
-    "tid_vip_tier_help_slide_1_content_desc": "You can enjoy your benefits for a whole cycle. Reach the checkpoint before the time runs out to secure the same benefits for the next one. For more information, check the FAQ in the DC website."
+    "tid_news_viptiers_header": "Gain exclusive Benefits for purchasing in the game, including cool new frames, additional gems and even the new Deus Trade!"
   },
   {
     "tid_news_titan_collection_teaser_desc": "The elemental forces are returning to Dragon City. Watch the teaser below to find out more about these new dragons. New skills and strengths are waiting to be unlocked!"
@@ -37416,34 +37416,34 @@
     "tid_pets_pet_name_3": "Lilly"
   },
   {
-    "tid_subcategories_17_name": "Metal"
+    "tid_subcategories_13_name": "Sea"
   },
   {
-    "tid_subcategories_23_name": "Sea"
+    "tid_subcategories_118_name": "Magic"
   },
   {
-    "tid_subcategories_218_name": "Magic"
+    "tid_subcategories_214_name": "Dream"
   },
   {
-    "tid_subcategories_122_name": "Others"
+    "tid_subcategories_44_name": "Others"
   },
   {
-    "tid_trails_resets_in": "Resets in:"
+    "tid_trails_boost_desc": "Spin with a multiplier for more Steps and bigger Rewards!"
   },
   {
-    "tid_dragon_trail_failed_popup_title": "CONNECTION ERROR"
+    "tid_trails_helpview_title4": "REWARD BAR"
   },
   {
-    "tid_news_dragontrails_header": "A new Dragon Trail has begun! Spin your way to success and move along the Trail to reach these Rewards and more."
+    "tid_vip_tier_deus_trading": "Magical Deus Trading"
   },
   {
-    "tid_vip_tier_info_max_tier": "Tier is secured. Good job Dragon Master!"
+    "tid_vip_tier_promotion_description": "Congratulations! You were promoted from {1} to {0}"
   },
   {
-    "tid_vip_tier_benefit_header": "Benefits"
+    "tid_vip_tier_help_slide_2_content_2": "Use Trading Essences to trade with Deus for any available Dragon Orbs you prefer"
   },
   {
-    "tid_vip_tier_help_title": "PRESTIGE TIERS"
+    "tid_news_viptiers_button": "CHECK IT OUT!"
   },
   {
     "tid_news_windows_crosspromo_icon": "PLAY ON MOBILE"
@@ -38565,7 +38565,7 @@
     "tid_skill_description_staineddreadsting_1": "Deals damage and poisons the target. The target takes damage at the end of each of its turns."
   },
   {
-    "tid_attack_name_stainedbelladone_3": "Dream Thorn"
+    "tid_attack_name_stainedBelladone_3": "Dream Thorn"
   },
   {
     "tid_unit_1012_description": "What happens when you set earth on fire? This dragon is one of the most energetic ones around. The Flaming Rock Dragon especially loves rock music and Mega-Chili Pops!"
@@ -44910,34 +44910,37 @@
     "tid_pets_pet_description_3": "This pastel puff of joy loves hiding enchanted eggs and surprising her dragon friends with sweet springtime magic. With her tiny horn and bouncy energy, she’s the perfect little companion to brighten any Dragon Master’s easter adventure!"
   },
   {
-    "tid_subcategories_18_name": "Dark"
+    "tid_subcategories_14_name": "Nature"
   },
   {
-    "tid_subcategories_24_name": "Nature"
+    "tid_subcategories_119_name": "Soul"
   },
   {
-    "tid_subcategories_219_name": "Soul"
+    "tid_subcategories_215_name": "Happy"
   },
   {
-    "tid_subcategories_91_name": "Offer"
+    "tid_subcategories_61_name": "Gold"
   },
   {
-    "tid_trails_timer_end": "Trail ends:"
+    "tid_trails_missions_title": "MISSIONS"
   },
   {
-    "tid_dragon_trail_failed_popup_desc": "There was an unexpected issue. Please try again later. If the situation persists, please contact Customer Support."
+    "tid_trails_helpvew_description4": "Each Spin also fills your Reward Bar! Reach Chests packed with bonus Rewards along the way. Keep spinning to unlock the final Grand Prize!"
   },
   {
-    "tid_dragon_trails_source": "Dragon Trails"
+    "tid_news_dragontrails_teaser_title": "COMING SOON!"
   },
   {
-    "tid_vip_tier_summary_popup_title": "ALL PRESTIGE TIERS"
+    "tid_vip_tier_check_tiers_button": "CHECK TIERS"
   },
   {
-    "tid_vip_tier_find_currency_title": "GET MORE PRESTIGE POINTS"
+    "tid_vip_tier_checkpoint_max_tier_description": "Congratulations! You reached the checkpoint and {0}"
   },
   {
-    "tid_vip_tier_maintained_tooltip": "Congrats! You manage to maintain the current tier. Enjoy your amazing benefits for another cycle."
+    "tid_vip_tier_help_slide_1_header": "What are they?"
+  },
+  {
+    "tid_vip_tier_prestigepoints": "Prestige Points"
   },
   {
     "tid_new_as_pure_slide2_desc": "Want to crush the Master Arenas? Find powerful dragons in the Shop to help you go all the way!"
@@ -46062,7 +46065,7 @@
     "tid_skill_name_staineddreadsting_1_skin_1": "Plague Sting"
   },
   {
-    "tid_attack_name_stainedbelladone_4": "Shadow Root"
+    "tid_attack_name_stainedBelladone_4": "Shadow Root"
   },
   {
     "tid_unit_1033_name": "Sea Dragon"
@@ -52410,34 +52413,34 @@
     "tid_pets_pet_name_4": "Chirpy"
   },
   {
-    "tid_subcategories_19_name": "Light"
+    "tid_subcategories_15_name": "Electric"
   },
   {
-    "tid_subcategories_25_name": "Electric"
+    "tid_subcategories_21_name": "Terra"
   },
   {
-    "tid_subcategories_32_name": "Farms"
+    "tid_subcategories_216_name": "Beauty"
   },
   {
-    "tid_subcategories_92_name": "New"
+    "tid_subcategories_62_name": "Food"
   },
   {
-    "tid_dragon_trail_ends": "Trail ends:"
+    "tid_trails_missions_title_daily": "DAILY MISSIONS"
   },
   {
-    "tid_dragon_trail_timeout_popup_title": "DRAGON TRAILS TIMEOUT"
+    "tid_dragon_trail_end_popup_title": "DRAGON TRAIL ENDED"
   },
   {
-    "tid_vip_tiers_name": "Prestige Tiers"
+    "tid_news_dragontrails_teaser_header": "A new Event Island is on its way to Dragon City! Reach the end of your Dragon Trail to earn the grand prize while accumulating Rewards along the way."
   },
   {
-    "tid_vip_tier_badge_ready": "READY"
+    "tid_vip_tier_info_checkpoint": "{0} points to checkpoint. Reach it to secure your tier next season!"
   },
   {
-    "tid_vip_tier_find_currency_description": "Obtain Prestige Points by making purchases and playing in Dragon City.\nHere are some places you can obtain Prestige Points:"
+    "tid_vip_tier_all_tiers_button": "SEE PRESTIGE TIERS"
   },
   {
-    "tid_vip_tier_points_obtained_desc": "Prestige obtained!"
+    "tid_vip_tier_help_slide_2_header": "Magical Deus Trading"
   },
   {
     "tid_new_expansionevent2_desc": "Got crowded islands? Well now’s the perfect time to expand! Get new expansions and unlock islands with a special discount. Don’t miss it!"
@@ -53565,7 +53568,7 @@
     "tid_skill_description_staineddreadsting_1_skin_1": "Deals damage and poisons the entire enemy team."
   },
   {
-    "tid_attack_name_stainedbelladone_3_trained": "Dream Thorn+"
+    "tid_attack_name_stainedBelladone_3_trained": "Dream Thorn+"
   },
   {
     "tid_unit_1033_description": "If you're into watersports, the Sea Dragon will be your new best friend! Sea Dragons have often been mistaken for seals or dolphins."
@@ -59901,34 +59904,34 @@
     "tid_pets_pet_description_4": "Don't let those tiny wings fool you, Chirpy's rainbow plumage means she's never hard to spot, and she wouldn't have it any other way. This cheerful little chick bounces through every island with a song in her beak and a streak of color in her wake. With a personality as bright as her feathers, she'll keep any Dragon Master's spirits soaring no matter the adventure!"
   },
   {
-    "tid_subcategories_110_name": "War"
+    "tid_subcategories_16_name": "Ice"
   },
   {
-    "tid_subcategories_26_name": "Ice"
+    "tid_subcategories_22_name": "Flame"
   },
   {
-    "tid_subcategories_33_name": "Crystals"
+    "tid_subcategories_217_name": "Chaos"
   },
   {
-    "tid_subcategories_120_name": "Primal"
+    "tid_subcategories_121_name": "Dragons"
   },
   {
-    "tid_trails_end_of_trail": "What a feat! You've reached the end of the trail! Now you can play again with new Rewards."
+    "tid_trails_missions_title_event": "EVENT MISSIONS"
   },
   {
-    "tid_dragon_trail_timeout_popup_desc": "There was an interruption in your internet connection, meaning the result of your Spin is unable to be shown."
+    "tid_dragon_trail_end_popup_desc": "Your next Dragon Trail is on its way – stay tuned!"
   },
   {
-    "tid_vip_tiers_popup_title": "PRESTIGE TIERS"
+    "tid_news_dragontrails_title": "DRAGON TRAILS"
   },
   {
-    "tid_vip_tier_badge_locked": "LOCKED"
+    "tid_vip_tier_info_promotion": "{0} points to next tier. Reach it to get new benefits!"
   },
   {
-    "tid_vip_tier_deus_trade_locked_button": "DEUS TRADE LOCKED"
+    "tid_vip_tier_got_it_button": "GOT IT!"
   },
   {
-    "tid_vip_tiers_cycle_about_to_end_notification_title": "⏳Your VIP benefits will expire soon"
+    "tid_vip_tier_help_slide_1_content_desc": "You can enjoy your benefits for a whole cycle. Reach the checkpoint before the time runs out to secure the same benefits for the next one. For more information, check the FAQ in the DC website."
   },
   {
     "tid_new_as_master_two_button": "GO TO SHOP"
@@ -61056,7 +61059,7 @@
     "tid_skill_name_staineddreadsting_2": "Last Stand"
   },
   {
-    "tid_attack_name_stainedbelladone_4_trained": "Shadow Root+"
+    "tid_attack_name_stainedBelladone_4_trained": "Shadow Root+"
   },
   {
     "tid_unit_1016_name": "Mud Dragon"
@@ -67392,34 +67395,34 @@
     "tid_pets_pet_name_5": "Gecko"
   },
   {
-    "tid_subcategories_111_name": "Pure"
+    "tid_subcategories_17_name": "Metal"
   },
   {
-    "tid_subcategories_27_name": "Metal"
+    "tid_subcategories_23_name": "Sea"
   },
   {
-    "tid_subcategories_34_name": "Breeding"
+    "tid_subcategories_218_name": "Magic"
   },
   {
-    "tid_trails_go_button_auto": "Hold for Auto"
+    "tid_subcategories_122_name": "Others"
   },
   {
-    "tid_trails_reward_claim_title": "YOU GOT A %s"
+    "tid_trails_resets_in": "Resets in:"
   },
   {
-    "tid_dragon_trail_no_response_popup_title": "CONNECTION ISSUE"
+    "tid_dragon_trail_failed_popup_title": "CONNECTION ERROR"
   },
   {
-    "tid_vip_tier_no_tier": "NO TIER"
+    "tid_news_dragontrails_header": "A new Dragon Trail has begun! Spin your way to success and move along the Trail to reach these Rewards and more."
   },
   {
-    "tid_vip_tier_deus_trading_button": "TRADE"
+    "tid_vip_tier_info_max_tier": "Tier is secured. Good job Dragon Master!"
   },
   {
-    "tid_vip_tier_deus_trade_button": "DEUS TRADE"
+    "tid_vip_tier_benefit_header": "Benefits"
   },
   {
-    "tid_vip_tiers_cycle_about_to_end_notification_message": "Secure your tier before then to keep all your benefits active ✨🐲"
+    "tid_vip_tier_help_title": "PRESTIGE TIERS"
   },
   {
     "tid_new_breeding_mountain_discount_50_desc": "Speed up your breedings and become a breeding pro! Now there’s a 50% discount on upgrading your breeding mountain. Check it out!"
@@ -74877,34 +74880,34 @@
     "tid_pets_pet_description_5": "Gecko might not be the most beautiful or the cutest pet in the universe, but this has not stopped him from caring about his master in his own unique ways."
   },
   {
-    "tid_subcategories_112_name": "Legend"
+    "tid_subcategories_18_name": "Dark"
   },
   {
-    "tid_subcategories_28_name": "Dark"
+    "tid_subcategories_24_name": "Nature"
   },
   {
-    "tid_subcategories_35_name": "Specials"
+    "tid_subcategories_219_name": "Soul"
   },
   {
-    "tid_trails_go_button_stop": "Tap to Stop"
+    "tid_subcategories_91_name": "Offer"
   },
   {
-    "tid_trails_helpview_title1": "DRAGON TRAILS"
+    "tid_trails_timer_end": "Trail ends:"
   },
   {
-    "tid_dragon_trail_no_response_popup_desc": "Dragon Trails requires an active internet connection to play."
+    "tid_dragon_trail_failed_popup_desc": "There was an unexpected issue. Please try again later. If the situation persists, please contact Customer Support."
   },
   {
-    "tid_vip_tier_group1": "BARON"
+    "tid_dragon_trails_source": "Dragon Trails"
   },
   {
-    "tid_vip_tier_deus_trading_locked": "Reach {} for a Deus trade"
+    "tid_vip_tier_summary_popup_title": "ALL PRESTIGE TIERS"
   },
   {
-    "tid_vip_tier_webstore_bonus": "Get 30% more Prestige Points by making your purchases on Webstore."
+    "tid_vip_tier_find_currency_title": "GET MORE PRESTIGE POINTS"
   },
   {
-    "tid_vip_tiers_benefit_expiration": "Benefits last until:"
+    "tid_vip_tier_maintained_tooltip": "Congrats! You manage to maintain the current tier. Enjoy your amazing benefits for another cycle."
   },
   {
     "tid_new_hatchery_upgrade_50_icon": "UPGRADE OFFER"
@@ -82368,34 +82371,34 @@
     "tid_pets_pet_name_6": "Cranky"
   },
   {
-    "tid_subcategories_113_name": "Ancient"
+    "tid_subcategories_19_name": "Light"
   },
   {
-    "tid_subcategories_29_name": "Light"
+    "tid_subcategories_25_name": "Electric"
   },
   {
-    "tid_subcategories_36_name": "Temples"
+    "tid_subcategories_32_name": "Farms"
   },
   {
-    "tid_trails_boost_tooltip": "Multiply your Steps!"
+    "tid_subcategories_92_name": "New"
   },
   {
-    "tid_trails_helpvew_description1": "Spin your way along the Trail! Each Spin grants you a certain number of Steps for you to advance and collect amazing Rewards!"
+    "tid_dragon_trail_ends": "Trail ends:"
   },
   {
-    "tid_news_dragontrails_techtest_title": "DRAGON TRAILS"
+    "tid_dragon_trail_timeout_popup_title": "DRAGON TRAILS TIMEOUT"
   },
   {
-    "tid_vip_tier_group2": "DUKE"
+    "tid_vip_tiers_name": "Prestige Tiers"
   },
   {
-    "tid_vip_tier_deus_trading_locked_long": "Reach {} to unlock and trade with Deus once per day"
+    "tid_vip_tier_badge_ready": "READY"
   },
   {
-    "tid_vip_tier_webstore_button": "GO TO WEB"
+    "tid_vip_tier_find_currency_description": "Obtain Prestige Points by making purchases and playing in Dragon City.\nHere are some places you can obtain Prestige Points:"
   },
   {
-    "tid_vip_tiers_hours_format": "1/{}"
+    "tid_vip_tier_points_obtained_desc": "Prestige obtained!"
   },
   {
     "tid_new_hatchery_upgrade_50_header": "HATCH EGGS LIKE A PRO"
@@ -89850,34 +89853,34 @@
     "tid_pets_pet_description_6": "With his trusty blue shell and big, sparkling green eyes, this little crustacean is anything but grumpy! Cranky might have a tough exterior, but he's a total softie who loves scuttling alongside his favorite Dragon Master, bringing a pinch of seaside charm to every adventure."
   },
   {
-    "tid_subcategories_114_name": "Dream"
+    "tid_subcategories_110_name": "War"
   },
   {
-    "tid_subcategories_210_name": "War"
+    "tid_subcategories_26_name": "Ice"
   },
   {
-    "tid_subcategories_301_name": "Wizards"
+    "tid_subcategories_33_name": "Crystals"
   },
   {
-    "tid_trails_moves_currency": "SPINS"
+    "tid_subcategories_120_name": "Primal"
   },
   {
-    "tid_trails_helpview_title2": "JACKPOTS"
+    "tid_trails_end_of_trail": "What a feat! You've reached the end of the trail! Now you can play again with new Rewards."
   },
   {
-    "tid_news_dragontrails_techtest_header": "Tap the new Event Island to try out a new feature: Dragon Trails! Earn Spins and move along the Trail to reach tons of Rewards. Remember that this feature is in its testing phase."
+    "tid_dragon_trail_timeout_popup_desc": "There was an interruption in your internet connection, meaning the result of your Spin is unable to be shown."
   },
   {
-    "tid_vip_tier_group3": "REGENT"
+    "tid_vip_tiers_popup_title": "PRESTIGE TIERS"
   },
   {
-    "tid_vip_tier_promotion_title": "PRESTIGE TIER UP"
+    "tid_vip_tier_badge_locked": "LOCKED"
   },
   {
-    "tid_vip_tier_help_slide_1_content_1": "Collect Prestige Points by making purchases"
+    "tid_vip_tier_deus_trade_locked_button": "DEUS TRADE LOCKED"
   },
   {
-    "tid_vip_tiers_plus_format": "+{}"
+    "tid_vip_tiers_cycle_about_to_end_notification_title": "⏳Your VIP benefits will expire soon"
   },
   {
     "tid_new_as_pure_slide2_title": "LEGENDARY ARENAS"
@@ -97329,31 +97332,34 @@
     "tid_pets_pet_name_7": "Purrbell"
   },
   {
-    "tid_subcategories_115_name": "Happy"
+    "tid_subcategories_111_name": "Pure"
   },
   {
-    "tid_subcategories_211_name": "Pure"
+    "tid_subcategories_27_name": "Metal"
   },
   {
-    "tid_subcategories_41_name": "Tiles"
+    "tid_subcategories_34_name": "Breeding"
   },
   {
-    "tid_dragon_trail_moves": "SPINS"
+    "tid_trails_go_button_auto": "Hold for Auto"
   },
   {
-    "tid_trails_helpvew_description2": "Land on the Jackpot for a huge boost along the Trail and land on special tiles to find special Rewards!"
+    "tid_trails_reward_claim_title": "YOU GOT A %s"
   },
   {
-    "tid_vip_tier_group4": "DRAGONLORD"
+    "tid_dragon_trail_no_response_popup_title": "CONNECTION ISSUE"
   },
   {
-    "tid_vip_tier_demotion_title": "PRESTIGE CYCLE RESET"
+    "tid_vip_tier_no_tier": "NO TIER"
   },
   {
-    "tid_vip_tier_help_slide_1_content_2": "Increase your Prestige Tier"
+    "tid_vip_tier_deus_trading_button": "TRADE"
   },
   {
-    "tid_vip_tiers_plus_percentage_format": "+{}%"
+    "tid_vip_tier_deus_trade_button": "DEUS TRADE"
+  },
+  {
+    "tid_vip_tiers_cycle_about_to_end_notification_message": "Secure your tier before then to keep all your benefits active ✨🐲"
   },
   {
     "tid_new_as_pure_slide2_button": "GO TO SHOP"
@@ -104811,34 +104817,34 @@
     "tid_pets_pet_description_7": "With his plush turquoise coat, swirling leaf-shaped tail, and huge glimmering eyes, this little kitten looks ready to pounce on adventure! Purrbell may seem like a bundle of energy, but he's a gentle soul at heart, happily trotting beside his favorite Dragon Master and sprinkling a bit of woodland wonder wherever he goes."
   },
   {
-    "tid_subcategories_11_name": "Terra"
+    "tid_subcategories_112_name": "Legend"
   },
   {
-    "tid_subcategories_116_name": "Joy"
+    "tid_subcategories_28_name": "Dark"
   },
   {
-    "tid_subcategories_212_name": "Legend"
+    "tid_subcategories_35_name": "Specials"
   },
   {
-    "tid_subcategories_42_name": "Plants"
+    "tid_trails_go_button_stop": "Tap to Stop"
   },
   {
-    "tid_trails_moves_currency_steps": "STEPS"
+    "tid_trails_helpview_title1": "DRAGON TRAILS"
   },
   {
-    "tid_trails_helpview_title3": "BOOSTER"
+    "tid_dragon_trail_no_response_popup_desc": "Dragon Trails requires an active internet connection to play."
   },
   {
-    "tid_vip_tier_benefits": "{0} {1} Benefits"
+    "tid_vip_tier_group1": "BARON"
   },
   {
-    "tid_vip_tier_checkpoint_max_tier_title": "PRESTIGE TIER SECURED!"
+    "tid_vip_tier_deus_trading_locked": "Reach {} for a Deus trade"
   },
   {
-    "tid_vip_tier_help_slide_1_content_3": "Enjoy exclusive benefits"
+    "tid_vip_tier_webstore_bonus": "Get 30% more Prestige Points by making your purchases on Webstore."
   },
   {
-    "tid_news_viptiers_title": "PRESTIGE TIERS ARE HERE!"
+    "tid_vip_tiers_benefit_expiration": "Benefits last until:"
   },
   {
     "tid_new_pvpsurvey_icon": "SURVEY"
@@ -105957,7 +105963,7 @@
     "tid_attack_name_stainedsharpfang_3": "Frozen Soul"
   },
   {
-    "id_skill_name_stainedbelladone_1": "Venom Bloom"
+    "tid_skill_name_stainedbelladone_1": "Venom Bloom"
   },
   {
     "tid_unit_1011_description": "Don't be afraid! That's not an earthquake, just a dignified Terra Dragon out for a walk. Terra Dragons are known for their love of dirt and extremely humble and honest nature."
@@ -112290,33 +112296,33 @@
     "tid_pets_pet_name_8": "Frogstein"
   },
   {
-    "tid_subcategories_12_name": "Flame"
+    "tid_subcategories_113_name": "Ancient"
   },
   {
-    "tid_subcategories_117_name": "Chaos"
+    "tid_subcategories_29_name": "Light"
   },
   {
-    "tid_subcategories_213_name": "Ancient"
+    "tid_subcategories_36_name": "Temples"
   },
   {
-    "tid_subcategories_43_name": "Flags"
+    "tid_trails_boost_tooltip": "Multiply your Steps!"
   },
   {
-    "tid_trails_boost_title": "BOOST"
+    "tid_trails_helpvew_description1": "Spin your way along the Trail! Each Spin grants you a certain number of Steps for you to advance and collect amazing Rewards!"
   },
   {
-    "tid_trails_helpvew_description3": "Want to move faster and earn more? Tap the Booster to spin with a multiplier for more Steps and bigger Rewards while speeding up your progress to big milestones!"
+    "tid_news_dragontrails_techtest_title": "DRAGON TRAILS"
   },
   {
-    "tid_vip_tier_avatar_frame": "Prestige Avatar Frame"
+    "tid_vip_tier_group2": "DUKE"
   },
   {
-    "tid_vip_tier_demotion_description": "Oh no! You didn't reach the checkpoint and have been demoted from {1} to {0}"
+    "tid_vip_tier_deus_trading_locked_long": "Reach {} to unlock and trade with Deus once per day"
   },
   {
-    "tid_vip_tier_help_slide_2_content_1": "Reach Dragonlord I to enjoy Magical Deus Trading"
+    "tid_vip_tier_webstore_button": "GO TO WEB"
   },
   {
-    "tid_news_viptiers_header": "Gain exclusive Benefits for purchasing in the game, including cool new frames, additional gems and even the new Deus Trade!"
+    "tid_vip_tiers_hours_format": "1/{}"
   }
 ]
