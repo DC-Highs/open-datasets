@@ -82482,6 +82482,9 @@
     "tid_pvp_arenas_victorychest_description": "You earn a Victory Chest every time you win a battle. The higher the Arena, the better the Rewards!"
   },
   {
+    "tid_arenas_boosted_dragons_popup_description": "These dragons are boosted in Arenas for a limited time!"
+  },
+  {
     "tid_frame_vip_tier_baron": "Baron Frame"
   },
   {
