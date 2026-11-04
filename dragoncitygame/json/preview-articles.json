@@ -1,5 +1,11 @@
 [
   {
+    "slug": "upcoming-events-november-2026",
+    "createdAt": "2026-11-04T00:00:00.000+02:00",
+    "title": "UPCOMING EVENTS: NOVEMBER 2026",
+    "thumbnailUrl": "https://images.ctfassets.net/7qho9llfhoio/6YHQsIeNIyO9xvp4Zabydn/abfc5f6073db151b31e8c86a30e039b6/Screenshot_2026-11-04_at_11.03.44.png"
+  },
+  {
     "slug": "upcoming-events-september-2026",
     "createdAt": "2026-09-01T00:00:00.000+02:00",
     "title": "UPCOMING EVENTS: SEPTEMBER 2026",
@@ -678,6 +684,12 @@
     "thumbnailUrl": "https://images.ctfassets.net/7qho9llfhoio/1N658T5TWto5t9hK90OqD3/b0a5ac3ea621d8a0efa4a23389f47c1f/1920x1080_News_April.jpg"
   },
   {
+    "slug": "upcoming-events-november-2026",
+    "createdAt": "2026-11-04T00:00:00.000+02:00",
+    "title": "UPCOMING EVENTS: NOVEMBER 2026",
+    "thumbnailUrl": "https://images.ctfassets.net/7qho9llfhoio/6YHQsIeNIyO9xvp4Zabydn/abfc5f6073db151b31e8c86a30e039b6/Screenshot_2026-11-04_at_11.03.44.png"
+  },
+  {
     "slug": "upcoming-events-september-2026",
     "createdAt": "2026-09-01T00:00:00.000+02:00",
     "title": "UPCOMING EVENTS: SEPTEMBER 2026",
@@ -958,11 +970,5 @@
     "createdAt": "2024-12-28T12:00:00.000+01:00",
     "title": "UPCOMING EVENTS: January 2025",
     "thumbnailUrl": "https://images.ctfassets.net/7qho9llfhoio/4I0Kg9A868gkPhPSgXX6dj/137ec80bee32eafd603f9cdb4a0fcd24/splash_mobile.jpg"
-  },
-  {
-    "slug": "the-hunt-is-on-discover-the-collectors-hunt",
-    "createdAt": "2024-12-18T12:00:00.000+01:00",
-    "title": "THE HUNT IS ON: DISCOVER THE COLLECTOR’S HUNT",
-    "thumbnailUrl": "https://images.ctfassets.net/7qho9llfhoio/3xUFELLXYmyOr705R1bjPQ/41febf4c2b5fb192ba3d148a09a55b30/CH_Wesbtore_1.jpg"
   }
 ]
